@@ -19,7 +19,8 @@ Kadang saya nemu curhatan remaja – remaja tentang kerasnya hidup, sehingga dia
 Sebenarnya orang mau bunuh diri bukan ingin mati, tetapi mereka tidak tahu cara menyelesaikan masalah yang dihadapi.
 
 Saya bosan mendengarkan orang ingin mati kalau boleh jujur. Daripada mencari cara atau dalil validasi keinginan itu, lebih baik mencari cara menyelesaikan masalah.
-Masalah saya banyak, kok ndak ilang ilang..
+
+## Masalah saya banyak, kok ndak ilang ilang..
 
 Siswa zaman sekarang mudah stress. Entah tuntutan orang tua, nilai yang jelek, dan masih banyak lagi.
 
@@ -36,7 +37,8 @@ Padahal kalau mau serius, bisa jadi sumber masalah adalah di dia sendiri.
 Dia tidak pernah belajar, sehingga nilainya jelek. Bukannya lebih keras lagi belajarnya, malah menyalahkan pendidikan Indonesia yang jauh lebih kompleks daripada lainnya, sebut saja Eropa.
 
 Kebanyakan orang jago buat nyalahin, tapi gak pernah intropeksi diri.
-Jangan Ngelakuin Bunuh Diri
+
+## Jangan Ngelakuin Bunuh Diri
 
 Hidup memang berat, bukan berarti selamanya. Jika terasa banyak masalah, mari kita intropeksi.
 
