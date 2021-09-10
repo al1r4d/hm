@@ -1,0 +1,22 @@
+<!-- Needed for the "current" class -->
+{% assign current = page.url | downcase | split: '/' %}
+
+<header>
+
+    <div class="wrapper">
+        
+        <h2 class="left"><a href="{{ site.url }}">{{ site.name }}</a></h2>
+
+        <nav class="right">
+            <ul>
+                <li><a href="/weblog" {% if current[1] == "weblog" %}class="current"{% endif %} >Weblog</a></li>
+               <li><a href="/tentang" {% if current[1] == "tentang" %}class="current"{% endif %} >Tentang</a></li>
+            </ul>
+        </nav> 
+
+        <div style="clear:both;"></div>
+
+    </div>
+
+</header>
+

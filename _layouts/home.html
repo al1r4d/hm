@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<section class="home">
+    
+    <p>Sebuah mirror dari Blog Radhitya Mengobrol <a href="/about">Lebih Lanjut</a>.</p>
+
+    <h2>Latest posts</h2>
+    <ul>
+        {% for post in paginator.posts limit:5 %}
+            <li>
+                <div class="date">{{ post.date | date: "%Y-%m-%d" }}</div>
+                <a class="span" href="{{ site.path }}{{ post.url }}">{{ post.title }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+    <p><a href="/weblog">Semua Postingan&rarr;</a></p>
+
+</section>
