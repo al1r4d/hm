@@ -4,11 +4,12 @@ layout: page
 permalink: /tentang
 ---
 
-Saya Alif Radhitya, di Internet lebih dikenal sebagai Radhitya. Pelajar yang tertarik di dunia free open source software.
+## Author
+Secara singkat, **radhitya** adalah nama yang sering digunakan. Seorang pelajar yang menggemari Free Libre Open Source Software.
 
-Sebagian orang mengenal saya sebagai optimis, nekat, tampil beda, dan baik.
+## Mirror Blog
+Blog ini adalah mirror dari blog utama yang menggunakan jekyll sebagai program dan berdiri di server Github. Secara singkat, tempat ini adalah media eksperimen.
 
-	Nyesal nekad daripada nyesal penasaran
+Minimalis diterapkan disini, nol script yang memberatkan.
 
-Blog ini adalah arsip catatan pribadi, karena menulis adalah salah satu hobi saya. Bagi saya menulis di kertas adalah kuno, sudah saatnya membuat blog pribadi.
-
+Privasi sangat dihargai, tidak ada kode - kode berbahaya. Bahkan javascript tidak hadir disini. Cocok dibuka di browser mana saja, terutama GNU Icecat.
