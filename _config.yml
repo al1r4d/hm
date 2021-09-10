@@ -2,7 +2,7 @@ name: ard
 description: "Mirror Blog Radhitya"
 url: "https://mirror.radhitya.mengobrol.com"
 
-paginate: 5
+paginate: 3
   # permalink: /:title.html
 paginate_path: "/weblog/page:num/"
 

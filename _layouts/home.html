@@ -5,8 +5,8 @@ layout: default
 <section class="home">
     
     <p>Ada banyak yang ingin saya katakan. Blog ini adalah perantaranya.</p> 
-    <p>Ini adalah mirror dari blog utama, selengkapnya <a href="/about">disini</a>.</p>
-    <h2>Latest posts</h2>
+    <p>Ini adalah mirror dari blog utama, selengkapnya <a href="/tentang">disini</a>.</p>
+    <h2>Kumpulan Postingan</h2>
     <ul>
         {% for post in paginator.posts limit:5 %}
             <li>
@@ -14,8 +14,7 @@ layout: default
                 <a class="span" href="{{ site.path }}{{ post.url }}">{{ post.title }}</a>
             </li>
         {% endfor %}
-    </ul>
-    <p><a href="/weblog">Semua Postingan&rarr;</a></p>
+    </ul> 
 
     {% include pagination.html %}
 </section>
