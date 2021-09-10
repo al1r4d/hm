@@ -2,11 +2,9 @@ name: ard
 description: "Mirror Blog Radhitya"
 url: "https://mirror.radhitya.mengobrol.com"
 
-links:
-  mastodon: https://mastodon.social/@radhitya
-
-paginate: 10
-permalink: /:title.html
+paginate: 2
+  # permalink: /:title.html
+paginate_path: "/weblog/page:num/"
 
 kramdown:
   input: GFM
@@ -27,6 +25,7 @@ feed:
   posts_limit: 100
 
 exclude:
+  - pages
   - Gemfile
   - Gemfile.lock
   - LICENSE
@@ -40,5 +39,5 @@ exclude:
   - drafts_backup
   - "00-ÖVERSÄTTA"
 
-include: ['_pages', '_pages/bookmarks']
+include: ['_pages',]
 exclude: ['drafts', 'posts', '00-ÖVERSÄTTA']

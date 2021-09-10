@@ -7,17 +7,3 @@ layout: default
     <div class="date">{{ page.date | date: "%-A, %-B %-d, %-Y" }}</div>
     <p>{{ content }}</p>
 </article>
-
-
-<div class="relatedPosts">
-
-<section class="meta">
-
-        {% if page.previous.url %}
-            <li>Previous post: <a href="{{page.previous.url}}">{{page.previous.title}}</a></li>
-        {% endif %}
-        {% if page.next.url %}
-            <li>Next post: <a href="{{page.next.url}}">{{page.next.title}}</a></li>
-        {% endif %}
-
-    </section>
