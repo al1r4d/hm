@@ -4,7 +4,7 @@ layout: page
 permalink: /tentang
 ---
 
-Saya Alif Radhitya Wardana, di Internet lebih dikenal sebagai Radhitya. Pelajar yang tertarik di dunia free open source software.
+Saya Alif Radhitya, di Internet lebih dikenal sebagai Radhitya. Pelajar yang tertarik di dunia free open source software.
 
 Sebagian orang mengenal saya sebagai optimis, nekat, tampil beda, dan baik.
 
