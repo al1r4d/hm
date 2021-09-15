@@ -21,17 +21,29 @@
 
 
 <header>
+<script>
+	var warning = document.createElement('p'), check = document.createElement('a'), label = document.createElement('label');
 
-    <div class="wrapper">
-        
-        <h2 class="left"><a href="https://mirror.radhitya.mengobrol.com">ard</a></h2>
+	document.body.prepend(label);
+	document.body.prepend(check);
+	document.body.prepend(warning);
+	warning.innerHTML = '<div class="wrapper"><center><strong>Anda telah mengaktifkan javascript yang kemungkinan <a href="https://www.gnu.org/philosophy/javascript-trap.html">berbahaya</a>. Untuk melindungi privasi, cobalah <a href="https://duckduckgo.com/?q=how+to+turn+off+javascript+in+browser">menonaktifkan javascript</a>.</strong></center></div>';
+</script>
+
+	<div class="wrapper">
+
+
+        <h2 class="left"><a href="/">ard</a></h2>
 
         <nav class="right">
             <ul>
                 <li><a href="/tentang"  >Tentang</a></li>
             <li><a href="/dukung"  >Dukung</a></li>
-            </ul>
-        </nav> 
+            <li><a href="/mendesak"  >Mendesak</a></li>
+	    </ul>
+        
+	</nav> 
+
 
         <div style="clear:both;"></div>
 
