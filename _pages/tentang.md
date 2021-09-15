@@ -12,4 +12,4 @@ Blog ini adalah mirror dari blog utama yang menggunakan jekyll sebagai program d
 
 Minimalis diterapkan disini, nol script yang memberatkan.
 
-Privasi sangat dihargai, tidak ada kode - kode berbahaya. Bahkan javascript tidak hadir disini. Cocok dibuka di browser mana saja, terutama GNU Icecat.
+Privasi sangat dihargai, tidak ada kode - kode berbahaya. Cocok dibuka di browser mana saja, terutama GNU Icecat.
