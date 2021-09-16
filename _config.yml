@@ -1,6 +1,6 @@
 name: ard
 description: "meaningless blog"
-url: "https://mirror.radhitya.mengobrol.com"
+url: "https://radhitya.mengobrol.com"
 
 paginate: 5
   # permalink: /:title.html
