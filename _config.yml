@@ -3,7 +3,7 @@ description: "meaningless blog"
 url: "https://mirror.radhitya.mengobrol.com"
 
 paginate: 5
-  # permalink: /:title.html
+permalink: /:title.html
 paginate_path: "/weblog/page:num/"
 
 kramdown:
