@@ -136,7 +136,7 @@ nav li .current {
 /* Content
 /*------------------------------*/
 .page-content, .wrapper {
-  max-width: 500px;
+  max-width: 760px;
   margin: 0 auto;
   padding: 0 1em;
 }
