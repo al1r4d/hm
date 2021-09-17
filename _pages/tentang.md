@@ -9,6 +9,12 @@ Secara singkat, **radhitya** adalah nama yang sering digunakan. Seorang pelajar 
 
 Dikenal sebagai pribadi yang optimis, tampil beda, dan nekad. Berusaha berubah menjadi lebih baik setiap hari.
 
+Sangat diperbolehkan menghubungi saya! Mungkin bicara tentang linux, free software, teknologi, sejarah, atau apapun.
+
+- Mastodon 	: [@radhitya@mastodon.social](https://mastodon.social/radhitya)
+- Telegram 	: [@radhityax](https://t.me/radhityax)
+- Email		: Segera
+
 ## Kenapa Membuat Blog?
 Sederhananya, blog adalah media tulis yang saya gunakan. Karena teknologi semakin besar, mulailah imigrasi ke blog. Lagipula buku sudah kuno, saatnya membuat blog!
 

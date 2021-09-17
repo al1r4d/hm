@@ -1,6 +1,6 @@
 ---
 title: Mendesak
-layout: post
+layout: page
 permalink: /mendesak
 ---
 
