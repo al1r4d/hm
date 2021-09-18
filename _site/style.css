@@ -65,7 +65,7 @@ header h2 {
 }
 
 header h2::before {
-  content: "~/";
+  content: "root@";
   color: #7E9F5B;
 }
 

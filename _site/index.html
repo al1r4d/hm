@@ -22,45 +22,6 @@
 
 <header>
 
-<<<<<<< HEAD
-=======
-<script>
-/*    
-        @licstart  The following is the entire license notice for the 
-        JavaScript code in this page.
-
-        Copyright (C) jahoti.tilde.team modified by Alif Radhitya 
-
-        The JavaScript code in this page is free software: you can
-       	redistribute it and/or modify it under the terms of the GNU
-        General Public License (GNU GPL) as published by the Free Software
-        Foundation, either version 3 of the License, or (at your option)
-        any later version.  The code is distributed WITHOUT ANY WARRANTY;
-        without even the implied warranty of MERCHANTABILITY or FITNESS
-        FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
-
-        As additional permission under GNU GPL version 3 section 7, you
-        may distribute non-source (e.g., minimized or compacted) forms of
-        that code without the copy of the GNU GPL normally required by
-        section 4, provided you include this license notice and a URL
-        through which recipients can access the Corresponding Source.   
-
-
-        @licend  The above is the entire license notice
-        for the JavaScript code in this page.
-        */
-</script>
-
-	<script>
-	var warning = document.createElement('p'), check = document.createElement('a'), label = document.createElement('label');
-
-	document.body.prepend(label);
-	document.body.prepend(check);
-	document.body.prepend(warning);
-	warning.innerHTML = '<div class="wrapper"><center><strong>Anda telah mengaktifkan javascript yang kemungkinan <a href="https://www.gnu.org/philosophy/javascript-trap.html">berbahaya</a>. Untuk melindungi privasi, cobalah <a href="https://www.gnu.org/software/librejs/index.html">menggunakan LibreJS</a>.</strong></center></div>';
-</script>
-
->>>>>>> f9457e632304f48df1baf2949cdf68a40462d90b
 	<div class="wrapper">
 
 
@@ -84,11 +45,56 @@
 
 <main class="page-content">
             <section class="home">
-    
+<!-- Html Elements for Search -->
+<div id="search-container">
+	<h2> Kolom Pencarian </h2>
+	<p> Ketik apa yang ingin dicari </p>
+<input type="text" id="search-input" placeholder="Ketik apa yang ingin dicari">
+<ul id="results-container"></ul>
+</div>
+
+<!-- Script pointing to search-script.js -->
+<script>
+/*    
+        @licstart  The following is the entire license notice for the 
+        JavaScript code in this page.
+
+        Copyright (C) Alif Radhitya 
+
+        The JavaScript code in this page is free software: you can
+       	redistribute it and/or modify it under the terms of the GNU
+        General Public License (GNU GPL) as published by the Free Software
+        Foundation, either version 3 of the License, or (at your option)
+        any later version.  The code is distributed WITHOUT ANY WARRANTY;
+        without even the implied warranty of MERCHANTABILITY or FITNESS
+        FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+        As additional permission under GNU GPL version 3 section 7, you
+        may distribute non-source (e.g., minimized or compacted) forms of
+        that code without the copy of the GNU GPL normally required by
+        section 4, provided you include this license notice and a URL
+        through which recipients can access the Corresponding Source.   
+
+
+        @licend  The above is the entire license notice
+        for the JavaScript code in this page.
+        */
+</script>
+<script src="simple-jekyll-search.min.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: 'search.json'
+})
+</script>
+
+	<h2> Kumpulan Postingan </h2>
     <p>Ada banyak yang ingin saya katakan. Blog ini adalah perantaranya.</p>
 
-    <h2>Kumpulan Postingan</h2>
-    <ul>
+        <ul>
         
             <li>
                 <div class="date">2021-09-17</div>
