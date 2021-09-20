@@ -11,7 +11,7 @@ Dikenal sebagai pribadi yang optimis, tampil beda, dan nekad. Berusaha berubah m
 
 Sangat diperbolehkan menghubungi saya! Mungkin bicara tentang linux, free software, teknologi, sejarah, atau apapun.
 
-- Mastodon 	: [@radhitya@mastodon.social](https://mastodon.social/radhitya)
+- Mastodon 	: [@radhitya@mastodon.social](https://mastodon.social/@radhitya)
 - Telegram 	: [@radhityax](https://t.me/radhityax)
 - Email		: Segera
 
