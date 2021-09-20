@@ -4,6 +4,7 @@
 
 html {
     font-family: monospace;
+    font-size: 16px;
     background: $white;
     @include mobile {
         font-size: 18px;
