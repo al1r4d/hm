@@ -3,7 +3,7 @@
 @import "variables";
 
 html {
-    font-family: Sans-serif;
+    font-family: monospace;
     background: $white;
     @include mobile {
         font-size: 18px;
