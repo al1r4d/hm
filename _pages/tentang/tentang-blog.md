@@ -9,6 +9,9 @@ Sederhananya, blog adalah media tulis yang saya gunakan. Karena teknologi semaki
 Ada banyak yang ingin saya katakan dan tuliskan, blog ini adalah perantaranya. Kata Pak **Pramoedya Ananta Toer**, "Orang boleh pandai setinggi langit, tapi selama ia tidak menulis, ia akan hilang di dalam masyarakat dan dari sejarah. Menulis adalah bekerja untuk keabadian."
 
 ## Apa dibelakang blog ini?
+![Dibelakang](https://i.ibb.co/M1GN4dk/image.png)
+<center><p><i>Ditulis dengan Neovim dan dicoba menggunakan GNU Icecat</i></p></center>
+
 Blog ini dibuat dengan Jekyll yang menggunakan Github Pages, sebelumnya dibuat dari Wordpress. Alasan pindah karena penasaran, karena ingin belajar akhirnya memutuskan migrasi.
 
 Desain mengusung tema minimalis sehingga terlihat sederhana dan serba teks. Rasanya sama seperti membaca buku catatan.
