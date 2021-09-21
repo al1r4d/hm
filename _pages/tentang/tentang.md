@@ -17,11 +17,6 @@ Sangat diperbolehkan menghubungi saya! Mungkin bicara tentang linux, free softwa
 
 ## Lebih Lanjut
 
-- [/tentang/blog](/tentang/blog) - Tentang Blog
-
-## dukung
-jika anda menyukai konten yang saya buat (tidak disini saja, tapi ditempat lain) bisa mengikuti beberapa opsi :
-- kirim pesan ke saya. sangat menyenangkan sekali jika mendapat pesan dari seseorang.
-- gunakan kode referral [idcloudhost](https://console.idcloudhost.com/referral/p2n8x9) saya : `p2n8x9`
-- lewat [saweria](https://saweria.co/foss)
-- koin bat
+- [/tentang/blog](/tentang/blog) 	- Tentang Blog
+- [/tentang/dukung](/tentang/dukung) 	- Dukungan
+- [/tentang/jawaban](/tentang/jawaban) 	- Jawaban dari kebanyakan pertanyaan
