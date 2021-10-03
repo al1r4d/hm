@@ -1,5 +1,6 @@
 ---
 title: Kenapa Saya Tidak Menggunakan Medium?
+description : Berhenti gunakan Medium, beralih ke yang lain.
 layout: post
 ---
 
