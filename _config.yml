@@ -18,11 +18,21 @@ feed:
 sass:
   style: :expanded
 
+jekyll-archives:
+  enabled:
+    - categories
+  layout:
+    category: arsip
+  permalink: 
+    categories: '/arsip/categories/:name/'
+  slug_mode: latin
+
 plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-archives
 
 feed:
   posts_limit: 100
