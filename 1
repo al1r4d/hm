@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+
+<section class="home">
+<!-- Html Elements for Search -->
+	<h2> Berlangganan? </h2>
+	<p>Dapatkan postingan terbaru lewat <a href="/feed.xml">rss</a></p>
+	<h2> Kumpulan Postingan </h2>
+	<p>Ada banyak yang ingin saya katakan yang terbagi menjadi <a href="/category/catatan">Catatan</a>. Blog ini adalah perantaranya</p>
+
+        <ul>
+        {% for post in paginator.posts limit:5 %}
+            <li>
+                <div class="date">{{ post.date | date: "%Y-%m-%d" }}</div>
+                <a class="span" href="{{ site.path }}{{ post.url }}">{{ post.title }}</a>
+            </li>
+        {% endfor %}
+    </ul> 
+
+    {% include pagination.html %}
+</section>

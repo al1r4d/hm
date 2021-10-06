@@ -21,10 +21,9 @@ sass:
 jekyll-archives:
   enabled:
     - categories
-  layout:
-    category: arsip
+  layout: archive
   permalink: 
-    categories: '/arsip/categories/:name/'
+    category: '/archives/categories/:name/'
   slug_mode: latin
 
 plugins:
@@ -51,6 +50,7 @@ exclude:
   - drafts
   - drafts_backup
   - "00-ÖVERSÄTTA"
+  - layout
 
 include: ['_pages',]
 exclude: ['drafts', 'posts', '00-ÖVERSÄTTA']

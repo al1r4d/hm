@@ -1,6 +1,7 @@
 ---
 title : Pelajar Sekarang
 layout : post
+categories: catatan
 ---
 
 Semakin hari, hidup semakin kompleks. Saya tidak pernah membayangkannya ini.

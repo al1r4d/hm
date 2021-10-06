@@ -1,6 +1,7 @@
 ---
 title: Kontribusi
 layout: post
+categories: catatan
 ---
 
 Hidup di sebuah lingkungan hebat tak jarang membuat terlena. Terlena tentang kebesaran, kebangaan, kehebatan, dan ke-lainnya. Tulisan ini tercipta selama saya hidup di lingkungan hebat itu, meskipun belum sepenuhnya lulus.
