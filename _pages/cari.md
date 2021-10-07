@@ -3,30 +3,21 @@ title: Pencarian
 layout: default
 permalink: /cari
 ---
-<div id="search-container">
-	<h2> Kolom Pencarian </h2>
-	<p> Ketik apa yang ingin dicari </p>
-<input type="text" id="search-input" placeholder="Ketik apa yang ingin dicari">
-<ul id="results-container"></ul>
+
+<div id="archives">
+{% for category in site.categories %}
+  <div class="archive-group">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <div id="#{{ category_name | slugize }}"></div>
+    <p></p>
+
+    <h3 class="category-head">{{ category_name }}</h3>
+    <a name="{{ category_name | slugize }}"></a>
+    {% for post in site.categories[category_name] %}
+    <article class="archive-item">
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+    </article>
+    {% endfor %}
+  </div>
+{% endfor %}
 </div>
-
-<!-- Script pointing to search-script.js -->
-<script>
-// @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt MIT
-// @license-end
-</script>
-<script src="simple-jekyll-search.min.js" type="text/javascript"></script>
-
-<!-- Configuration -->
-<script>
-// @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt MIT
-	SimpleJekyllSearch({
-  searchInput: document.getElementById('search-input'),
-  resultsContainer: document.getElementById('results-container'),
-  json: 'search.json'
-})
-// @license-end
-</script>
-
-
-

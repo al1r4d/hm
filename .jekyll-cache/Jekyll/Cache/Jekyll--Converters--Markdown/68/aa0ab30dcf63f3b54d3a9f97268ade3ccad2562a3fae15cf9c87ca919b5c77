@@ -1,0 +1,74 @@
+I"H<div id="archives">
+
+  <div class="archive-group">
+    
+    <div id="#catatan"></div>
+    <p></p>
+
+    <h3 class="category-head">catatan</h3>
+    <a name="catatan"></a>
+    
+    <article class="archive-item">
+      <h4><a href="/ironi-reformasi">Ironi Reformasi - Bagian Korupsi</a></h4>
+    </article>
+    
+    <article class="archive-item">
+      <h4><a href="/kontribusi">Kontribusi</a></h4>
+    </article>
+    
+    <article class="archive-item">
+      <h4><a href="/pelajar-sekarang">Pelajar Sekarang</a></h4>
+    </article>
+    
+    <article class="archive-item">
+      <h4><a href="/beli-dagangan-pinggiran">Beli Dagangan Pinggiran</a></h4>
+    </article>
+    
+    <article class="archive-item">
+      <h4><a href="/permulaan">Realis</a></h4>
+    </article>
+    
+  </div>
+
+  <div class="archive-group">
+    
+    <div id="#coretan"></div>
+    <p></p>
+
+    <h3 class="category-head">coretan</h3>
+    <a name="coretan"></a>
+    
+    <article class="archive-item">
+      <h4><a href="/dibawah">Di bawah</a></h4>
+    </article>
+    
+  </div>
+
+  <div class="archive-group">
+    
+    <div id="#cerita"></div>
+    <p></p>
+
+    <h3 class="category-head">cerita</h3>
+    <a name="cerita"></a>
+    
+    <article class="archive-item">
+      <h4><a href="/kenapa-saya-tidak-menggunakan-medium">Kenapa Saya Tidak Menggunakan Medium?</a></h4>
+    </article>
+    
+    <article class="archive-item">
+      <h4><a href="/forum-gen">Forum Gen</a></h4>
+    </article>
+    
+    <article class="archive-item">
+      <h4><a href="/generasi-nunduk">Generasi Nunduk</a></h4>
+    </article>
+    
+  </div>
+
+<div>
+
+
+</div>
+</div>
+:ET

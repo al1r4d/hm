@@ -1,0 +1,38 @@
+I"<div id="archives">
+
+  <div class="archive-group">
+    
+    <div id="#catatan"></div>
+    <p></p>
+
+    <h3 class="category-head">catatan</h3>
+    <a name="catatan"></a>
+    
+  </div>
+
+  <div class="archive-group">
+    
+    <div id="#coretan"></div>
+    <p></p>
+
+    <h3 class="category-head">coretan</h3>
+    <a name="coretan"></a>
+    
+  </div>
+
+  <div class="archive-group">
+    
+    <div id="#cerita"></div>
+    <p></p>
+
+    <h3 class="category-head">cerita</h3>
+    <a name="cerita"></a>
+    
+  </div>
+
+<div>
+
+
+</div>
+</div>
+:ET
