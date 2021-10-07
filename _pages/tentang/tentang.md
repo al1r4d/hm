@@ -3,7 +3,7 @@ title: Tentang
 layout: page
 permalink: /tentang
 ---
-Sedikit informasi yang saya tuliskan :)
+
 ## Author
 Secara singkat, **radhitya** adalah nama yang sering digunakan. Seorang pelajar yang menggemari Free Libre Open Source Software.
 
@@ -13,7 +13,6 @@ Sangat diperbolehkan menghubungi saya! Mungkin bicara tentang linux, free softwa
 
 - Mastodon 	: [@radhitya@mastodon.social](https://mastodon.social/@radhitya)
 - Telegram 	: [@radhityax](https://t.me/radhityax)
-- Email		: Segera
 
 ## Lebih Lanjut
 
