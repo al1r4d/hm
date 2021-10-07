@@ -7,8 +7,7 @@ layout: default
 <!-- Html Elements for Search -->
 <div id="search-container">
 	<h2> Kolom Pencarian </h2>
-	<p> Ketik apa yang ingin dicari </p>
-<input type="text" id="search-input" placeholder="Ketik apa yang ingin dicari">
+	<input type="text" id="search-input" placeholder="Ketik apa yang ingin dicari">
 <ul id="results-container"></ul>
 </div>
 
@@ -34,8 +33,6 @@ layout: default
     <p>Ada banyak yang ingin saya katakan. Blog ini adalah perantaranya.</p>
 	<p>Dapatkan postingan terbaru lewat <a href="/feed.xml">rss</a></p>
 
-	<h2> Kategori </h2>
-	<p><a href="/category/catatan">catatan</a> - <a href="/category/cerita">cerita</a> - <a href="/category/coretan">coretan</a></p>
         <ul>
         {% for post in paginator.posts limit:5 %}
             <li>
@@ -46,4 +43,17 @@ layout: default
     </ul> 
 
     {% include pagination.html %}
+
+	<h2> Tentang Pemilik  </h2>
+	<p> Lebih kenal dengan pemilik </p>
+	<p><a href="/tentang">Tentang</a></p>
+
+   	<h2>Didesak Untuk Mendesak</h2>
+   	<p> Desakan untuk semua masalah (yang menurut saya, mungkin anda juga). </p>
+   	<p><a href="/mendesak">Mendesak</a></p>
+	
+	<h2> Penanda </h2>
+	<p> Berisi kumpulan artikel & link menarik </p>
+	<p><a href="/penanda">Penanda</a></p>
+
 </section>

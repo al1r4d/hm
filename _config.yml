@@ -2,7 +2,7 @@ name: radhitya
 description: "meaningless blog"
 url: "https://radhitya.mengobrol.com"
 
-paginate: 5
+paginate: 4
 permalink: /:title
 paginate_path: "/weblog/page:num/"
 
@@ -18,20 +18,11 @@ feed:
 sass:
   style: :expanded
 
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalink: 
-    category: '/archives/categories/:name/'
-  slug_mode: latin
-
 plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-archives
 
 feed:
   posts_limit: 100
