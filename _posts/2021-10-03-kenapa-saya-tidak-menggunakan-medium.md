@@ -1,8 +1,9 @@
 ---
 title: Kenapa Saya Tidak Menggunakan Medium?
-description : Berhenti gunakan Medium, beralih ke yang lain.
+description : Saya terhenti gunakan Medium, beralih ke yang lain.
 layout: post
-categories: cerita
+categories: 
+- cerita
 ---
 
 ## Medium Bukanlah Program Sumber Terbuka
