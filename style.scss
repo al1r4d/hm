@@ -34,11 +34,11 @@ tr {
 }
 
 a {
-    color: $orange;
+    color: $green;
 }
 
 a:visited {
-    color: $orange;
+    color: $green;
 }
 
 a:hover {
@@ -72,8 +72,12 @@ header {
         margin: 1.15em 0 0 0;
     }
 
+    h2::before {
+        content: "[";
+        color: $green;
+    }
     h2::after {
-        content: ".";
+        content: "]";
         color: $green;
     }
 
@@ -511,7 +515,7 @@ tr:nth-child(even){
 
     a,
     a:visited {
-        color: $orange;
+        color: $green;
     }
     
     article {
