@@ -5,7 +5,8 @@
 html {
     font-family: monospace;
     font-size: 16px;
-    background: $white;
+    color: #fff;
+    background: #222;
     @include mobile {
         font-size: 18px;
     }
@@ -29,14 +30,15 @@ ul,
 ol,
 tr {
     line-height: 1.45em;
+    color: $white;
 }
 
 a {
-    color: $blue;
+    color: $orange;
 }
 
 a:visited {
-    color: $magenta;
+    color: $orange;
 }
 
 a:hover {
@@ -70,8 +72,8 @@ header {
         margin: 1.15em 0 0 0;
     }
 
-    h2::before {
-        content: "alif@";
+    h2::after {
+        content: ".";
         color: $green;
     }
 
