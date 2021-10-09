@@ -3,7 +3,7 @@ title: Tentang
 layout: page
 permalink: /tentang
 ---
-
+![](https://raw.githubusercontent.com/radhityaa/radhityaa.github.io/master/media/alif.jpg)
 ## Author
 Secara singkat, **radhitya** adalah nama yang sering digunakan. Seorang pelajar yang menggemari Free Libre Open Source Software.
 
