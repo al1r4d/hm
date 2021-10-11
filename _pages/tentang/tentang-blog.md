@@ -16,4 +16,4 @@ Blog ini dibuat dengan Jekyll yang menggunakan Github Pages, sebelumnya dibuat d
 
 Desain mengusung tema minimalis sehingga terlihat sederhana dan serba teks. Rasanya sama seperti membaca buku catatan.
 
-Bagi saya ini sangat spesial, blog ini dapat berjalan sempurna meskipun anda menggunakan ekstensi [LibreJS](https://www.gnu.org/software/librejs/index.html). Skrip Javascript yang digunakan berlisensi Expat/MIT, anda dapat melihat apa yang dibaliknya.
+Bagi saya ini sangat spesial, blog ini dapat berjalan sempurna meskipun anda menggunakan ekstensi [LibreJS](https://www.gnu.org/software/librejs/index.html). Skrip Javascript yang digunakan berlisensi, anda dapat melihat apa yang dibaliknya.
