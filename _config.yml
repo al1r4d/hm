@@ -18,6 +18,9 @@ feed:
 sass:
   style: :expanded
 
+# Newsline True/False
+newsline: true
+
 plugins:
   - jekyll-sitemap
   - jekyll-feed
@@ -43,5 +46,5 @@ exclude:
   - "00-ÖVERSÄTTA"
   - layout
 
-include: ['_pages',]
+include: ['_pages', '_includes']
 exclude: ['drafts', 'posts', '00-ÖVERSÄTTA']
