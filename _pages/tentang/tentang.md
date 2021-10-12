@@ -19,3 +19,4 @@ Sangat diperbolehkan menghubungi saya! Mungkin bicara tentang linux, free softwa
 - [/tentang/blog](/tentang/blog) 	- Tentang Blog
 - [/tentang/dukung](/tentang/dukung) 	- Dukungan
 - [/tentang/jawaban](/tentang/jawaban) 	- Jawaban dari kebanyakan pertanyaan
+- [/tentang/pakai](/tentang/pakai)	- Perangkat dan peralatan yang saya gunakan
