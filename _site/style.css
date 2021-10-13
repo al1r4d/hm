@@ -516,10 +516,21 @@ article a[href^="https://radhitya.mengobrol.com"]::after, section.meta a[href^="
   display: none !important;
 }
 
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-container > div {
+  margin: 5px;
+  padding: 5px;
+  font-size: 18px;
+}
+
 /*------------------------------*/
 /* Dark mode
 /*------------------------------*/
-@media (prefers-color-scheme: dark) {
+@media only screen and (max-width: 700px) {
   html {
     background: #222;
     color: #fff;
@@ -571,6 +582,15 @@ article a[href^="https://radhitya.mengobrol.com"]::after, section.meta a[href^="
   footer {
     background: #222;
     border-top: 1px solid #333;
+  }
+  .flex-container {
+    display: flex;
+    flex-direction: row;
+  }
+  .flex-container > div {
+    margin: 3px;
+    padding: 3px;
+    font-size: 14px;
   }
 }
 

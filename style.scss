@@ -510,6 +510,7 @@ article, section.meta, footer {
 
 .flex-container {
   display: flex;
+  flex-direction: row;
 }
 
 .flex-container > div {
@@ -522,7 +523,7 @@ article, section.meta, footer {
 /* Dark mode
 /*------------------------------*/
 
-@media (prefers-color-scheme: dark) {
+@media only screen and (max-width: 700px) {
     html {
         background: $black;
         color: $white;
@@ -594,6 +595,17 @@ article, section.meta, footer {
         background: #222;
         border-top: 1px solid #333;
     }
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-container > div {
+  margin: 3px;
+  padding: 3px;
+  font-size: 14px;
+}
+
 }
 
 /*------------------------------*/
