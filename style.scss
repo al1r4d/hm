@@ -508,6 +508,15 @@ article, section.meta, footer {
     a[href^="https://radhitya.mengobrol.com"]::after { display: none !important; }
 }
 
+.flex-container {
+  display: flex;
+}
+
+.flex-container > div {
+  margin: 5px;
+  padding: 5px;
+  font-size: 18px;
+}
 
 /*------------------------------*/
 /* Dark mode
