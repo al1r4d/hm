@@ -43,8 +43,7 @@ layout: default
 </script>
 <div>
 		<h2> Postingan Terbaru </h2>
-    <p>Ada banyak yang ingin saya katakan. Blog ini adalah perantaranya.</p>	
-        <ul>
+           <ul>
         {% for post in paginator.posts limit:5 %}
             <li>
                 <div class="date">{{ post.date | date: "%Y-%m-%d" }}</div>
