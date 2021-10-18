@@ -527,6 +527,11 @@ article a[href^="https://radhitya.mengobrol.com"]::after, section.meta a[href^="
   font-size: 18px;
 }
 
+div.search {
+  max-width: 200px;
+  margin: auto;
+}
+
 /*------------------------------*/
 /* Dark mode
 /*------------------------------*/
