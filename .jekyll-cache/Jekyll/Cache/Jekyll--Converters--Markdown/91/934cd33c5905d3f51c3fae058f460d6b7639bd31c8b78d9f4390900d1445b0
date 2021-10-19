@@ -1,4 +1,30 @@
-I"ª<div id="archives">
+I"Ö<div id="archives">
+
+  <div class="archive-group">
+    
+    <div id="#cerita"></div>
+    <p></p>
+
+    <h3 class="category-head">cerita</h3>
+    <a name="cerita"></a>
+    
+    <article class="archive-item">
+      <h4><a href="/kenapa-saya-tidak-menggunakan-medium">Kenapa Saya Tidak Menggunakan Medium?</a></h4>
+    </article>
+    
+    <article class="archive-item">
+      <h4><a href="/forum-gen">Forum Gen</a></h4>
+    </article>
+    
+    <article class="archive-item">
+      <h4><a href="/generasi-nunduk">Generasi Nunduk</a></h4>
+    </article>
+    
+    <article class="archive-item">
+      <h4><a href="/permulaan">Realis</a></h4>
+    </article>
+    
+  </div>
 
   <div class="archive-group">
     
@@ -28,10 +54,6 @@
       <h4><a href="/beli-dagangan-pinggiran">Beli Dagangan Pinggiran</a></h4>
     </article>
     
-    <article class="archive-item">
-      <h4><a href="/permulaan">Realis</a></h4>
-    </article>
-    
   </div>
 
   <div class="archive-group">
@@ -50,22 +72,14 @@
 
   <div class="archive-group">
     
-    <div id="#cerita"></div>
+    <div id="#buku"></div>
     <p></p>
 
-    <h3 class="category-head">cerita</h3>
-    <a name="cerita"></a>
+    <h3 class="category-head">buku</h3>
+    <a name="buku"></a>
     
     <article class="archive-item">
-      <h4><a href="/kenapa-saya-tidak-menggunakan-medium">Kenapa Saya Tidak Menggunakan Medium?</a></h4>
-    </article>
-    
-    <article class="archive-item">
-      <h4><a href="/forum-gen">Forum Gen</a></h4>
-    </article>
-    
-    <article class="archive-item">
-      <h4><a href="/generasi-nunduk">Generasi Nunduk</a></h4>
+      <h4><a href="/percobaan">Membuka Kedok Tokoh - Tokoh Liberal Dalam Tubuh NU</a></h4>
     </article>
     
   </div>
