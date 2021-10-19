@@ -1,7 +1,9 @@
 ---
 title: Ironi Reformasi - Bagian Korupsi
 layout: post
-categories: catatan
+categories: 
+- artikel
+- catatan
 ---
 
 Semua tahu reformasi lahir karena orang - orang muak terhadap Korupsi kolupsi dan nepotisme (KKN). Setelah perjuangan panjang, akhirnya Soeharto turun dan digantikan oleh Pak (Alm) B.J Habibie.

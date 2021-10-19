@@ -2,7 +2,7 @@
 title: Realis
 layout: post
 categories: 
-- cerita
+- artikel
 ---
 
 Saya realis, artinya melihat hal nyata tanpa tambahan atau pengurangan.

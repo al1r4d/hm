@@ -1,7 +1,8 @@
 ---
 title: Beli Dagangan Pinggiran
 layout: post
-categories: catatan
+categories: 
+- artikel
 ---
 
 Sampai sekarang pandemi Covid – 19 belum selesai, di saat bersamaan terjadi revolusi gaya hidup untuk menyesuaikan keadaan. Hancur dan berantakan, keduanya mewakili kondisi sekarang.

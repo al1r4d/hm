@@ -3,7 +3,7 @@ title: Kenapa Saya Tidak Menggunakan Medium?
 description : Saya terhenti gunakan Medium, beralih ke yang lain.
 layout: post
 categories: 
-- cerita
+- artikel
 ---
 
 ## Medium Bukanlah Program Sumber Terbuka

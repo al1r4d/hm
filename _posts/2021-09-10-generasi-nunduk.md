@@ -1,7 +1,8 @@
 ---
 title: Generasi Nunduk
 layout: post
-categories: cerita
+categories: 
+- artikel
 ---
 
 Berangkat ke sekolah naik motor sendiri pukul 05.30, rasanya seperti hari – hari normal sebelum corona. Sayangnya suasananya sangat jauh berbeda sebelum pandemi.
