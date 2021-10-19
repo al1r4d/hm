@@ -42,8 +42,8 @@ layout: default
 // @license-end
 </script>
 <div>
-		<h2> Postingan Terbaru </h2>
-           <ul>
+		<h2> Postingan Terbaru (<a href="/feed.xml">rss</a>)</h2>
+		<ul>
         {% for post in paginator.posts limit:5 %}
             <li>
                 <a class="span" href="{{ site.path }}{{ post.url }}">{{ post.title }}</a>
@@ -52,8 +52,7 @@ layout: default
     </ul>
 {% include pagination.html %}
 </div> 
-</div>
-    <center><p>[ Dapatkan postingan terbaru lewat <a href="/feed.xml">rss</a> ]</p></center>
+</div> 
 <div class="flex-container">
 	<div>
 	<h2>Tentang</h2>
