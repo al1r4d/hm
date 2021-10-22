@@ -16,15 +16,26 @@ layout: default
 <section class="home">
 <!-- Html Elements for Search -->
 <div class="flex-container">
-	<div>
+
+<div>
+	<h2> Postingan Terbaru</h2>
+		<ul>
+			{% for post in paginator.posts limit:5 %}
+            <li>
+                <a class="span" href="{{ site.path }}{{ post.url }}">{{ post.title }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+{% include pagination.html %}
+</div>
+
+<div>
 	<div id="search-container">
 	<h2> Cari Disini </h2>
 	<input type="text" id="search-input" placeholder="Ketik apa yang ingin dicari">
 <ul id="results-container"></ul>
 </div>
 </div>
-
-<!-- Script pointing to search-script.js -->
 <script>
 // @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt MIT
 // @license-end
@@ -41,17 +52,7 @@ layout: default
 })
 // @license-end
 </script>
-<div>
-	<h2> Postingan Terbaru (<a href="/feed.xml">rss</a>)</h2>
-		<ul>
-			{% for post in paginator.posts limit:5 %}
-            <li>
-                <a class="span" href="{{ site.path }}{{ post.url }}">{{ post.title }}</a>
-            </li>
-        {% endfor %}
-    </ul>
-{% include pagination.html %}
-</div> 
+
 </div>
 
 <div class="flex-container">
