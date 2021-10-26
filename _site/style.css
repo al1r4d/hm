@@ -205,7 +205,9 @@ article ul code {
 }
 
 article .highlighter-rouge {
-  white-space: nowrap;
+  background: #333;
+  color: #ffa600;
+  border: 1px solid rgba(255, 255, 255, 0.15);
 }
 
 article .highlight pre {

@@ -1,0 +1,22 @@
+I"<p>Untuk kamu yang tidak ingin ketinggalan postingan terbaru, tapi sedang sibuk bisa berlangganan lewat <em>RSS</em>.</p>
+
+<p><code class="language-plaintext highlighter-rouge">https://radhitya.mengobrol.com/feed.xml</code></p>
+<h2 id="apa-itu-rss">Apa itu RSS</h2>
+<p>RSS singkatan dari <em>Really Simple Syndication</em>, orang lebih suka menyebutnya <em>feed</em> atau <em>RSS Feed</em>. Fungsinya menampilkan <em>web feed</em> yang berisi artikel terbaru bagi pembaca.</p>
+
+<p>Cara kerjanya sama seperti Youtube. Jika kamu ingin mendapat kabar terbaru, maka kamu harus berlangganan atau subscribe. Dan untuk RSS, kamu harus menambahkan link rss di aplikasi <em>rss feed</em> favoritmu.</p>
+
+<p><img src="/media/rsss.png" alt="" /></p>
+<center>Salah satu blog yang saya ikuti lewat RSS</center>
+
+<h2 id="kenapa-menggunakan-rss">Kenapa Menggunakan RSS?</h2>
+<p>RSS adalah hal tua, sekarang sudah saatnya langganan lewat email. Tetapi kenapa saya masih menggunakan RSS?</p>
+<ul>
+  <li><strong>Sederhana</strong>. Cukup masukkan link rss blog ke program dan selesai.</li>
+  <li><strong>Aman</strong>. Tidak ada informasi yang dimasukkan ketika berlangganan via RSS. Tentu berbeda dengan langganan email yang harus menulis email milikmu.</li>
+  <li><strong>Murah</strong>. RSS adalah gratis dan murah. Berbeda dengan langganan via email yang mengharuskan memiliki server SMTP mahal untuk kirim email pemberitahuan.</li>
+</ul>
+
+<h2 id="program-rss">Program RSS</h2>
+<p>Ada banyak program RSS yang bisa digunakan, ini hanyalah referensi.</p>
+:ET
