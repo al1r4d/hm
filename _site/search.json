@@ -9,6 +9,14 @@
     } ,
   
     {
+      "title"    : "Dalam Makna &quot;Sendiri&quot;",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/dalam-makna-sendiri",
+      "date"     : "2021-10-22 00:00:00 +0700"
+    } ,
+  
+    {
       "title"    : "Capita Selecta",
       "category" : "",
       "tags"     : "",
@@ -73,14 +81,6 @@
     } ,
   
     {
-      "title"    : "Generasi Nunduk",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/generasi-nunduk",
-      "date"     : "2021-09-10 00:00:00 +0700"
-    } ,
-  
-    {
       "title"    : "Di bawah",
       "category" : "",
       "tags"     : "",
@@ -93,6 +93,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/beli-dagangan-pinggiran",
+      "date"     : "2021-09-10 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Generasi Nunduk",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/generasi-nunduk",
       "date"     : "2021-09-10 00:00:00 +0700"
     } ,
   

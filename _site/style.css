@@ -186,7 +186,7 @@ article td code {
 article blockquote {
   border-left: 5px solid #c2bebe;
   padding: 0.1em 1em;
-  font-style: italic;
+  /* font-style: italic; */
   color: rgba(0, 0, 0, 0.85);
 }
 
@@ -578,7 +578,7 @@ div.search {
   article blockquote {
     border-left: 5px solid #c2bebe;
     padding: 0.1em 1em;
-    font-style: italic;
+    /* font-style: italic; */
     color: #FFFFFF;
   }
   article td .highlighter-rouge {
