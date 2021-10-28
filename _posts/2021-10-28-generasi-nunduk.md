@@ -29,4 +29,4 @@ Waktu guru menjelaskan, tidak sedikit masih bertahan menunduk menatap layar (kec
 Bagaimana dengan saya? Harus diakui bahwa **saya terkadang main handphone ketika ada teman - teman saya, karena sudah tidak ada yang dibahas dan bingung mau bicara tentang apa**. Tapi saya juga berusaha untuk tidak menggunakah handphone dan lebih banyak berbicara dengan teman - teman.
 
 ## Individualis, 
-Sudah saya tegaskan sebelumnya jika *masyarakat terlalu fokus dengan gawainya sehingga melupakan lingkungan sekitar*. Timbulah perasaan tidak butuh orang lain karena sudah asyik dengan handphone, sehingga muncul sikap *Individualis dan Apatisme*.
+Sudah saya tegaskan sebelumnya jika *masyarakat terlalu fokus dengan gawainya sehingga melupakan lingkungan sekitar*. Timbulah perasaan tidak butuh orang lain karena sudah asyik dengan handphone, sehingga muncul sikap *individualis dan apatisme*.

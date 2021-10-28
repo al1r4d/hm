@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Generasi Nunduk",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/generasi-nunduk",
+      "date"     : "2021-10-28 00:00:00 +0700"
+    } ,
+  
+    {
       "title"    : "Apatisme",
       "category" : "",
       "tags"     : "",
@@ -93,14 +101,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/beli-dagangan-pinggiran",
-      "date"     : "2021-09-10 00:00:00 +0700"
-    } ,
-  
-    {
-      "title"    : "Generasi Nunduk",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/generasi-nunduk",
       "date"     : "2021-09-10 00:00:00 +0700"
     } ,
   
