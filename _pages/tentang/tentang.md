@@ -1,5 +1,5 @@
 ---
-title: 
+title: Tentang
 layout: page
 permalink: /tentang
 ---
