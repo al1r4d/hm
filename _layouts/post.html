@@ -18,13 +18,19 @@ layout: default
 
 <article class="post">
     <h1>{{ page.title }}</h1>
-    <div class="date">{{ page.date | date: "%-d %-B %-Y" }} - <a href="/berlangganan">Berlangganan</a> - <a href="/tentang">Author</a></div>
+    <div class="date">{{ page.date | date: "%-d %-B %-Y" }} - <a href="/berlangganan">Berlangganan</a> - <a href="/tentang">Author</a> - <details>
+		    <summary><b>Perhatian</B> (<i>klik</i>)</summary>
+    <!-- have to be followed by an empty line! -->
+		<p><i>Terima kasih udah mau baca! Minta tolong untuk doa-in saya agar selalu sehat dan sukses ya ^_^</i></p>
+		<p><i>Semua tulisan adalah pendapat pribadi, bukan mewakili organisasi, komunitas, dan sekolah yang saya ikuti. Jika ada masalah, <a href="/tentang">hubungi</a> saya </i></p>
+		<p><i>Republikasi diperkenankan, tetapi jangan lupa mencantumkan nama saya.</i></p>
+	
+  </details>
+</details>
+    </div>
     <p>{{ content }}</p>
 </article>
 
 <div class="relatedPosts">
 	<section class="meta">
-		<p><i> >> Terima kasih udah mau baca! Minta tolong untuk doa-in saya agar selalu sehat dan sukses ya ^_^</i></p>
-		<p><i> >> Semua tulisan adalah pendapat pribadi, bukan mewakili organisasi, komunitas, dan sekolah yang saya ikuti. Jika ada masalah, <a href="/tentang">hubungi</a> saya </i></p>
-		<p><i> >> Republikasi diperkenankan, tetapi jangan lupa mencantumkan nama saya.</i></p>
-	</section>
+			</section>
