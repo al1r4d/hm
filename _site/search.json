@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Memperbaiki Gaya Hidup",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/memperbaiki-gaya-hidup",
+      "date"     : "2021-10-30 00:00:00 +0700"
+    } ,
+  
+    {
       "title"    : "Generasi Nunduk",
       "category" : "",
       "tags"     : "",
@@ -14,6 +22,14 @@
       "tags"     : "",
       "url"      : "/apatisme-egoisme",
       "date"     : "2021-10-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Dalam Makna &quot;Sendiri&quot;",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/dalam-makna-sendiri",
+      "date"     : "2021-10-22 00:00:00 +0700"
     } ,
   
     {
