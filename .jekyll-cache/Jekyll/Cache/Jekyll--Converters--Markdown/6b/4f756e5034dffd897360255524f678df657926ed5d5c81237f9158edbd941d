@@ -1,4 +1,4 @@
-I"<div id="archives">
+I")<div id="archives">
 
   <div class="archive-group">
     
@@ -7,6 +7,10 @@
 
     <h3 class="category-head">artikel</h3>
     <a name="artikel"></a>
+    
+    <article class="archive-item">
+      <h4><a href="/nanti-juga-ada-yang-bantu">Nanti Juga Ada Yang Bantu</a></h4>
+    </article>
     
     <article class="archive-item">
       <h4><a href="/memperbaiki-gaya-hidup">Memperbaiki Gaya Hidup</a></h4>
@@ -61,6 +65,10 @@
 
     <h3 class="category-head">catatan</h3>
     <a name="catatan"></a>
+    
+    <article class="archive-item">
+      <h4><a href="/nanti-juga-ada-yang-bantu">Nanti Juga Ada Yang Bantu</a></h4>
+    </article>
     
     <article class="archive-item">
       <h4><a href="/memperbaiki-gaya-hidup">Memperbaiki Gaya Hidup</a></h4>
