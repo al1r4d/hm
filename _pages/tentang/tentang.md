@@ -5,7 +5,7 @@ permalink: /tentang
 ---
 
 ## $ whoami
-Secara singkat, **radhitya** adalah nama yang sering digunakan. Seorang pelajar yang menggemari Free Libre Open Source Software.
+Panggil saya Alif atau Radhitya, tapi di kehidupan langsung saya lebih sering dipanggil Alif. Seorang pelajar yang menggemari Free Libre Open Source Software.
 
 Dikenal sebagai pribadi yang optimis, tampil beda, dan nekad. Berusaha berubah menjadi lebih baik setiap hari.
 
@@ -15,6 +15,6 @@ Saya bisa dihubungi lewat dua cara, yaitu :
 
 ### $ cat /etc/apt/sources.list
 - [/tentang/blog](/tentang/blog) 	- Tentang Blog
-- [/tentang/dukung](/tentang/dukung) 	- Dukungan
+- [/tentang/dukung](/tentang/dukung) 	- Apresiasi untuk blog ini
 - [/tentang/jawaban](/tentang/jawaban) 	- Jawaban dari kebanyakan pertanyaan
 - [/tentang/pakai](/tentang/pakai)	- Perangkat dan peralatan yang saya gunakan
