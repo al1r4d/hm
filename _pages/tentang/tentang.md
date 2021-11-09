@@ -4,17 +4,10 @@ layout: page
 permalink: /tentang
 ---
 
-## $ whoami
-Panggil saya Alif atau Radhitya, tapi di kehidupan langsung saya lebih sering dipanggil Alif. Seorang pelajar yang menggemari Free Libre Open Source Software.
+Saya Alif Radhitya Wardana, dikenal dengan panggilan **Radhitya**, tetapi di kehidupan langsung biasa dipanggil **Alif**. Seorang siswa SMA yang menyukai teknologi, terutama privasi, [*Free Culture*](https://freedomdefined.org/Definition), [kebebasan pengguna dalam komputasi](https://www.fsf.org/), dan [pencinta *Free Libre/Open Source Software*](https://gnu.org).
 
-Dikenal sebagai pribadi yang optimis, tampil beda, dan nekad. Berusaha berubah menjadi lebih baik setiap hari.
+Sebagai orang yang menyukai kebebasan pengguna dalam komputasi, saya hanya memilih program yang masuk dalam [4 nilai kebebasan](https://www.gnu.org/philosophy/free-sw.en.html).
 
-Saya bisa dihubungi lewat dua cara, yaitu :
-- Mastodon 	: [@radhitya@mastodon.social](https://mastodon.social/@radhitya)
-- Telegram 	: [@radhityax](https://t.me/radhityax)
+Sebagai pecinta *Free Software*, saya selalu mengutamakan program free software daripada proprietary software. Dengan free software, kita tahu dan paham apa yang bekerja dibaliknya. Tentu berbeda dengan proprietary software.
 
-### $ cat /etc/apt/sources.list
-- [/tentang/blog](/tentang/blog) 	- Tentang Blog
-- [/tentang/dukung](/tentang/dukung) 	- Apresiasi untuk blog ini
-- [/tentang/jawaban](/tentang/jawaban) 	- Jawaban dari kebanyakan pertanyaan
-- [/tentang/pakai](/tentang/pakai)	- Perangkat dan peralatan yang saya gunakan
+Saya berkontribusi di sebagian komunitas. Kebanyakan dari mereka adalah tentang **Linux**. Saya menulis, memperbaiki program mereka, membantu orang dan mengampanyekan program free software.

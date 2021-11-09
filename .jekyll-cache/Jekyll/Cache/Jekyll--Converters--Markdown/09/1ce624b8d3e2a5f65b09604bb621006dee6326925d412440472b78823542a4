@@ -1,0 +1,19 @@
+I"<h2 id="-whoami">$ whoami</h2>
+<p>Saya Alif Radhitya Wardana, dikenal dengan panggilan <strong>Radhitya</strong>, tetapi di kehidupan langsung biasa dipanggil <strong>Alif</strong>. Seorang siswa SMA yang menyukai teknologi, terutama privasi, <a href="https://freedomdefined.org/Definition"><em>Free Culture</em></a></p>
+
+<p>Sebagai pecinta <em>free software</em>, saya selalu berusaha menggunakan program sumber terbuka daripada sumber tertutup. Tak jarang juga memperkenalkan kepada orang orang tentang pentingnya program sumber terbuka dan privasi. Di rumah, terdapat mini PC yang terinstall program <em>free software</em> saja (kecuali BIOS).</p>
+
+<p>Saya bisa dihubungi lewat dua cara, yaitu :</p>
+<ul>
+  <li>Mastodon 	: <a href="https://mastodon.social/@radhitya">@radhitya@mastodon.social</a></li>
+  <li>Telegram 	: <a href="https://t.me/radhityax">@radhityax</a></li>
+</ul>
+
+<h3 id="-cat-etcaptsourceslist">$ cat /etc/apt/sources.list</h3>
+<ul>
+  <li><a href="/tentang/blog">/tentang/blog</a> 	- Tentang Blog</li>
+  <li><a href="/tentang/dukung">/tentang/dukung</a> 	- Apresiasi untuk blog ini</li>
+  <li><a href="/tentang/jawaban">/tentang/jawaban</a> 	- Jawaban dari kebanyakan pertanyaan</li>
+  <li><a href="/tentang/pakai">/tentang/pakai</a>	- Perangkat dan peralatan yang saya gunakan</li>
+</ul>
+:ET
