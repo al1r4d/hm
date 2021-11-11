@@ -11,3 +11,10 @@ Sebagai orang yang menyukai kebebasan pengguna dalam komputasi, saya hanya memil
 Sebagai pecinta *Free Software*, saya selalu mengutamakan program free software daripada proprietary software. Dengan free software, kita tahu dan paham apa yang bekerja dibaliknya. Tentu berbeda dengan proprietary software.
 
 Saya berkontribusi di sebagian komunitas. Kebanyakan dari mereka adalah tentang **Linux**. Saya menulis, memperbaiki program mereka, membantu orang dan mengampanyekan program free software.
+
+# Tentang Blog Ini
+Blog ini adalah arsip catatan pribadi. Mencatat semua hal karena kalau tidak dicatat bisa lupa.
+
+Sebelumnya saya menggunakan Wordpress, tapi sekarang migrasi ke Jekyll. Kenapa? Karena saya bosan dengan Wordpress dan ingin mencoba hal baru.
+
+Tidak ada kode berbahaya dan aktivitas mengumpulkan data pembaca di blog ini. Keamanan dan privasi sangat dihargai disini. (harap ingatkan saya jika salah).
