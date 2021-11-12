@@ -57,6 +57,15 @@ h1 {
 /*------------------------------*/
 header {
   background: #222;
+  /* h2::before {
+        content: "[";
+        color: $green;
+    }
+    h2::after {
+        content: "]";
+        color: $green;
+    }
+*/
 }
 
 header a,
@@ -72,16 +81,6 @@ header a:visited {
 
 header h2 {
   margin: 1.15em 0 0 0;
-}
-
-header h2::before {
-  content: "[";
-  color: #7E9F5B;
-}
-
-header h2::after {
-  content: "]";
-  color: #7E9F5B;
 }
 
 @media screen and (max-width: 640px) {
@@ -396,7 +395,7 @@ article hr {
 /* Footer
 /*------------------------------*/
 footer {
-  background: #f1f1f1;
+  background: #222;
   border-top: 1px solid #ddd;
   padding: 0.5em 0 1em 0;
   margin-top: 2em;
