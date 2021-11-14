@@ -1,27 +1,11 @@
 [
   
     {
-      "title"    : "Sirkelnisme dalam pelajar",
+      "title"    : "Bagaimana cara saya menggunakan laptop?",
       "category" : "",
       "tags"     : "",
-      "url"      : "/sirkel",
-      "date"     : "2021-11-12 00:00:00 +0700"
-    } ,
-  
-    {
-      "title"    : "Nanti Juga Ada Yang Bantu",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/nanti-juga-ada-yang-bantu",
-      "date"     : "2021-10-31 00:00:00 +0700"
-    } ,
-  
-    {
-      "title"    : "Memperbaiki Gaya Hidup",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/memperbaiki-gaya-hidup",
-      "date"     : "2021-10-30 00:00:00 +0700"
+      "url"      : "/bagaimana-cara-saya-menggunakan-laptop",
+      "date"     : "2021-11-13 00:00:00 +0700"
     } ,
   
     {
@@ -38,14 +22,6 @@
       "tags"     : "",
       "url"      : "/apatisme-egoisme",
       "date"     : "2021-10-25 00:00:00 +0700"
-    } ,
-  
-    {
-      "title"    : "Dalam Makna &quot;Sendiri&quot;",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/dalam-makna-sendiri",
-      "date"     : "2021-10-22 00:00:00 +0700"
     } ,
   
     {
