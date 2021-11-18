@@ -18,3 +18,5 @@ Blog ini adalah arsip catatan pribadi. Mencatat semua hal karena kalau tidak dic
 Sebelumnya saya menggunakan Wordpress, tapi sekarang migrasi ke Jekyll. Kenapa? Karena saya bosan dengan Wordpress dan ingin mencoba hal baru.
 
 Tidak ada kode berbahaya dan aktivitas mengumpulkan data pembaca di blog ini. Keamanan dan privasi sangat dihargai disini. (harap ingatkan saya jika salah).
+
+Semua tulisan saya tidak terkait dengan organisasi, kegiatan, dan pekerjaan yang saya ikuti.
