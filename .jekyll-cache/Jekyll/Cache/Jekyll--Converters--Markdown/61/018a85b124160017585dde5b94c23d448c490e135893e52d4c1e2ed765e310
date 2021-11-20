@@ -1,4 +1,4 @@
-I"�<p>Catatan ini terinspirasi oleh Richard Stallman dalam postingan “<a href="https://stallman.org/stallman-computing.html">How do I computing?</a>”. Jika pembaca penasaran dengan kegiatan saya dengan laptop, catatan ini akan menjawab.</p>
+I"�<p>Catatan ini terinspirasi oleh Richard Stallman dalam postingan “<a href="https://stallman.org/stallman-computing.html">How do I computing?</a>”. Jika pembaca penasaran dengan kegiatan saya dengan laptop, catatan ini akan menjawab.</p>
 
 <h2 id="laptop">Laptop</h2>
 <p>Saya menggunakan Thinkpad T440P, laptop ini menggunakan aksesoris Thinkpad Docking Station yang tersambung oleh monitor eksternal. Rasanya seperti menggunakan komputer.</p>
@@ -26,6 +26,7 @@
 </ul>
 
 <p>Bagaimana dengan Ungoogled Chromium? Dulu saya pernah bilang di <a href="https://mastodon.social/web/@radhitya/107195050538309201">toots Mastoodon</a> tentang DeGoogle, dimana kurang sempurna semangat <a href="https://en.wikipedia.org/wiki/DeGoogle">DeGoogle</a> kalau masih pakai engine browsernya Google, yaitu Chromium. Sayangnya saya harus memasangnya untuk jaga - jaga.</p>
+
 <h3 id="klien-email">Klien Email</h3>
 <p>Program klien email favorit saya adalah <a href="https://www.thunderbird.net/en-US/">Thunderbird</a>. Klien ini cukup memenuhi kebutuhan saya, seperti <a href="https://en.wikipedia.org/wiki/GNU_Privacy_Guard">OpenPGP</a>, kalender, dan RSS Feeds.</p>
 <h3 id="pengolah-dokumen">Pengolah Dokumen</h3>

@@ -31,6 +31,7 @@ Saya menggunakan abrowser yang berbasis Firefox. Beda dari Firefox adalah mengga
 - [**Cookie AutoDelete**](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) untuk menghapus cookie setiap kali menutup tab atau keluar. Selain itu dapat melakukan lebih banyak lagi, seperti membersihkan penyimpanan lokal, membersihkan perubahan domain, menghapus cache, membersihkan perubahan domain, dan lain - lain.
 
 Bagaimana dengan Ungoogled Chromium? Dulu saya pernah bilang di [toots Mastoodon](https://mastodon.social/web/@radhitya/107195050538309201) tentang DeGoogle, dimana kurang sempurna semangat [DeGoogle](https://en.wikipedia.org/wiki/DeGoogle) kalau masih pakai engine browsernya Google, yaitu Chromium. Sayangnya saya harus memasangnya untuk jaga - jaga.
+
 ### Klien Email
 Program klien email favorit saya adalah [Thunderbird](https://www.thunderbird.net/en-US/). Klien ini cukup memenuhi kebutuhan saya, seperti [OpenPGP](https://en.wikipedia.org/wiki/GNU_Privacy_Guard), kalender, dan RSS Feeds.
 ### Pengolah Dokumen
