@@ -21,13 +21,14 @@ layout: default
 	<h2> Selamat datang!</h2>
 	<p> Blog ini adalah catatan pribadi dengan desain minimalis.</p> 
 	<p>Isi adalah pendapat pribadi, bukan mewakili siapapun.</p>
-	<h2 style="color:yellow"> Terhangat </h2>
+	<h2>Terhangat </h2>
 	<p> Catatan saya selama menjadi smalane bisa dilihat di <a href="/smala">halaman ini</a>. </p>
 	<p>Ada alasan saya membuat ini. </p>
 	<h2> Postingan Terbaru</h2>
 		<ul>
 			{% for post in paginator.posts limit:5 %}
             <li>
+		<div class="date">{{ post.date | date: "%Y-%m-%d" }}</div>
                 <a class="span" href="{{ site.path }}{{ post.url }}">{{ post.title }}</a>
             </li>
         {% endfor %}
