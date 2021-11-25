@@ -5,8 +5,6 @@ categories:
 - artikel
 - catatan
 ---
-![](https://i.ibb.co/5TMnwCn/nunduk.png)
-
 **Sekali lagi saya tegaskan bahwa tidak punya maksud lain. Mungkin memang saya yang berlebihan atau beneran salah.**
 
 Sesungguhnya mereka yang lebih asyik menatap layar daripada memperhatikan sekitar telah membawa bencana baru, bencana bernama *generasi menunduk*.
