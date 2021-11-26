@@ -22,14 +22,3 @@ Tapi kalau masih maksa hanya untuk saya, saya cuman nyiapin dua opsi :
 <summary><b>Saweria</B> (<i>klik</i>)</summary> 
 <p><a href="https://saweria.co/foss">Saweria</a></p>
 </details>
-
-<!-- <details>
-<summary><b>Afiliasi</B> (<i>klik</i>)</summary> 
-<b>VPS IDCloudhost</b>
-<p>Saya menggunakan VPS dari <a href="https://console.idcloudhost.com/referral/p2n8x9">IDCloudhost</a>. Harganya cukup murah, mulai dari 50.000/bulan dengan spesifikasi 
-<ul>
-<li>RAM : 1 GB</li>
-<li>CPU : 1 Core</li>
-<li>Penyimpanan : 25 GB SSD</li>
-</ul></p>
-</details> --!>
