@@ -1,11 +1,11 @@
 [
   
     {
-      "title"    : "Tanpa Aksi",
+      "title"    : "Satu Tahun Di Smala",
       "category" : "",
       "tags"     : "",
-      "url"      : "/tanpa-aksi",
-      "date"     : "2021-11-20 00:00:00 +0700"
+      "url"      : "/satu-tahun-di-smala",
+      "date"     : "2021-11-27 00:00:00 +0700"
     } ,
   
     {
@@ -94,14 +94,6 @@
       "tags"     : "",
       "url"      : "/permulaan",
       "date"     : "2021-09-09 00:00:00 +0700"
-    } ,
-  
-    {
-      "title"    : "Selamat Datang Di Smala",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/selamat-datang-di-smala",
-      "date"     : "2020-08-25 00:00:00 +0700"
     } 
   
 ]
