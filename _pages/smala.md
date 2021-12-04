@@ -14,3 +14,5 @@ Saya terinspirasi dengan mereka yang membuat blog berisi catatan mereka selama m
 ### Arsip
 Arsip ini berkaitan selama saya menjadi Smalane, entah pengalaman, cerita, atau *my thoughts*.
 - [Forum Gen](/forum-gen)
+- [Jumat Berkah Bersama Angkatan 23](/jumat-berkah-angkatan-23)
+- [Satu Tahun Di Smala](/satu-tahun-di-smala)
