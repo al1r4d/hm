@@ -12,6 +12,11 @@ Sebagai pecinta *Free Software*, saya selalu mengutamakan program free software 
 
 Saya berkontribusi di sebagian komunitas. Kebanyakan dari mereka adalah tentang **Linux**. Saya menulis, memperbaiki program mereka, membantu orang dan mengampanyekan program free software.
 
+Ingin menghubungi saya? Ada beberapa opsi yang bisa anda pilih :
+- [**Mastodon**](https://wikiless.org/wiki/Mastodon_(software)) - [@radhitya@mastodon.social](https://mastodon.social/@radhitya)
+- **Email** - radhitya@disroot.org
+
+
 # Tentang Blog Ini
 Blog ini adalah arsip catatan pribadi. Mencatat semua hal karena kalau tidak dicatat bisa lupa.
 
