@@ -1,8 +1,7 @@
 ---
 title: Ironi Reformasi - Bagian Korupsi
 layout: post
-categories: 
-- artikel
+tag: 
 - catatan
 ---
 

@@ -3,7 +3,6 @@ title: Apatisme
 layout: post
 categories: 
 - catatan
-- artikel
 ---
 
 Saya tidak mengerti apakah standar saya ketinggian atau memang mereka yang salah. barangkali permasalahan ini memang harus dibicarakan demi keberlangsungan. 

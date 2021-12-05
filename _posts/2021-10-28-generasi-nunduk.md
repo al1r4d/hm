@@ -1,8 +1,7 @@
 ---
 title: Generasi Nunduk
 layout: post
-categories: 
-- artikel
+tag: 
 - catatan
 ---
 **Sekali lagi saya tegaskan bahwa tidak punya maksud lain. Mungkin memang saya yang berlebihan atau beneran salah.**

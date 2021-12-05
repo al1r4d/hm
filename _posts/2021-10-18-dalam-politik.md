@@ -1,8 +1,8 @@
 ---
 title: Dalam Politik
 layout: post
-categories: 
-- artikel
+tag: 
+- catatan
 ---
 Dari anak kecil, mahasiswa, hingga orang tua, semua mulai membahas tentang politik di negara ini. Ada yang mengekspresikan diskusi, essai, atau Meme. Dengan peristiwa ini, mereka mulai menolak buta politik. Tapi terkadang ada yang tidak saya sukai, yaitu *tidak sesuai*.
 

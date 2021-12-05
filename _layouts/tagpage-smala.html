@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<div class="post">
+<h1>Arsip Smala</h1>
+<p> Laman ini dibuat sebagai dokumentasi saya selama bersekolah di SMAN 5 Surabaya. Barangkali Generasi Smalane {baru, lama} atau orang luar bisa tahu apa saja yang terjadi.</p>
+<p> Saya terinspirasi dengan mereka yang membuat blog berisi catatan mereka selama menjadi Smalane, mereka adalah : 
+<ul>
+	<li><a href="https://rian.structilmy.com/2012/05/inilah-sman-5-surabaya.html">https://rian.structilmy.com</a></li>
+	<li><a href="http://seduhsedapsmala.blogspot.com/">http://seduhsedapsmala.blogspot.com/</a></li>
+	<li>dan masih banyak lagi yang terdampar di internet.</li>
+</ul>
+
+<h2> Dokumen </h2>
+<p> Arsip ini berkaitan selama saya menjadi Smalane, entah pengalaman, cerita, atau my thoughts. </p>
+
+{% for post in site.tags[page.tag] %}
+<ul>  
+<li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+  </li>
+{% endfor %}
+</ul>
+</div>
+

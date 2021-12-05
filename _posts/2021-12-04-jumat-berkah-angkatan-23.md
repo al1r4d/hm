@@ -3,8 +3,9 @@ title: Jumat Berkah Bersama Angkatan 23
 lang: id_ID
 layout: post
 description : Selain memberi info, kami juga bagi - bagi makanan ke orang - orang. Mereka bahagia, kami gembira. 
-categories: 
+tag: 
 - cerita
+- smala
 ---
 ![](/media/jumatberkah.jpeg)
 <center><p>3 Desember 2021 di Pucang, Surabaya</p></center>

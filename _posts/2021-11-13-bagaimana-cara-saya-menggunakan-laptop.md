@@ -2,7 +2,7 @@
 title: Saya dan Laptop
 lang: id_ID
 layout: post
-categories: 
+tag: 
 - catatan
 ---
 Catatan ini terinspirasi oleh Richard Stallman dalam postingan "[How do I computing?](https://stallman.org/stallman-computing.html)". Jika pembaca penasaran dengan kegiatan saya dengan laptop, catatan ini akan menjawab.
