@@ -1,7 +1,7 @@
 ---
 layout: tagpage
-title: "Tag: Artikel"
-tag: artikel
-permalink: /tag/artikel
+title: "Tag: catatan"
+tag: catatan
+permalink: /tag/catatan
 ---
 
