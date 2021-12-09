@@ -1,6 +1,6 @@
 ---
 title: Beli Dagangan Pinggiran
-layout: post
+layout: post-catatan
 tag: catatan
 ---
 

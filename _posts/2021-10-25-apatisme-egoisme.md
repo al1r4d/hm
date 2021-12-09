@@ -1,6 +1,6 @@
 ---
 title: Apatisme
-layout: post
+layout: post-catatan
 categories: 
 - catatan
 ---

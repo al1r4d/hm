@@ -1,6 +1,6 @@
 ---
 title: Ironi Reformasi - Bagian Korupsi
-layout: post
+layout: post-catatan
 tag: 
 - catatan
 ---

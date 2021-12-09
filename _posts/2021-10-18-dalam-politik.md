@@ -1,6 +1,6 @@
 ---
 title: Dalam Politik
-layout: post
+layout: post-catatan
 tag: 
 - catatan
 ---

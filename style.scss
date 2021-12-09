@@ -497,6 +497,15 @@ tr:nth-child(even){
     float: right;
 }
 
+.perhatian {
+    display: block;
+    background-color: #333333;
+    color: #f39f03;
+    margin-left: -1rem;
+    margin-right: -1rem;
+    padding: 2rem;
+    }
+
 .full {
         max-width: 100%;
 }
@@ -539,4 +548,12 @@ div.search {
 /* Import `default` last
 /*------------------------------*/
 
+.fund-us {
+	display: block;
+	background-color: #AFE1E8;
+	color: #154652;
+	margin-left: -1rem;
+	margin-right: -1rem;
+	padding: 2rem;
+    }
 @import "default";

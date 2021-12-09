@@ -1,6 +1,6 @@
 ---
 title: Kontribusi
-layout: post
+layout: post-catatan
 tag: 
 - catatan
 ---

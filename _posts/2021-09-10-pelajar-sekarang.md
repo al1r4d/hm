@@ -1,6 +1,6 @@
 ---
 title : Pelajar Sekarang
-layout : post
+layout : post-catatan
 cerita: 
 - catatan
 ---

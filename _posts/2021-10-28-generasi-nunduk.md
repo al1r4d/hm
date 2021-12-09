@@ -1,6 +1,6 @@
 ---
 title: Generasi Nunduk
-layout: post
+layout: post-catatan
 tag: 
 - catatan
 ---

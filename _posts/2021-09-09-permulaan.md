@@ -1,8 +1,7 @@
 ---
 title: Realis
-layout: post
-tag: catatan
-categories: 
+layout: post-catatan
+tag :
 - catatan
 ---
 

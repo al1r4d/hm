@@ -3,9 +3,9 @@ title: Saya dan Laptop
 lang: id_ID
 layout: post
 tag: 
-- catatan
+- cerita
 ---
-Catatan ini terinspirasi oleh Richard Stallman dalam postingan "[How do I computing?](https://stallman.org/stallman-computing.html)". Jika pembaca penasaran dengan kegiatan saya dengan laptop, catatan ini akan menjawab.
+Cerita ini terinspirasi oleh Richard Stallman dalam postingan "[How do I computing?](https://stallman.org/stallman-computing.html)". Jika pembaca penasaran dengan kegiatan saya dengan laptop, catatan ini akan menjawab.
 
 ## Laptop
 Saya menggunakan Thinkpad T440P, laptop ini menggunakan aksesoris Thinkpad Docking Station yang tersambung oleh monitor eksternal. Rasanya seperti menggunakan komputer. 
