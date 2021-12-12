@@ -31,6 +31,7 @@ feed:
   posts_limit: 100
 
 exclude:
+  - .jekyll-cache
   - pages
   - Gemfile
   - Gemfile.lock
