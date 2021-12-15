@@ -1,27 +1,11 @@
 [
   
     {
-      "title"    : "Pahlawan Tanpa Tanda Jasa",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/pahlawan-tanpa-tanda-jasa",
-      "date"     : "2021-12-12 00:00:00 +0700"
-    } ,
-  
-    {
       "title"    : "Jumat Berkah Bersama Angkatan 23",
       "category" : "",
       "tags"     : "cerita, smala",
       "url"      : "/jumat-berkah-angkatan-23",
       "date"     : "2021-12-04 00:00:00 +0700"
-    } ,
-  
-    {
-      "title"    : "Judul Mu",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/kenapa-saya-membuat-blog",
-      "date"     : "2021-12-01 00:00:00 +0700"
     } ,
   
     {
@@ -51,7 +35,7 @@
     {
       "title"    : "Apatisme",
       "category" : "",
-      "tags"     : "",
+      "tags"     : "catatan",
       "url"      : "/apatisme-egoisme",
       "date"     : "2021-10-25 00:00:00 +0700"
     } ,
