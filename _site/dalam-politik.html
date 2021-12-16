@@ -48,25 +48,36 @@
 
 
 <header>
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
 
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
 	<div class="wrapper">
 
-
-	<!--	<h2><a href="/">Alrad</a><a style="color:green">.</a></h2>
-		<p><b style="color:white">Blog Pribadi Alif Radhitya</p></b> --!>
-<!-- <center>
-<img src="https://raw.githubusercontent.com/radhityaa/radhityaa.github.io/master/media/linuxnow2.gif">
-<img src="https://raw.githubusercontent.com/radhityaa/radhityaa.github.io/master/media/gnubanner-2.png">
- <img src="https://raw.githubusercontent.com/radhityaa/radhityaa.github.io/master/media/rss.png">
-<img src="https://raw.githubusercontent.com/radhityaa/radhityaa.github.io/master/media/internetprivacy.gif">
-</center> --!>
-			<nav>
+		<h2><a href="/">Alrad</a></h2>
+		<nav>
 		
 	<ul>
-	<li class="pull-left"><a href="/">Alrad</a></li>
-	<li class="pull-right"><a href="/tentang"  >Bio</a></li>
-	<li class="pull-right"><a href="/halaman"  >Halaman</a></li> 
-	<li class="pull-right"><a href="/berlangganan"  >Langganan</a></li>
+	<li><a href="/tentang"  >Bio</a></li>
+	<li><a href="/halaman"  >Halaman</a></li> 
+	<li><a href="/berlangganan"  >Langganan</a></li>
 	</ul>
         
 		</nav> 

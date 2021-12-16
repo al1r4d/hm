@@ -48,25 +48,36 @@
 
 
 <header>
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
 
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
 	<div class="wrapper">
 
-
-	<!--	<h2><a href="/">Alrad</a><a style="color:green">.</a></h2>
-		<p><b style="color:white">Blog Pribadi Alif Radhitya</p></b> --!>
-<!-- <center>
-<img src="https://raw.githubusercontent.com/radhityaa/radhityaa.github.io/master/media/linuxnow2.gif">
-<img src="https://raw.githubusercontent.com/radhityaa/radhityaa.github.io/master/media/gnubanner-2.png">
- <img src="https://raw.githubusercontent.com/radhityaa/radhityaa.github.io/master/media/rss.png">
-<img src="https://raw.githubusercontent.com/radhityaa/radhityaa.github.io/master/media/internetprivacy.gif">
-</center> --!>
-			<nav>
+		<h2><a href="/">Alrad</a></h2>
+		<nav>
 		
 	<ul>
-	<li class="pull-left"><a href="/">Alrad</a></li>
-	<li class="pull-right"><a href="/tentang"  >Bio</a></li>
-	<li class="pull-right"><a href="/halaman"  >Halaman</a></li> 
-	<li class="pull-right"><a href="/berlangganan"  >Langganan</a></li>
+	<li><a href="/tentang"  >Bio</a></li>
+	<li><a href="/halaman"  >Halaman</a></li> 
+	<li><a href="/berlangganan"  >Langganan</a></li>
 	</ul>
         
 		</nav> 
@@ -123,9 +134,8 @@
 <p><p>Tidak terasa sudah satu tahun saya menjadi Smalane. Rasanya baru kemarin saya diterima di sekolah ini.</p>
 
 <h2 id="tidak-rela">Tidak Rela</h2>
-<p>Saya masih belum rela waktu kelas 10 dihabiskan di rumah saja. Bukan karena kemalasan, melainkan peraturan pemerintah dan virus corona yang menghambat.</p>
-
-<p>Tidak ada MOS, perkenalan siswa baru dengan lingkungan sekolah, dan acara sekolah lainnya. Rasanya menyebalkan sekali, padahal kegiatan - kegiatan itulah yang paling ditunggu.</p>
+<p>Saya masih belum rela waktu kelas 10 dihabiskan di rumah saja. Bukan karena kemalasan, melainkan peraturan pemerintah dan virus corona yang menghambat. 
+Tidak ada MOS, perkenalan siswa baru dengan lingkungan sekolah, dan acara sekolah lainnya. Rasanya menyebalkan sekali, padahal kegiatan - kegiatan itulah yang paling ditunggu.</p>
 
 <h2 id="daring-tidak-menyenangkan">Daring tidak menyenangkan.</h2>
 <p>Akhirnya pelajaran jarak jauh dilakukan setelah menjadi mimpi - mimpi. Sebagian orang bermimpi melakukan pembelajaran lewat rumah saja. Itu memudahkan, anda tidak tidak perlu ke luar, cukup di rumah saja.</p>

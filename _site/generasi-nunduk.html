@@ -48,25 +48,36 @@
 
 
 <header>
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
 
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
 	<div class="wrapper">
 
-
-	<!--	<h2><a href="/">Alrad</a><a style="color:green">.</a></h2>
-		<p><b style="color:white">Blog Pribadi Alif Radhitya</p></b> --!>
-<!-- <center>
-<img src="https://raw.githubusercontent.com/radhityaa/radhityaa.github.io/master/media/linuxnow2.gif">
-<img src="https://raw.githubusercontent.com/radhityaa/radhityaa.github.io/master/media/gnubanner-2.png">
- <img src="https://raw.githubusercontent.com/radhityaa/radhityaa.github.io/master/media/rss.png">
-<img src="https://raw.githubusercontent.com/radhityaa/radhityaa.github.io/master/media/internetprivacy.gif">
-</center> --!>
-			<nav>
+		<h2><a href="/">Alrad</a></h2>
+		<nav>
 		
 	<ul>
-	<li class="pull-left"><a href="/">Alrad</a></li>
-	<li class="pull-right"><a href="/tentang"  >Bio</a></li>
-	<li class="pull-right"><a href="/halaman"  >Halaman</a></li> 
-	<li class="pull-right"><a href="/berlangganan"  >Langganan</a></li>
+	<li><a href="/tentang"  >Bio</a></li>
+	<li><a href="/halaman"  >Halaman</a></li> 
+	<li><a href="/berlangganan"  >Langganan</a></li>
 	</ul>
         
 		</nav> 
@@ -143,7 +154,7 @@
 
 <p>Bagaimana dengan saya? Harus diakui bahwa <strong>saya terkadang main handphone ketika ada teman - teman saya, karena sudah tidak ada yang dibahas dan bingung mau bicara tentang apa</strong>. Tapi saya juga berusaha untuk tidak menggunakah handphone dan lebih banyak berbicara dengan teman - teman.</p>
 
-<h2 id="individualis">Individualis,</h2>
+<h2 id="individualis">Individualis</h2>
 <p>Sudah saya tegaskan sebelumnya jika <em>masyarakat terlalu fokus dengan gawainya sehingga melupakan lingkungan sekitar</em>. Timbulah perasaan tidak butuh orang lain karena sudah asyik dengan handphone, sehingga muncul sikap <em>individualis dan apatisme</em>.</p>
 </p>
 </article>

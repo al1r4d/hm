@@ -10,7 +10,6 @@ Tidak terasa sudah satu tahun saya menjadi Smalane. Rasanya baru kemarin saya di
 
 ## Tidak Rela
 Saya masih belum rela waktu kelas 10 dihabiskan di rumah saja. Bukan karena kemalasan, melainkan peraturan pemerintah dan virus corona yang menghambat. 
-
 Tidak ada MOS, perkenalan siswa baru dengan lingkungan sekolah, dan acara sekolah lainnya. Rasanya menyebalkan sekali, padahal kegiatan - kegiatan itulah yang paling ditunggu.
 
 ## Daring tidak menyenangkan.

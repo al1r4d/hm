@@ -48,25 +48,36 @@
 
 
 <header>
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
 
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
 	<div class="wrapper">
 
-
-	<!--	<h2><a href="/">Alrad</a><a style="color:green">.</a></h2>
-		<p><b style="color:white">Blog Pribadi Alif Radhitya</p></b> --!>
-<!-- <center>
-<img src="https://raw.githubusercontent.com/radhityaa/radhityaa.github.io/master/media/linuxnow2.gif">
-<img src="https://raw.githubusercontent.com/radhityaa/radhityaa.github.io/master/media/gnubanner-2.png">
- <img src="https://raw.githubusercontent.com/radhityaa/radhityaa.github.io/master/media/rss.png">
-<img src="https://raw.githubusercontent.com/radhityaa/radhityaa.github.io/master/media/internetprivacy.gif">
-</center> --!>
-			<nav>
+		<h2><a href="/">Alrad</a></h2>
+		<nav>
 		
 	<ul>
-	<li class="pull-left"><a href="/">Alrad</a></li>
-	<li class="pull-right"><a href="/tentang"  >Bio</a></li>
-	<li class="pull-right"><a href="/halaman"  >Halaman</a></li> 
-	<li class="pull-right"><a href="/berlangganan"  >Langganan</a></li>
+	<li><a href="/tentang"  >Bio</a></li>
+	<li><a href="/halaman"  >Halaman</a></li> 
+	<li><a href="/berlangganan"  >Langganan</a></li>
 	</ul>
         
 		</nav> 
@@ -100,11 +111,11 @@
 
 <div>
 
-	<h2> Selamat datang!</h2>
+	<h1> Selamat datang!</h1>
 	<p>Blog ini adalah catatan pribadi dengan desain minimalis.</p> 
 	<p>Isi adalah pendapat pribadi, bukan mewakili siapapun.</p>
-	<p><a href="/mendesak">Mendesak</a> dan <a href="/propaganda">propaganda</a> sekarang!</p>
-	<h2> Postingan Terbaru</h2>
+	<p><a href="/mendesak">Mendesak</a> sekarang!</p>
+	<h1> Postingan Terbaru</h1>
 <p> Catatan saya selama menjadi smalane bisa dilihat di <a href="/tag/smala">halaman ini</a>. </p>	
 		<ul>
 			
@@ -151,7 +162,7 @@
 
 <div>
 	<div id="search-container">
-	<h2> Cari Disini </h2>
+	<h1> Cari Disini </h1>
 	<input type="text" id="search-input" placeholder="Ketik apa yang ingin dicari">
 <ul id="results-container"></ul>
 </div>
