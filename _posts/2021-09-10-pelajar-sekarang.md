@@ -10,7 +10,8 @@ Semakin hari, hidup semakin kompleks. Saya tidak pernah membayangkannya ini.
 Sekarang saya adalah remaja yang hidup di era modern. Melakukan hal apapun terasa mudah, jika dibandingkan masa lalu.
 
 Dan juga muncul fenomena ingin mati / bunuh diri di kalangan remaja.
-Hobi Mati Bunuh Diri, Gak Bosen?
+
+## Hobi Mati Bunuh Diri, Gak Bosen?
 
 Sebagian anak muda ada yang ingin mati. Daripada sukses, mereka memilih mengakhiri hidupnya.
 

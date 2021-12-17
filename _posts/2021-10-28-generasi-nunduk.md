@@ -12,6 +12,7 @@ Saya mulai teringat kutipan Tuan Albert Einstein yang berkaitan masalah ini.
 > *I fear the day when technology overlaps our humanity. The world will have a generation of idiots*
 
 ## Mereka Yang Menunduk
+
 Bukan rahasia jika masyarakat cenderung selalu menggengam handphone. Entah bermain game, *scrolling* media sosial, dan lain - lain. Menyapa orang lain berubah menjadi hal asing karena masyarakat terlalu sibuk dengan gawainya. Tatapannya hanya fokus ke gawai, sekitarnya dilupakan.
 
 Gawai telah menjadi bagian dari tubuh manusia. Mereka yang makan juga menunduk dengan gawainya. Yang bertemu teman malah sibuk bermain handphonenya, bukan bercengkerama.
@@ -26,4 +27,5 @@ Waktu guru menjelaskan, tidak sedikit masih bertahan menunduk menatap layar (kec
 Bagaimana dengan saya? Harus diakui bahwa **saya terkadang main handphone ketika ada teman - teman saya, karena sudah tidak ada yang dibahas dan bingung mau bicara tentang apa**. Tapi saya juga berusaha untuk tidak menggunakah handphone dan lebih banyak berbicara dengan teman - teman.
 
 ## Individualis
+
 Sudah saya tegaskan sebelumnya jika *masyarakat terlalu fokus dengan gawainya sehingga melupakan lingkungan sekitar*. Timbulah perasaan tidak butuh orang lain karena sudah asyik dengan handphone, sehingga muncul sikap *individualis dan apatisme*.
