@@ -15,5 +15,11 @@ Padahal yang dibutuhkan hanyalah tulisan dan ilustrasi. Tetapi di website - webs
 
 Website jaman sekarang dipenuhi iklan - iklan yang menyebalkan. Mereka menempatkan di segala bidang. Saya tahu itu semua demi uang, tapi dengan sesaknya iklan akan menyebabkan ketidaksukaan pembaca. Mungkin website akan perlahan - lahan ditinggalkan.
 
-Banyak yang mengeluh beberapa website yang menyebabkan naiknya penggunaan sumber daya dikarenakan skrip - skrip sampah yang memberatkan. Bisa anda coba berselancar di Internet dengan laptop atau handphone berspesifikasi rendah.
+Belum lagi soal skrip analitik seperti [Google Analytics](https://plausible.io/blog/remove-google-analytics) yang menggangu privasi. Dengan analitik, orang tahu apa yang anda lakukan selama di situ.
+
+Juga banyak yang mengeluh beberapa website yang menyebabkan naiknya penggunaan sumber daya dikarenakan skrip - skrip sampah yang memberatkan. Bisa anda coba berselancar di Internet dengan laptop atau handphone berspesifikasi rendah.
+
+Apa yang kita harus lakukan?
+
 ## Minimalisme adalah jalan ninja
+
