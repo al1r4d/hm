@@ -1,0 +1,32 @@
+I"*<p>Kita hidup dimana website menjadi <a href="https://idlewords.com/talks/website_obesity.htm">kembung atau <em>bloat</em></a>. Ketika mengakses, mungkin saja perangkat keras kita menjadi panas karena website berisi bermacam - macam skrip dan gambar. Saya tidak menyukai itu dan kesederhanaan blog ini adalah perlawanan saya.</p>
+
+<h2 id="bloat-website-di-era-modern"><em>Bloat</em> Website di Era Modern</h2>
+<p>Bayangkan anda ingin membaca berita di website <a href="https://www.kompas.com/">Kompas</a> dan <a href="https://www.tribunnews.com/">TribunNews</a>, kemudian anda disambut puluhan iklan yang menganggu kenyamanan. Ribet, kan?</p>
+
+<p>Padahal yang dibutuhkan hanyalah tulisan dan ilustrasi. Tetapi di website - website berita umumnya bertebaran iklan - iklan yang menyebalkan.</p>
+
+<p>Website jaman sekarang dipenuhi iklan - iklan yang menyebalkan. Mereka menempatkan di segala bidang. Saya tahu itu semua demi uang, tapi dengan sesaknya iklan akan menyebabkan ketidaksukaan pembaca. Mungkin website akan perlahan - lahan ditinggalkan.</p>
+
+<p>Belum lagi soal skrip analitik seperti <a href="https://plausible.io/blog/remove-google-analytics">Google Analytics</a> yang menggangu privasi. Dengan analitik, orang tahu apa yang anda lakukan selama di situ.</p>
+
+<p>Juga banyak yang mengeluh beberapa website yang menyebabkan naiknya penggunaan sumber daya dikarenakan skrip - skrip sampah yang memberatkan. Bisa anda coba berselancar di Internet dengan laptop atau handphone berspesifikasi rendah.</p>
+
+<p>Bahkan anda membutuhkan kuota lebih dari 1 MB hanya untuk mengakses beberapa website.
+Apa yang kita harus lakukan? Menjadikan web tersebut menjadi minimalis!</p>
+
+<h2 id="minimalisme-adalah-jalan-ninja">Minimalisme adalah jalan ninja</h2>
+<blockquote>
+  <p><em>Ingenious ideas are simple. Ingenious software is simple. Simplicity is the heart of the Unix philosophy</em></p>
+
+  <p>Oleh <a href="https://suckless.org/philosophy/">Suckless.org team</a></p>
+</blockquote>
+
+<p>Permasalahan ini dapat diselesaikan dengan cara menjadikan web tersebut menjadi lebih minimalis. Maksudnya adalah menghapus skirp javascript yang memberatkan, mengoptimasi CSS, dan memperkecil ukuran gambar atau video.</p>
+
+<p>Lihatlah blog ini yang dibuat seminimalis mungkin dengan cara tidak menyediakan banner iklan yang menganggu pembaca, menggunakan sedikit Javascript, hanya digunakan untuk fitur pencarian, dan meminimalisir penggunaan gambar.</p>
+
+<p>Dengan konsep blog seperti ini, saya yakin lebih cepat mengakses ini daripada website besar yang saya sebutkan sebelumnya. Terlepas dari segala fitur, saya percaya anda hanya mementingkan <strong>teks</strong> daripada hal - hal lainnya.</p>
+
+<h2 id="akhir-kata">Akhir kata</h2>
+<p>Mulailah meminimalisir javascript, mengoptimasi CSS, dan mengurangi file - file besar. <strong>Minimalis sekarang!</strong></p>
+:ET
