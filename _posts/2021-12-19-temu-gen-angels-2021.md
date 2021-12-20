@@ -49,6 +49,10 @@ Panitia telah menyiapkan metode kelompok. Kami mengambil undian yang menentukan 
 
 Ketika acara perkenalan, tiap anggota kelompok maju berdiri ke panggung dan memperkenalkan diri.
 
+### Senam
+![](/media/temugen/senam.JPG)
+Kami kaget kalau ada senam, mungkin persiapan sebelum memulai permainan. Lucunya yang menginstruksikan lupa - lupa gerakannya.
+
 ### Game Ke-1
 Game ke-1 adalah rebutan kursi. Babak pertama dimulai. Saya mewakili kelompok 6 beradu melawan Mas Rangga (22), Mas Fergie (22), Mas Gibran (22), Nugraha (22), Fadhil (22), Joy (22), Scenna (22), dan dua anak yang saya lupa namanya.
 
@@ -96,3 +100,46 @@ Kali ini babak kedua dimulai. Saya tidak ingat nama - nama peserta, yang pasti a
 </div>
 
 Dalam game 1.2, saya lupa bagaimana berlangsungnya permainan karena saya asyik mengobrol bersama kakak kelas dan teman teman. Yang saya ingat adalah Imelda keluar sebagai pemenang karena Mas Haris dan Mas Rangga sibuk sampai lupa kursinya kosong.
+
+### Game Ke-2
+![](/media/temugen/bottleflip.JPG)
+Game ke-2 adalah [*bottle flip*](https://www.youtube.com/watch?v=VJwoSfTOhyM). Cara mainnya perwakilan anggota maju ke depan lalu membolak-balikan botol hingga berdiri. Saya juga tidak ingat berlangsungnya permainan.
+
+### Game Ke-3 
+Huhuhu.. saya lupa apakah ada Game Ke-3 atau tidak karena saya gak perhatikan.
+
+### Bincang - bincang, pembagian makanan, dan sesi foto.
+![](/media/temugen/bincangkedua.jpg)
+Setelah game selesai, peserta masuk ke acara selanjutnya yaitu *Bincang - bincang, pembagian makanan, dan sesi foto*. Sebagian peserta makan dan ngobrol - ngobrol bersama. Ada juga yang sibuk foto karena tidak ingin lupa mengabadikan momen ini. 
+
+Sayang sekali, seharusnya ada sesi sharing tapi karena peserta asik ngobrol + tidak ada yang mau sharing kedepan sehingga sharing dibatalkan.
+
+### Akhir kata
+<div class="grid-container">
+<div class="grid-item">
+<a href="/media/temugen/angels22.JPG"><img src="/media/temugen/angels22.JPG"></a>
+</div>
+
+<div class="grid-item">
+<a href="/media/temugen/angels23.JPG"><img src="/media/temugen/angels23.JPG"></a>
+</div>
+
+<div class="grid-item">
+<a href="/media/temugen/angels24.JPG"><img src="/media/temugen/angels24.JPG"></a>
+</div>
+
+</div>
+
+<center><b>Silahkan ditekan fotonya jika ingin melihat secara penuh</b></center>
+
+Saya cuman mau bilang terima kasih kepada semua yang udah menyepatkan waktunya. Ini adalah pertama kalinya saya ikut temu gen. Dahulu waktu kelas 10, temu gen saya dilakukan secara online yang *tidak membekas* seperti ini.
+
+Semenjak mengenal **konsep gen**, saya mengerti arti kekeluargaan di sekolah. Dulu saya tidak pernah paham ketika orang bicara kekeluargaan dan rasa kebersamaan di sekolah.
+
+Habisini kakak Angels 22 akan sibuk dengan ujian dan tahun depan akan lulus. Saya berharap kakak Angels 22 sukses dan tercapai segala cita - citanya.
+
+> *People comes and goes. But some would stay, you know*
+>
+> [Pamungkas - Lover Stay](https://www.youtube.com/watch?v=4zyyVrIANXw)
+
+Terima kasih untuk semuanya! Sampai jumpa di Temu Gen 2022!
