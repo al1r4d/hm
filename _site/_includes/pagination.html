@@ -4,7 +4,7 @@
     {% comment %} Link for previous page {% endcomment %}
     {% if paginator.previous_page %}
       {% if paginator.previous_page == 1 %}
-      <li><a href="/" class="btn">Previous</a></li>
+      <li><a href="/" class="btn" style="margin-left: -12px;">Previous</a></li>
       {% else %}
         <li><a href="/weblog/page{{ paginator.previous_page }}/" class="btn">Previous</a></li>
       {% endif %}
@@ -14,7 +14,7 @@
       Link next page
     {% endcomment %}
     {% if paginator.next_page %}
-      <li><a href="/weblog/page{{ paginator.next_page }}/" class="btn">Next</a></li>
+    <li><a href="/weblog/page{{ paginator.next_page }}/" class="btn" style="margin-left: -12px;" >Next</a></li>
     {% endif %}
   </ul>
 </div>

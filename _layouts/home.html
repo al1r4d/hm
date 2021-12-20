@@ -24,8 +24,8 @@ layout: default
 	<p><a href="/mendesak">Mendesak</a> sekarang!</p>
 	<div class="flex-container">
 		<div>
-		<h1> Postingan Terbaru</h1>
-		<ul>
+		<h1 style="margin-left: -12px;"> Postingan Terbaru</h1>
+		<ul style="margin-left: -12px;">
 			{% for post in paginator.posts limit:5 %}
             <li>
 		<div class="date">{{ post.date | date: "%Y-%m-%d" }}</div>
