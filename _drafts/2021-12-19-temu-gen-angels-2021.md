@@ -5,9 +5,8 @@ layout: post
 tag:
 - smala
 ---
-
-Alhamdulillah kami berhasil melaksanakan acara Temu Gen Angels 2021 yang diselenggarakan oleh Angels 24.
-
+![](/media/temugen/fotoangkatan.JPG)
+Alhamdulillah kami berhasil melaksanakan acara Temu Gen Angels 2021 yang diselenggarakan oleh Angels 24. Meskipun yang datang masih sedikit, mungkin karena kesibukan masing - masing.
 ## Persiapan
 Awalnya saya dan Angels 24 menginginkan bulan November. Namun padatnya jadwal dan kegiatan Penilaian Akhir Semester memaksa kami memilih 18 Desember 2021.
 
@@ -50,4 +49,50 @@ Panitia telah menyiapkan metode kelompok. Kami mengambil undian yang menentukan 
 
 Ketika acara perkenalan, tiap anggota kelompok maju berdiri ke panggung dan memperkenalkan diri.
 
-Game ke-1 dimulai. Nama gamenya adalah rebutan kursi.
+### Game Ke-1
+Game ke-1 adalah rebutan kursi. Babak pertama dimulai. Saya mewakili kelompok 6 beradu melawan Mas Rangga (22), Mas Fergie (22), Mas Gibran (22), Nugraha (22), Fadhil (22), Joy (22), Scenna (22), dan dua anak yang saya lupa namanya.
+
+Ronde pertama berisi 9 anak, yang keluar adalah anak X (saya tidak tahu namanya).
+
+Ronde kedua berisi 8 anak, yang keluar adalah anak Y (saya juga tidak ingat namanya)
+
+<center><img src="/media/temugen/akukalahmain.JPG">
+<p><i> Ronde ketiga, saya berbaju flanel menduduki baju putih (Fadhil)</i></p>
+</center>
+
+Ronde ketiga berisi 7 anak, yang keluar adalah saya. Saya kalah cepat dibanding Fadhil.
+
+Ronde keempat berisi 6 anak, giliran Scenna yang harus keluar.
+
+Ronde kedua berisi 5 anak, giliran Joy dipaksa keluar.
+
+Ronde ketiga berisi 4 anak, sayang sekali Fadhil tergeser.
+
+Ronde keempat berlangsung sengit, hanya ada Nugraha, Mas Fergie, dan Mas Gibran. Dalam ronde kali ini, peserta harus joget. Pada akhirnya, Nugraha tersapu dari ronde ketiga.
+
+<div class="grid-container">
+<div class="grid-item">
+<a href="/media/temugen/masfergievsmasgibran.JPG"><img src="/media/temugen/masfergievsmasgibran.JPG"></a>
+</div>
+
+<div class="grid-item">
+<a href="/media/temugen/masfergievsmasgibran2.JPG"><img src="/media/temugen/masfergievsmasgibran2.JPG"></a>
+</div>
+</div>
+
+Ronde kelima adalah final yang mempertarungkan Mas Fergie dan Mas Gibran. Karena usil, mereka terkadang menarik kursinya agar musuh tidak bisa duduk. Tapi yang jelas, Mas Fergie yang menang.
+
+### Game Ke-1.2
+Kali ini babak kedua dimulai. Saya tidak ingat nama - nama peserta, yang pasti ada Mas Acan (22), Mas Rangga (22), Mas Haris (22), Imelda (22), Najwa (22), dan 2 orang yang saya tidak ketahui identitasnya.
+
+<div class="grid-container">
+<div class="grid-item">
+<a href="/media/temugen/game-1.2.JPG"><img src="/media/temugen/game-1.2.JPG"></a>
+</div>
+
+<div class="grid-item">
+<a href="/media/temugen/game-1.2samajuga.JPG"><img src="/media/temugen/game-1.2samajuga.JPG"></a>
+</div>
+</div>
+
+Dalam game 1.2, saya lupa bagaimana berlangsungnya permainan karena saya asyik mengobrol bersama kakak kelas dan teman teman. Yang saya ingat adalah Imelda keluar sebagai pemenang karena Mas Haris dan Mas Rangga sibuk sampai lupa kursinya kosong.

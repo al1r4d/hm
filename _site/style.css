@@ -264,13 +264,13 @@ article .grid-item {
   margin: 0 auto;
   text-align: center;
   font-size: 14px;
-  min-width: 33.33%;
+  max-width: 33.33%;
   padding: 0 1px;
 }
 
 @media screen and (max-width: 640px) {
   article .grid-item {
-    max-width: 100%;
+    max-width: 33.33%;
   }
 }
 

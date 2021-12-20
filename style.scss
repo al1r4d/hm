@@ -265,11 +265,11 @@ article {
         margin: 0 auto;
         text-align: center;
         font-size: 14px;
-        min-width: 33.33%;
+        max-width: 33.33%;
         padding: 0 1px;
 
         @include mobile {
-            max-width: 100%;
+            max-width: 33.33%;
         }
     }
     .grid-item middle {
@@ -606,4 +606,6 @@ background-color: #ddd
 
 /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
 .show {display:block;} 
+
+
 @import "default";
