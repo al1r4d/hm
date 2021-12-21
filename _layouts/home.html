@@ -24,7 +24,7 @@ layout: default
 	<p><a href="/mendesak">Mendesak</a> sekarang!</p>
 	<div class="flex-container">
 		<div>
-		<h1 style="margin-left: -12px;"> Postingan Terbaru</h1>
+		<h1 style="margin-left: -12px;">Terbaru</h1>
 		<ul style="margin-left: -12px;">
 			{% for post in paginator.posts limit:5 %}
             <li>
@@ -36,20 +36,23 @@ layout: default
 {% include pagination.html %}
 </div>
 
-<div>
 	<div id="search-container">
 		<h1> Kategori    </h1>
 		<ul>
 			<li><a href="/tag/catatan">📜 Catatan</a></li>
 			<li><a href="/tag/smala">🎓 Smala</a></li>
 			<li><a href="/tag/cerita">🗣️  Cerita</a></li>
-
-		<h1> Cari Disini </h1>
+	</div>
+	</div>
+</div>
+</div>
+</div>
+	<h1> Cari Disini </h1>
 	<input type="text" id="search-input" placeholder="Ketik apa yang ingin dicari">
 <ul id="results-container"></ul>
-</div>
-</div>
 <script>
+
+
 // @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt MIT
 // @license-end
 </script>
@@ -65,5 +68,3 @@ layout: default
 })
 // @license-end
 </script>
-
-</div>
