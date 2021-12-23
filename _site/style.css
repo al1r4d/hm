@@ -322,7 +322,7 @@ article .avatar {
 
 @media screen and (max-width: 640px) {
   article ul,
-  article ol {
+article ol {
     padding-left: 2em;
   }
 }
@@ -335,19 +335,19 @@ article hr {
 
 @media screen and (max-width: 640px) {
   section .date.right,
-  .archive .date.right {
+.archive .date.right {
     float: none;
     display: inline-block;
   }
   section .date.right::before,
-  .archive .date.right::before {
+.archive .date.right::before {
     content: " — ";
   }
 }
 
 @media screen and (max-width: 640px) {
   article p,
-  .home p {
+.home p {
     margin-top: 0.25em;
   }
 }
