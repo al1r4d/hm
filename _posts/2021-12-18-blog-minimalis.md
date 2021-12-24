@@ -3,6 +3,7 @@ title: Blog dan Minimalisme
 lang: id_ID
 layout: post-catatan
 tag: 
+- teknologi
 - catatan
 ---
 
