@@ -4,13 +4,14 @@
 <header>
 <div class="wrapper">
 
-		<h2 class="pull-left"><a href="/">Alrad</a></h2>
-		<nav>
+		<h2 class="left"><a href="/">Alrad</a></h2>
+		<nav class="right">
 		
 	<ul>
-	<li class="pull-right"><a href="/tentang" {% if current[1] == "bio" %}class="current"{% endif %} >Bio</a></li>
-	<li class="pull-right"><a href="/halaman" {% if current[1] == "halaman" %}class="current"{% endif %} >Halaman</a></li> 
-	<li class="pull-right"><a href="/berlangganan" {% if current[1] == "langganan" %}class="current"{% endif %} >Langganan</a></li>
+		<li><a href="/tentang" {% if current[1] == "bio" %}class="current"{% endif %} >Tentang</a></li>
+	<li><a href="/halaman" {% if current[1] == "halaman" %}class="current"{% endif %}>Memo</a></li>
+	<li><a href="/mendesak">Mendesak</a></li>
+	<li><a href="/berlangganan" {% if current[1] == "langganan" %}class="current"{% endif %} >Ikuti</a></li>
 	</ul>
         
 		</nav> 
