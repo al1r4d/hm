@@ -146,9 +146,8 @@ nav li .current {
 
 @media screen and (max-width: 640px) {
   nav.right {
-    float: left;
     width: 100%;
-    margin: 0;
+    margin: 0 0.5em;
     padding: 0;
   }
 }
