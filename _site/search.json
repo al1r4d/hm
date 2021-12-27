@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "Selalu Bicara Pendidikan",
+      "category" : "",
+      "tags"     : "catatan",
+      "url"      : "/membicarakan-pendidikan",
+      "date"     : "2021-12-27 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Melawan Millenial",
+      "category" : "",
+      "tags"     : "catatan",
+      "url"      : "/melawan-millenial",
+      "date"     : "2021-12-27 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "Normalisasi Keburukan",
       "category" : "",
       "tags"     : "catatan",
@@ -121,14 +137,6 @@
     } ,
   
     {
-      "title"    : "Pelajar Sekarang",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/pelajar-sekarang",
-      "date"     : "2021-09-10 00:00:00 +0000"
-    } ,
-  
-    {
       "title"    : "Di bawah",
       "category" : "",
       "tags"     : "catatan",
@@ -141,6 +149,14 @@
       "category" : "",
       "tags"     : "catatan",
       "url"      : "/beli-dagangan-pinggiran",
+      "date"     : "2021-09-10 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Pelajar Sekarang",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/pelajar-sekarang",
       "date"     : "2021-09-10 00:00:00 +0000"
     } ,
   
