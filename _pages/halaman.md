@@ -18,9 +18,9 @@ Buat anda yang tidak ingin ketinggalan informasi
 ## Mendesak 
 Mendesak semua orang untuk melakukannya
 
-[Mendesak](/mendesak)
+[Pergi](/mendesak)
 
 ## Dukung
 Buat yang mau dukung saya aja, hehe.
 
-[Dukung](/tentang/dukung)
+[Pergi](/tentang/dukung)

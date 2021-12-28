@@ -22,7 +22,7 @@ html {
 body {
     margin: 0 auto;
     padding: 0;
-    width: 50%;
+    width: 500px;
     @include mobile {
 	    width: 100%;
     }
