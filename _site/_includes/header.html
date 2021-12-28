@@ -2,6 +2,10 @@
 {% assign current = page.url | downcase | split: '/' %}
 
 <header>
+{% if site.newsline %}
+        {% include newsline.html %}
+      {% endif %}
+
 <div class="wrapper">
 
 		<h2 class="left"><a href="/">Alrad</a></h2>
