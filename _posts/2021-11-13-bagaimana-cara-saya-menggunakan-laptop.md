@@ -12,7 +12,7 @@ Saya menggunakan Thinkpad T440P, laptop ini menggunakan aksesoris Thinkpad Docki
 
 Juga memiliki [Z83 II Mini PC](https://www.priceboon.com/product/beelink-z83-ii/) sebagai server pribadi di rumah yang menjalankan [Jellyfin](https://jellyfin.org) dan [Nextcloud](https://nextcloud.com).
 ## Operasi Sistem
-Operasi sistem yang saya gunakan untuk kedua laptop adalah Devuan GNU/Linux. Kernel yang digunakan Mini PC spesial, yaitu Linux-libre.
+Operasi sistem yang saya gunakan untuk pada laptop adalah [Gentoo GNU/Linux](https://gentoo.org) dan Mini PC adalah Devuan GNU/Linux. Kernel yang digunakan Mini PC spesial, yaitu Linux-libre.
 
 Saya menghindari Microsoft Windows dan Apple MacOS karena [*proprietary software*](http://www.gnu.org/proprietary/proprietary.en.html). Sebagai gantinya, saya memilih GNU/Linux yang [*Free Software*](https://www.gnu.org/philosophy/free-sw.en.html).
 ## Kegiatan
