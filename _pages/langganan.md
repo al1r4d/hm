@@ -8,15 +8,26 @@ Untuk kamu yang tidak ingin ketinggalan postingan terbaru, tapi sedang sibuk bis
 
 `https://radhitya.mengobrol.com/feed.xml`
 ## Apa itu RSS
-RSS singkatan dari *Really Simple Syndication*, orang lebih suka menyebutnya *feed* atau *RSS Feed*. Fungsinya menampilkan *web feed* yang berisi artikel terbaru bagi pembaca.
 
-Cara kerjanya sama seperti Youtube. Jika kamu ingin mendapat kabar terbaru, maka kamu harus berlangganan atau subscribe. Dan untuk RSS, kamu harus menambahkan link rss di aplikasi *rss feed* favoritmu.
+Bayangkan versi terbuka dari Twitter atau Facebook News Feed, tanpa iklan psy-op, tidak dimiliki oleh oligopoli, dimanipulasi tanpa algoritma, dan semua di bawah kendali penuh Anda.
+
+Bayangkan versi buletin di mana Anda tidak perlu khawatir tentang mereka menjual email Anda ke scammers, halaman berhenti berlangganan seperti labirin, atau menjejali kotak masuk Anda dengan lebih banyak omong kosong.
+
+## Bagaimana Cara Kerja RSS?
+Tidak seperti buletin yang memberikan email Anda kepada setiap penerbit (dan mereka mungkin menyalahgunakan kepercayaan itu), RSS bekerja dengan kebijakan "jangan hubungi saya, saya akan menelepon Anda".
+
+Umpan RSS adalah file teks di situs web. Berisi sekumpulan artikel – tidak ada pelacakan atau "personalisasi" – seperti koran cetak.
 
 ![](/media/rsss.png)
-<center>Salah satu blog yang saya ikuti lewat RSS</center>
+
+Kemudian, aplikasi pembaca RSS apa pun yang Anda gunakan – Anda dapat menggunakan aplikasi apa pun yang dibuat oleh siapa pun – akan memanggil situs web untuk umpan yang Anda pilih secara khusus, tidak lebih atau kurang. Situs web tidak dapat memaksanya ke arah lain.
+![](/media/rss2.png)
+
+Aplikasi Anda kemudian menunjukkan posting Anda dalam urutan kronologis terbalik yang baik. (Beberapa aplikasi memungkinkan Anda menambahkan filter ekstra, tetapi tidak seperti algoritme media sosial, Anda mengontrolnya.) Aplikasi juga membuat postingan lebih bagus daripada teks mentah:
+![](/media/rss3.png)
 
 ## Kenapa Menggunakan RSS?
-RSS adalah hal tua, sekarang sudah saatnya langganan lewat email. Tetapi kenapa saya masih menggunakan RSS?
+RSS adalah hal tua, sekarang sudah jamannya langganan lewat email. Tetapi kenapa saya masih menggunakan RSS?
 - **Sederhana**. Cukup masukkan link rss blog ke program dan selesai.
 - **Aman**. Tidak ada informasi yang dimasukkan ketika berlangganan via RSS. Tentu berbeda dengan langganan email yang harus menulis email milikmu.
 - **Murah**. RSS adalah gratis dan murah. Berbeda dengan langganan via email yang mengharuskan memiliki server SMTP mahal untuk kirim email pemberitahuan.
@@ -25,6 +36,6 @@ RSS adalah hal tua, sekarang sudah saatnya langganan lewat email. Tetapi kenapa 
 Ada banyak program RSS yang bisa digunakan, contoh di bawah hanyalah referensi.
 - Linux : `newsboat`, `gnome-feeds`, atau `Thunderbird`.
 - Windows : `RSSOwl`.
-- Android : `Sparse RSS`
+- Android : `Feeder`
 - MacOS : Saya tidak pernah mencobanya.
 - IOS : Saya tidak pernah mencobanya juga.

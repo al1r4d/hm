@@ -1,0 +1,38 @@
+I"�
+<p>Untuk kamu yang tidak ingin ketinggalan postingan terbaru, tapi sedang sibuk bisa berlangganan lewat <em>RSS</em>.</p>
+
+<p><code class="language-plaintext highlighter-rouge">https://radhitya.mengobrol.com/feed.xml</code></p>
+<h2 id="apa-itu-rss">Apa itu RSS</h2>
+
+<p>Bayangkan versi terbuka dari Twitter atau Facebook News Feed, tanpa iklan psy-op, tidak dimiliki oleh oligopoli, dimanipulasi tanpa algoritma, dan semua di bawah kendali penuh Anda.</p>
+
+<p>Bayangkan versi buletin di mana Anda tidak perlu khawatir tentang mereka menjual email Anda ke scammers, halaman berhenti berlangganan seperti labirin, atau menjejali kotak masuk Anda dengan lebih banyak omong kosong.</p>
+
+<h2 id="bagaimana-cara-kerja-rss">Bagaimana Cara Kerja RSS?</h2>
+<p>Tidak seperti buletin yang memberikan email Anda kepada setiap penerbit (dan mereka mungkin menyalahgunakan kepercayaan itu), RSS bekerja dengan kebijakan “jangan hubungi saya, saya akan menelepon Anda”.</p>
+
+<p>Umpan RSS adalah file teks di situs web. Ini hanya sekumpulan posting – tidak ada pelacakan atau “personalisasi” – seperti koran cetak:i</p>
+
+<p><img src="/media/rsss.png" alt="" /></p>
+
+<p>Kemudian, aplikasi pembaca RSS apa pun yang Anda gunakan – Anda dapat menggunakan aplikasi apa pun yang dibuat oleh siapa pun – itu akan memanggil situs web untuk umpan yang Anda pilih secara khusus, tidak lebih atau kurang. Situs web tidak dapat memaksanya ke arah lain.
+<img src="/media/rss2.png" alt="" /></p>
+
+<h2 id="kenapa-menggunakan-rss">Kenapa Menggunakan RSS?</h2>
+<p>RSS adalah hal tua, sekarang sudah saatnya langganan lewat email. Tetapi kenapa saya masih menggunakan RSS?</p>
+<ul>
+  <li><strong>Sederhana</strong>. Cukup masukkan link rss blog ke program dan selesai.</li>
+  <li><strong>Aman</strong>. Tidak ada informasi yang dimasukkan ketika berlangganan via RSS. Tentu berbeda dengan langganan email yang harus menulis email milikmu.</li>
+  <li><strong>Murah</strong>. RSS adalah gratis dan murah. Berbeda dengan langganan via email yang mengharuskan memiliki server SMTP mahal untuk kirim email pemberitahuan.</li>
+</ul>
+
+<h2 id="program-rss">Program RSS</h2>
+<p>Ada banyak program RSS yang bisa digunakan, contoh di bawah hanyalah referensi.</p>
+<ul>
+  <li>Linux : <code class="language-plaintext highlighter-rouge">newsboat</code>, <code class="language-plaintext highlighter-rouge">gnome-feeds</code>, atau <code class="language-plaintext highlighter-rouge">Thunderbird</code>.</li>
+  <li>Windows : <code class="language-plaintext highlighter-rouge">RSSOwl</code>.</li>
+  <li>Android : <code class="language-plaintext highlighter-rouge">Sparse RSS</code></li>
+  <li>MacOS : Saya tidak pernah mencobanya.</li>
+  <li>IOS : Saya tidak pernah mencobanya juga.</li>
+</ul>
+:ET
