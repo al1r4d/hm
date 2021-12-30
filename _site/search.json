@@ -1,11 +1,19 @@
 [
   
     {
+      "title"    : "Lulus Dari SMA",
+      "category" : "",
+      "tags"     : "cerita",
+      "url"      : "/lulus-dari-sma",
+      "date"     : "2021-12-29 00:00:00 +0700"
+    } ,
+  
+    {
       "title"    : "Selalu Bicara Pendidikan",
       "category" : "",
       "tags"     : "catatan",
       "url"      : "/membicarakan-pendidikan",
-      "date"     : "2021-12-27 00:00:00 +0000"
+      "date"     : "2021-12-27 00:00:00 +0700"
     } ,
   
     {
@@ -13,7 +21,7 @@
       "category" : "",
       "tags"     : "catatan",
       "url"      : "/normalisasi-keburukan",
-      "date"     : "2021-12-24 00:00:00 +0000"
+      "date"     : "2021-12-24 00:00:00 +0700"
     } ,
   
     {
@@ -21,7 +29,7 @@
       "category" : "",
       "tags"     : "smala",
       "url"      : "/temu-gen-angels-2021",
-      "date"     : "2021-12-19 00:00:00 +0000"
+      "date"     : "2021-12-19 00:00:00 +0700"
     } ,
   
     {
@@ -29,7 +37,7 @@
       "category" : "",
       "tags"     : "teknologi, catatan",
       "url"      : "/blog-minimalis",
-      "date"     : "2021-12-18 00:00:00 +0000"
+      "date"     : "2021-12-18 00:00:00 +0700"
     } ,
   
     {
@@ -37,7 +45,7 @@
       "category" : "",
       "tags"     : "cerita, smala",
       "url"      : "/jumat-berkah-angkatan-23",
-      "date"     : "2021-12-04 00:00:00 +0000"
+      "date"     : "2021-12-04 00:00:00 +0700"
     } ,
   
     {
@@ -45,7 +53,7 @@
       "category" : "",
       "tags"     : "cerita",
       "url"      : "/satu-tahun-di-smala",
-      "date"     : "2021-11-27 00:00:00 +0000"
+      "date"     : "2021-11-27 00:00:00 +0700"
     } ,
   
     {
@@ -53,7 +61,7 @@
       "category" : "",
       "tags"     : "teknologi",
       "url"      : "/bagaimana-cara-saya-menggunakan-laptop",
-      "date"     : "2021-11-13 00:00:00 +0000"
+      "date"     : "2021-11-13 00:00:00 +0700"
     } ,
   
     {
@@ -61,7 +69,7 @@
       "category" : "",
       "tags"     : "catatan",
       "url"      : "/generasi-nunduk",
-      "date"     : "2021-10-28 00:00:00 +0000"
+      "date"     : "2021-10-28 00:00:00 +0700"
     } ,
   
     {
@@ -69,7 +77,7 @@
       "category" : "",
       "tags"     : "catatan",
       "url"      : "/apatisme-egoisme",
-      "date"     : "2021-10-25 00:00:00 +0000"
+      "date"     : "2021-10-25 00:00:00 +0700"
     } ,
   
     {
@@ -77,7 +85,7 @@
       "category" : "",
       "tags"     : "catatan",
       "url"      : "/dalam-politik",
-      "date"     : "2021-10-18 00:00:00 +0000"
+      "date"     : "2021-10-18 00:00:00 +0700"
     } ,
   
     {
@@ -85,7 +93,7 @@
       "category" : "",
       "tags"     : "catatan",
       "url"      : "/ironi-reformasi",
-      "date"     : "2021-09-23 00:00:00 +0000"
+      "date"     : "2021-09-23 00:00:00 +0700"
     } ,
   
     {
@@ -93,7 +101,7 @@
       "category" : "",
       "tags"     : "catatan",
       "url"      : "/kontribusi",
-      "date"     : "2021-09-21 00:00:00 +0000"
+      "date"     : "2021-09-21 00:00:00 +0700"
     } ,
   
     {
@@ -101,7 +109,7 @@
       "category" : "",
       "tags"     : "cerita",
       "url"      : "/forum-gen",
-      "date"     : "2021-09-11 00:00:00 +0000"
+      "date"     : "2021-09-11 00:00:00 +0700"
     } ,
   
     {
@@ -109,7 +117,7 @@
       "category" : "",
       "tags"     : "catatan",
       "url"      : "/dibawah",
-      "date"     : "2021-09-10 00:00:00 +0000"
+      "date"     : "2021-09-10 00:00:00 +0700"
     } ,
   
     {
@@ -117,7 +125,15 @@
       "category" : "",
       "tags"     : "catatan",
       "url"      : "/beli-dagangan-pinggiran",
-      "date"     : "2021-09-10 00:00:00 +0000"
+      "date"     : "2021-09-10 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Pelajar Sekarang",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/pelajar-sekarang",
+      "date"     : "2021-09-10 00:00:00 +0700"
     } ,
   
     {
@@ -125,7 +141,7 @@
       "category" : "",
       "tags"     : "catatan",
       "url"      : "/permulaan",
-      "date"     : "2021-09-09 00:00:00 +0000"
+      "date"     : "2021-09-09 00:00:00 +0700"
     } 
   
 ]

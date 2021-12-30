@@ -4,10 +4,14 @@ layout: page
 permalink: /tentang
 ---
 
-Saya Alif Radhitya, seorang pelajar yang suka [*free software*](https://www.gnu.org/philosophy/free-sw.en.html) dan menggunakan [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html) di Lenovo Thinkpad.
+Nama saya adalah Alif Radhitya. Saya adalah:
+- Seorang pelajar SMA 
+- Seorang pengguna [Gentoo GNU/Linux](https://gentoo.org)
+- Seorang penggemar [*free software*](https://www.gnu.org/software/software.en.html)
 
-Jika anda ingin meminta bantuan atau sekedar mengobrol, saya menerima pesan anda.
-- Telegram 	: [@radhityax](https://t.me/radhityax)
+itu saja.
 
-## Penting!
-Isi adalah pendapat pribadi dengan lisensi [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id)	
+## Penting
+Semua opini dan tulisan yang ada disini adalah atas nama saya, bukan berkaitan dengan organisasi, tempat, dan komunitas yang saya ikuti dengan lisensi [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id)
+
+Jika tulisan ada yang salah, tolong hubungi saya akan segera dibenarkan.
