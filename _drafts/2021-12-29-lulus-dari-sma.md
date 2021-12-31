@@ -1,5 +1,5 @@
 ---
-title : Lulus Dari SMA
+title : 
 layout : post
 tag : cerita
 ---
