@@ -505,7 +505,19 @@ tr:nth-child(even) {
   color: #f39f03;
   margin-left: -1rem;
   margin-right: -1rem;
-  padding: 2rem;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+@media screen and (max-width: 640px) {
+  .perhatian {
+    display: block;
+    background-color: #333333;
+    color: #f39f03;
+    margin-left: -1rem;
+    margin-right: -1rem;
+    padding: 2rem;
+  }
 }
 
 .full {
