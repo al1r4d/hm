@@ -1,5 +1,5 @@
 name: Alif Radhitya
-description: "meaningless blog"
+description: "Semua, segalanya, dan siapa"
 url: "https://radhitya.mengobrol.com"
 
 paginate: 4
@@ -30,22 +30,4 @@ plugins:
 feed:
   posts_limit: 100
 
-exclude:
-  - .jekyll-cache
-  - pages
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
-  - drafts
-  - posts
-  - BACKUP
-  - config.yml
-  - drafts
-  - drafts_backup
-  - "00-ÖVERSÄTTA"
-  - layout
-
 include: ['_pages', '_includes']
-exclude: ['drafts', 'posts', '00-ÖVERSÄTTA']
