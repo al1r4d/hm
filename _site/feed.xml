@@ -1,4 +1,64 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://radhitya.mengobrol.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://radhitya.mengobrol.com/" rel="alternate" type="text/html" /><updated>2022-01-09T13:31:32+07:00</updated><id>https://radhitya.mengobrol.com/feed.xml</id><title type="html">Alif Radhitya</title><subtitle>Semua, segalanya, dan siapa</subtitle><entry><title type="html">Diam Meskipun Paham</title><link href="https://radhitya.mengobrol.com/bisu-meskipun-tahu" rel="alternate" type="text/html" title="Diam Meskipun Paham" /><published>2022-01-09T00:00:00+07:00</published><updated>2022-01-09T00:00:00+07:00</updated><id>https://radhitya.mengobrol.com/bisu-meskipun-tahu</id><content type="html" xml:base="https://radhitya.mengobrol.com/bisu-meskipun-tahu">&lt;p&gt;Cerita ini bermula selama saya di SMA. Sering sekali melihat teman saya banyak yang memilih diam meskipun dia paham.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://radhitya.mengobrol.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://radhitya.mengobrol.com/" rel="alternate" type="text/html" /><updated>2022-01-21T10:15:05+07:00</updated><id>https://radhitya.mengobrol.com/feed.xml</id><title type="html">Alif Radhitya</title><subtitle>Semua, segalanya, dan siapa</subtitle><entry><title type="html">Pembajakan Program</title><link href="https://radhitya.mengobrol.com/aplikasi-sumber-terbuka" rel="alternate" type="text/html" title="Pembajakan Program" /><published>2022-01-21T00:00:00+07:00</published><updated>2022-01-21T00:00:00+07:00</updated><id>https://radhitya.mengobrol.com/aplikasi-sumber-terbuka</id><content type="html" xml:base="https://radhitya.mengobrol.com/aplikasi-sumber-terbuka">&lt;p&gt;Catatan ini bermula ketika saya dan teman - teman saya membicarakan kesulitan mencari bajakan program &lt;a href=&quot;https://www.adobe.com/sea/products/illustrator.html&quot;&gt;Adobe Illustrator&lt;/a&gt; untuk &lt;a href=&quot;https://www.apple.com/newsroom/2020/11/apple-unleashes-m1/&quot;&gt;Apple M1&lt;/a&gt;-nya.&lt;/p&gt;
+
+&lt;p&gt;Sebuah ironi mampu membeli laptop mahal tetapi menolak membayar program Adobe.&lt;/p&gt;
+
+&lt;h2 id=&quot;awal-masalah&quot;&gt;Awal Masalah&lt;/h2&gt;
+&lt;p&gt;Bayangkan anda ingin belajar manipulasi gambar yang kebanyakan sumber ilmunya menggunakan aplikasi &lt;a href=&quot;https://malsasa.wordpress.com/2016/04/07/apa-itu-proprietary-software/&quot;&gt;proprietary bin paid software&lt;/a&gt;, yaitu Adobe Photoshop.&lt;/p&gt;
+
+&lt;p&gt;Masalah akan selesai jika anda membayarnya, tetapi bagaimana dengan mereka yang tidak mampu? Di dalam kehidupan, kebanyakan orang memilih mengunduh program bajakannya ketimbang mencari jalan alternatifnya.&lt;/p&gt;
+
+&lt;h2 id=&quot;beralih-ke-sumber-terbuka&quot;&gt;Beralih Ke Sumber Terbuka&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;When we speak of free software, we are referring to freedom, not price.&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://stallman.org&quot;&gt;Richard Stallman&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Daripada membajak &lt;em&gt;paid proprietary software&lt;/em&gt;, lebih baik beralih ke &lt;em&gt;free open source software&lt;/em&gt; alias sumber terbuka. Ada banyak program alternatif yang bersifat &lt;strong&gt;free open source software&lt;/strong&gt;, misalnya&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Program&lt;/th&gt;
+      &lt;th&gt;Alternatif&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Microsoft Office&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://libreoffice.org&quot;&gt;Libre Office&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Windows, MacOS&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.gnu.org/gnu/linux-and-gnu.en.html&quot;&gt;Linux&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Adobe Photoshop&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://gimp.org&quot;&gt;Gimp&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Adobe Illustrator, Corel Draw&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://inkscape.org&quot;&gt;Inkscape&lt;/a&gt;, &lt;a href=&quot;https://krita.org&quot;&gt;Krita&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Adobe Premier&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://kdenlive.org&quot;&gt;Kdenlive&lt;/a&gt;, &lt;a href=&quot;https://shotcut.org&quot;&gt;Shotcut&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Adobe Acrobat Pro DC&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://okular.kde.org/&quot;&gt;Okular&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cinema 4D&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://blender.org&quot;&gt;Blender&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;kompatibilitas--kemampuan&quot;&gt;Kompatibilitas &amp;amp; Kemampuan&lt;/h2&gt;
+&lt;p&gt;Tidak semua alternatif hasilnya sama, mungkin lebih mudah, lebih susah, lebih bagus, dan lebih jelek. Ini adalah salah satu alasan kenapa orang enggan menggunakan alternatif.&lt;/p&gt;
+
+&lt;p&gt;Bicara soal &lt;strong&gt;kesusahan&lt;/strong&gt;, adalah normal jika kesusahan ketika menggunakan alternatif. Semua butuh proses, tidak ada yang instan. Mie Instan butuh proses meskipun mengaku instan.&lt;/p&gt;</content><author><name></name></author><category term="teknologi" /><summary type="html">Catatan ini bermula ketika saya dan teman - teman saya membicarakan kesulitan mencari bajakan program Adobe Illustrator untuk Apple M1-nya.</summary></entry><entry><title type="html">Diam Meskipun Paham</title><link href="https://radhitya.mengobrol.com/bisu-meskipun-tahu" rel="alternate" type="text/html" title="Diam Meskipun Paham" /><published>2022-01-09T00:00:00+07:00</published><updated>2022-01-09T00:00:00+07:00</updated><id>https://radhitya.mengobrol.com/bisu-meskipun-tahu</id><content type="html" xml:base="https://radhitya.mengobrol.com/bisu-meskipun-tahu">&lt;p&gt;Cerita ini bermula selama saya di SMA. Sering sekali melihat teman saya banyak yang memilih diam meskipun dia paham.&lt;/p&gt;
 
 &lt;p&gt;Ada kalanya saya sebal dengan kelakuannya. Apakah saya yang benar atau mereka yang benar?&lt;/p&gt;
 

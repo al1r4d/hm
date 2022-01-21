@@ -1,0 +1,49 @@
+I"a<p>Catatan ini bermula ketika saya dan teman - teman saya membicarakan kesulitan mencari bajakan program <a href="https://www.adobe.com/sea/products/illustrator.html">Adobe Illustrator</a> untuk <a href="https://www.apple.com/newsroom/2020/11/apple-unleashes-m1/">Apple M1</a>-nya.</p>
+
+<p>Sebuah ironi mampu membeli laptop mahal tetapi menolak membayar program Adobe.</p>
+
+<h2 id="awal-masalah">Awal Masalah</h2>
+<p>Bayangkan anda ingin belajar manipulasi gambar yang kebanyakan sumber ilmunya menggunakan aplikasi <a href="https://malsasa.wordpress.com/2016/04/07/apa-itu-proprietary-software/">proprietary bin paid software</a>, yaitu Adobe Photoshop.</p>
+
+<p>Masalah akan selesai jika anda membayarnya, tetapi bagaimana dengan mereka yang tidak mampu? Di dalam kehidupan, kebanyakan orang memilih mengunduh program bajakannya ketimbang mencari jalan alternatifnya.</p>
+
+<h2 id="beralih-ke-sumber-terbuka">Beralih Ke Sumber Terbuka</h2>
+<blockquote>
+  <p><em>When we speak of free software, we are referring to freedom, not price.</em></p>
+
+  <p><a href="https://stallman.org">Richard Stallman</a></p>
+</blockquote>
+
+<p>Daripada membajak <em>paid proprietary software</em>, lebih baik beralih ke <em>free open source software</em> alias sumber terbuka. Ada banyak program alternatif yang bersifat <strong>free open source software</strong>, misalnya</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Program</th>
+      <th>Alternatif</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Microsoft Office</td>
+      <td><a href="https://libreoffice.org">Libre Office</a></td>
+    </tr>
+    <tr>
+      <td>Windows, MacOS</td>
+      <td><a href="https://www.gnu.org/gnu/linux-and-gnu.en.html">Linux</a></td>
+    </tr>
+    <tr>
+      <td>Adobe Photoshop</td>
+      <td><a href="https://gimp.org">Gimp</a></td>
+    </tr>
+    <tr>
+      <td>Adobe Illustrator, Corel Draw</td>
+      <td><a href="https://inkscape.org">Inkscape</a>, <a href="https://krita.org">Krita</a></td>
+    </tr>
+    <tr>
+      <td>Adobe Premier</td>
+      <td><a href="https://kdenlive.org">Kdenlive</a>, <a href="https://shotcut.org">Shotcut</a></td>
+    </tr>
+  </tbody>
+</table>
+:ET
