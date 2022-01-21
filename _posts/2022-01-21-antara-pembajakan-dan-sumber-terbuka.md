@@ -1,5 +1,5 @@
 ---
-title	: Pembajakan Program
+title	: Antara Pembajakan dan Sumber Terbuka
 layout	: post-catatan
 tag	:
 - teknologi
@@ -19,7 +19,9 @@ Masalah akan selesai jika anda membayarnya, tetapi bagaimana dengan mereka yang 
 >
 > [Richard Stallman](https://stallman.org)
 
-Daripada membajak *paid proprietary software*, lebih baik beralih ke *free open source software* alias sumber terbuka. Ada banyak program alternatif yang bersifat **free open source software**, misalnya
+Daripada membajak *paid proprietary software*, lebih baik beralih ke [*free open source software*](https://www.gnu.org/philosophy/free-sw.en.html) alias sumber terbuka. Memakai program *free software* bukan berarti tidak miskin, kok.
+
+Ada banyak program alternatif yang bersifat **free open source software**, misalnya
 
 | Program | Alternatif |
 | ---------- | ------------|
