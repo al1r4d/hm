@@ -1,11 +1,35 @@
 [
   
     {
+      "title"    : "Ketimpangan",
+      "category" : "",
+      "tags"     : "cerita",
+      "url"      : "/ketimpangan",
+      "date"     : "2022-02-06 00:00:00 +0700"
+    } ,
+  
+    {
       "title"    : "Gelombang Ketiga",
       "category" : "",
       "tags"     : "catatan",
       "url"      : "/gelombang-ketiga",
       "date"     : "2022-02-02 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Mastodon dan Media Sosial",
+      "category" : "",
+      "tags"     : "teknologi",
+      "url"      : "/mastodon-dan-media-sosial",
+      "date"     : "2022-01-25 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Membicarakan Platform Blog",
+      "category" : "",
+      "tags"     : "teknologi",
+      "url"      : "/platform-blog",
+      "date"     : "2022-01-22 00:00:00 +0700"
     } ,
   
     {
@@ -22,6 +46,22 @@
       "tags"     : "cerita",
       "url"      : "/bisu-meskipun-tahu",
       "date"     : "2022-01-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Mencari Kebenaran",
+      "category" : "",
+      "tags"     : "cerita",
+      "url"      : "/mencari-kebenaran",
+      "date"     : "2022-01-06 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Rekap 2021",
+      "category" : "",
+      "tags"     : "cerita",
+      "url"      : "/lulus-dari-sma",
+      "date"     : "2021-12-29 00:00:00 +0700"
     } ,
   
     {
@@ -141,6 +181,14 @@
       "category" : "",
       "tags"     : "catatan",
       "url"      : "/beli-dagangan-pinggiran",
+      "date"     : "2021-09-10 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Pelajar Sekarang",
+      "category" : "",
+      "tags"     : "catatan",
+      "url"      : "/pelajar-sekarang",
       "date"     : "2021-09-10 00:00:00 +0700"
     } ,
   
