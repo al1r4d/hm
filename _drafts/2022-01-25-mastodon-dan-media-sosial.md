@@ -1,6 +1,0 @@
----
-title	: Mastodon dan Media Sosial
-layout 	: post
-tag	: teknologi
----
-
