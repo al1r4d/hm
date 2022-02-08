@@ -34,33 +34,26 @@ layout: default
 {% include pagination.html %}
 </div>
 
-	<div id="search-container">
-		<h1> Kategori    </h1>
-		<ul>
-			<li><a href="/tag/catatan">📜 Catatan</a></li>
-			<li><a href="/tag/smala">🎓 Smala</a></li>
-			<li><a href="/tag/cerita">🗣️  Cerita</a></li>
-			<li><a href="/tag/teknologi">🖥️ Teknologi</a></li>
-			<li><a href="/tag/mikro">🖋️ Mikro</a></li>
-	</div>
-	</div>
-</div>
-</div>
-</div>
-
-<ul>
-  <h1> Sorotan </h1>
-  <p> Kompilasi catatan terbaik yang wajib dibaca. </p>
-    {% for post in site.tags.featured limit:5 %}
-        <li><a href="{{ post.url }}" class="featured">⌨ {{ post.title }}</a></li>
+	<div>
+			<h1> Sorotan </h1>
+    {% for post in site.tags.featured limit:3 %}
+        <li><a href="{{ post.url }}" class="featured">💬 {{ post.title }}</a></li>
 	{% endfor %}
 
-</ul>
+	</div>
+	</div>
+</div>
+</div>
+</div>
+  <ul>
 
+  <h1> Kategori </h1>
+  <p><a href="/tag/catatan">#catatan</a> - <a href="/tag/smala">#smala</a> - <a href="/tag/cerita">#cerita</a> - <a href="/tag/teknologi">#tekno</a> - <a href="/tag/mikro">#mikro</a></li>
+  </ul>
+  
 <h1>Berlangganan</h1>
 <p>Anda bisa berlangganan blog ini melalui RSS<p>
 <a href="/berlangganan">📰 Berlangganan</a>
-
 <script>
 
 
