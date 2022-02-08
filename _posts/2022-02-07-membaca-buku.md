@@ -2,7 +2,6 @@
 title : Buku dan Opini
 layout : post
 tag :
-- mikro
 - catatan
 - featured
 ---
