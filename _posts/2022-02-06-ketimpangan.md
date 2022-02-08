@@ -3,6 +3,7 @@ title : Ketimpangan
 layout : post
 tag :
 - cerita
+- featured
 ---
 
 Ketimpangan bukan tentang harta, tetapi juga keahlian.

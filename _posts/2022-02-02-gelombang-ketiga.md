@@ -3,6 +3,7 @@ title : Gelombang Ketiga
 layout : post-catatan
 tag :
 - catatan
+- featured
 ---
 Sekarang kasus COVID-19 lagi naik di Indonesia. Diperkirakan ada 10.000 lebih kasus aktif hari ini. Orang - orang bilang negara kita sedang menghadapi [gelombang ketiga](https://www.cnnindonesia.com/nasional/20220201152728-20-753739/indonesia-resmi-masuk-gelombang-ketiga-kasus-covid-tembus-16-ribu) corona.
 

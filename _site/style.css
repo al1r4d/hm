@@ -631,6 +631,11 @@ div.search {
 
 .newsline-true {
   background-color: #7e9f5b;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-right: 2px;
+  padding-left: 2px;
+  font-size: 16px;
 }
 
 .highlight .hll {

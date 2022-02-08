@@ -4,6 +4,7 @@ layout : post
 tag :
 - mikro
 - catatan
+- featured
 ---
 
 Catatan mikro ini diperuntukkan bagi mereka yang gemar membaca buku.

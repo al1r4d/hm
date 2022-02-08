@@ -13,7 +13,8 @@ layout: default
 
 <div>
 	<h1>Catatan Seorang Pemuda</h1>
-	<p>Saya Alif Radhitya, ini adalah blog berisi catatan dan cerita pribadi. Semua tulisan yang ada disini adalah atas nama saya, bukan berkaitan dengan organisasi, tempat, dan komunitas yang saya ikuti</p>
+	<p>Saya Alif Radhitya.
+	  Ini adalah blog berisi catatan dan cerita pribadi. Semua tulisan yang ada disini adalah atas nama saya, bukan berkaitan dengan organisasi, tempat, dan komunitas yang saya ikuti</p>
 	<hr>
 	<h1> Pencarian </h1>
 	<input type="text" id="search-input" placeholder="Ketik apa yang ingin dicari">
@@ -46,8 +47,17 @@ layout: default
 </div>
 </div>
 </div>
-	
-<h2>Berlangganan</h2>
+
+<ul>
+  <h1> Sorotan </h1>
+  <p> Kompilasi catatan terbaik yang wajib dibaca. </p>
+    {% for post in site.tags.featured limit:5 %}
+        <li><a href="{{ post.url }}" class="featured">⌨ {{ post.title }}</a></li>
+	{% endfor %}
+
+</ul>
+
+<h1>Berlangganan</h1>
 <p>Anda bisa berlangganan blog ini melalui RSS<p>
 <a href="/berlangganan">📰 Berlangganan</a>
 

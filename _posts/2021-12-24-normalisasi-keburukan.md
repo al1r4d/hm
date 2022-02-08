@@ -1,7 +1,9 @@
 ---
 title 	: Normalisasi Keburukan
 layout	: post-catatan
-tag	: catatan
+tag	:
+- catatan
+- featured
 ---
 
 Telah datang gaya hidup buruk yang menghantui dunia, khususnya Indonesia. Dimana gaya hidup menormalisasikan hal - hal yang kita anggap buruk. Beberapa akun sosial media turut menyebarkan. 

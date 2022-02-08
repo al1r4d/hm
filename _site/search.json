@@ -3,7 +3,7 @@
     {
       "title"    : "Buku dan Opini",
       "category" : "",
-      "tags"     : "mikro, catatan",
+      "tags"     : "mikro, catatan, featured",
       "url"      : "/membaca-buku",
       "date"     : "2022-02-07 00:00:00 +0700"
     } ,
@@ -11,7 +11,7 @@
     {
       "title"    : "Ketimpangan",
       "category" : "",
-      "tags"     : "cerita",
+      "tags"     : "cerita, featured",
       "url"      : "/ketimpangan",
       "date"     : "2022-02-06 00:00:00 +0700"
     } ,
@@ -19,7 +19,7 @@
     {
       "title"    : "Gelombang Ketiga",
       "category" : "",
-      "tags"     : "catatan",
+      "tags"     : "catatan, featured",
       "url"      : "/gelombang-ketiga",
       "date"     : "2022-02-02 00:00:00 +0700"
     } ,
@@ -51,7 +51,7 @@
     {
       "title"    : "Normalisasi Keburukan",
       "category" : "",
-      "tags"     : "catatan",
+      "tags"     : "catatan, featured",
       "url"      : "/normalisasi-keburukan",
       "date"     : "2021-12-24 00:00:00 +0700"
     } ,
@@ -155,7 +155,7 @@
     {
       "title"    : "Beli Dagangan Pinggiran",
       "category" : "",
-      "tags"     : "catatan",
+      "tags"     : "catatan, featured",
       "url"      : "/beli-dagangan-pinggiran",
       "date"     : "2021-09-10 00:00:00 +0700"
     } ,
