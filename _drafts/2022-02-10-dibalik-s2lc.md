@@ -1,0 +1,9 @@
+---
+title : Dibalik s2lc.com
+layout : post
+tag :
+- tekno
+---
+
+Pihak S2LC memberi saya tugas untuk mengontrol website S2LC. Ketika saya membuka *code* nya, saya sedikit tertawa.
+## Sebelum itu
