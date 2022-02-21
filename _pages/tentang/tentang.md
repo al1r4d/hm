@@ -15,7 +15,7 @@ itu saja.
 Anda bisa menghubungi saya dengan :
 - **Email** : radhitya@disroot.org
 - **Telegram** : @al1r4d
-- **Mastodon** : @radhitya@mastodon.social
+- **Mastodon** : @al1r4d@qoto.org
 
 ## Penting
 Semua opini dan tulisan yang ada disini adalah atas nama saya, bukan berkaitan dengan organisasi, tempat, dan komunitas yang saya ikuti dengan lisensi [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id)
