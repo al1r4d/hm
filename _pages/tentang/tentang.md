@@ -13,7 +13,7 @@ itu saja.
 
 ## Kontak
 Anda bisa menghubungi saya dengan :
-- **Email** : radhitya@disroot.org
+- **Email** : al1r4d@riseup.net
 - **Telegram** : @al1r4d
 - **Mastodon** : @al1r4d@qoto.org
 
