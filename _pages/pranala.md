@@ -1,9 +1,10 @@
 ---
-title 		: Halaman
-permalink 	: /halaman
+title 		: Pranala
+permalink 	: /pranala
 layout		: page
 ---
-Daftar halaman - halaman
+
+Pranala yang isinya keren - keren
 
 ## Penanda
 Kumpulan penanda yang berisi tautan menarik untuk dibaca.
@@ -20,7 +21,3 @@ Mendesak semua orang untuk melakukannya
 
 [Pergi](/mendesak)
 
-## Dukung
-Buat yang mau dukung saya aja, hehe.
-
-[Pergi](/tentang/dukung)
