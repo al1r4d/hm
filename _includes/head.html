@@ -18,5 +18,9 @@
     {% endif %}
     
     {% feed_meta %}
+{% if page.mermaid %}
 
+  {% include mermaid.html %}
+
+{% endif %}
 </head>
