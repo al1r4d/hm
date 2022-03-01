@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://radhitya.mengobrol.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://radhitya.mengobrol.com/" rel="alternate" type="text/html" /><updated>2022-02-28T14:53:17+07:00</updated><id>https://radhitya.mengobrol.com/feed.xml</id><title type="html">Alif Radhitya</title><subtitle>Catatan Seorang Pemuda</subtitle><entry><title type="html">Mermaid</title><link href="https://radhitya.mengobrol.com/mermaid" rel="alternate" type="text/html" title="Mermaid" /><published>2022-02-28T00:00:00+07:00</published><updated>2022-02-28T00:00:00+07:00</updated><id>https://radhitya.mengobrol.com/mermaid</id><content type="html" xml:base="https://radhitya.mengobrol.com/mermaid"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Foto Buku Kenangan Guru Smala</title><link href="https://radhitya.mengobrol.com/foto-guru-smalane" rel="alternate" type="text/html" title="Foto Buku Kenangan Guru Smala" /><published>2022-02-25T00:00:00+07:00</published><updated>2022-02-25T00:00:00+07:00</updated><id>https://radhitya.mengobrol.com/foto-guru-smalane</id><content type="html" xml:base="https://radhitya.mengobrol.com/foto-guru-smalane">&lt;p&gt;&lt;img src=&quot;/media/smala/guru-smala.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://radhitya.mengobrol.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://radhitya.mengobrol.com/" rel="alternate" type="text/html" /><updated>2022-03-01T08:29:47+07:00</updated><id>https://radhitya.mengobrol.com/feed.xml</id><title type="html">Alif Radhitya</title><subtitle>Catatan Seorang Pemuda</subtitle><entry><title type="html">Selamat Tinggal, Wordpress!</title><link href="https://radhitya.mengobrol.com/selamat-tinggal-wordpress" rel="alternate" type="text/html" title="Selamat Tinggal, Wordpress!" /><published>2022-02-28T00:00:00+07:00</published><updated>2022-02-28T00:00:00+07:00</updated><id>https://radhitya.mengobrol.com/selamat-tinggal-wordpress</id><content type="html" xml:base="https://radhitya.mengobrol.com/selamat-tinggal-wordpress">&lt;p&gt;&lt;em&gt;In 2020, I’m not using Wordpress again for my website. I switched to Jekyll, a static and simple blog platform&lt;/em&gt;. Jadi saya ucapkan : &lt;strong&gt;Selamat tinggal, Wordpress!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;kenapa-saya-pindah-dari-wordpress&quot;&gt;Kenapa saya pindah dari Wordpress?&lt;/h2&gt;
+&lt;p&gt;Sebagai orang yang menyukai kesederhanaan dan &lt;a href=&quot;https://theminimalists.com&quot;&gt;minimalis&lt;/a&gt;, platform &lt;a href=&quot;https://wordpress.org&quot;&gt;Wordpress&lt;/a&gt; tidak masuk kategori itu. Sangatlah kompleks untuk menulis di Wordpress. Anda harus menekan tombol - tombol. Belum pula kebutuhan penyimpanan untuk database.&lt;/p&gt;
+
+&lt;p&gt;Karena pandemi juga, uang saya sedikit berkurang karena tidak sekolah. Agak tidak rela bayar untuk server. Toh rasanya mubzair membeli server untuk sebuah web yang nihil pengunjungnya.&lt;/p&gt;
+
+&lt;h2 id=&quot;selamat-datang-jekyll&quot;&gt;Selamat datang, Jekyll.&lt;/h2&gt;
+&lt;p&gt;Perjumpaan saya dengan Jekyll berawal dari mengunjungi blog - blog Linux dan Open Source. Mereka menyematkan &lt;em&gt;created by &lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Setelah saya baca - baca, Jekyll adalah platform &lt;em&gt;blog-aware&lt;/em&gt; yang menggunakan &lt;a href=&quot;https://www.markdownguide.org/&quot;&gt;Markdown&lt;/a&gt;. Bersifat sederhana karena tidak menggunakan database dan setup - setup rumit, statis yang hanya memakai Markdown, Liquid, HTML, dan CSS, dan &lt;em&gt;blog-aware&lt;/em&gt; yang memiliki fitur &lt;em&gt;permalink&lt;/em&gt;, &lt;em&gt;categories&lt;/em&gt;, &lt;em&gt;pages&lt;/em&gt;, &lt;em&gt;posts&lt;/em&gt;, dan &lt;em&gt;custom layout&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Saya mencoba memasang &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Jekyll&lt;/code&gt; di Gentoo GNU/Linux.&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;emerge jekyll
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Cara nulis postingan terbaru itu sederhana banget, tidak seperti Wordpress. Saya membuat diagramnya.&lt;/p&gt;
+&lt;div class=&quot;mermaid&quot;&gt;
+    graph LR
+    A[Jalankan Jekyll] --- B[Tulis artikel terbaru di _posts]
+    B --- C[Selesai];
+&lt;/div&gt;
+
+&lt;h3 id=&quot;jekyll-di-github-pages&quot;&gt;Jekyll di Github Pages&lt;/h3&gt;
+&lt;p&gt;Tahukah kamu jika &lt;a href=&quot;https://github.com&quot;&gt;Github&lt;/a&gt; menawarkan hosting gratis untuk Jekyll? Jika anda berminat membuat blog, ini bisa menjadi opsi terbaik. Blog ini menggunakan Jekyll di Github Pages.&lt;/p&gt;
+
+&lt;p&gt;Cara kerjanya mirip seperti di atas, namun ditambah beberapa langkah. Saya telah membuat diagramnya.&lt;/p&gt;
+&lt;div class=&quot;mermaid&quot;&gt;
+    graph TD
+    A[Jalankan Jekyll] --- B[Tulis artikel terbaru di _posts]
+    B --- C[git add *file*]
+    C --- D[git commit *message*]
+    D --- E[git push];
+    &lt;/div&gt;
+
+&lt;h2 id=&quot;kesimpulan&quot;&gt;Kesimpulan&lt;/h2&gt;
+&lt;p&gt;Saya tidak lagi menggunakan Wordpress karena tidak sesederhana yang saya inginkan. Tempat tinggal terbaru adalah Jekyll yang bersifat statis.&lt;/p&gt;</content><author><name></name></author><category term="teknologi" /><summary type="html">In 2020, I’m not using Wordpress again for my website. I switched to Jekyll, a static and simple blog platform. Jadi saya ucapkan : Selamat tinggal, Wordpress!</summary></entry><entry><title type="html">Foto Buku Kenangan Guru Smala</title><link href="https://radhitya.mengobrol.com/foto-guru-smalane" rel="alternate" type="text/html" title="Foto Buku Kenangan Guru Smala" /><published>2022-02-25T00:00:00+07:00</published><updated>2022-02-25T00:00:00+07:00</updated><id>https://radhitya.mengobrol.com/foto-guru-smalane</id><content type="html" xml:base="https://radhitya.mengobrol.com/foto-guru-smalane">&lt;p&gt;&lt;img src=&quot;/media/smala/guru-smala.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;center&gt;Guru - guru bersiap untuk berfoto&lt;/center&gt;
 
 &lt;p&gt;Kemarin saya dapat tugas untuk menjaga kegiatan foto guru - guru Smala untuk buku kenangan. &lt;em&gt;Because no one wanted take a job, i was called for this job.&lt;/em&gt; (&lt;a href=&quot;http://127.0.0.1:4000/ketimpangan&quot;&gt;Ketimpangan&lt;/a&gt;)&lt;/p&gt;
