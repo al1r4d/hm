@@ -1,203 +1,237 @@
 [
   
     {
+      "title"    : "Server Rumah",
+      "category" : "",
+      "tags"     : "cerita, teknologi",
+	"url"      : "/server-rumah",
+	"date"     : "2022-03-02 00:00:00 +0700"
+	
+    } ,
+  
+    {
       "title"    : "Selamat Tinggal, Wordpress!",
       "category" : "",
       "tags"     : "teknologi",
-      "url"      : "/selamat-tinggal-wordpress",
-      "date"     : "2022-02-28 00:00:00 +0700"
+	"url"      : "/selamat-tinggal-wordpress",
+	"date"     : "2022-02-28 00:00:00 +0700"
+	
     } ,
   
     {
       "title"    : "Foto Buku Kenangan Guru Smala",
       "category" : "",
       "tags"     : "smala, cerita",
-      "url"      : "/foto-guru-smalane",
-      "date"     : "2022-02-25 00:00:00 +0700"
+	"url"      : "/foto-guru-smalane",
+	"date"     : "2022-02-25 00:00:00 +0700"
+	
     } ,
   
     {
       "title"    : "Terblokir dari Mastodon Social",
       "category" : "",
       "tags"     : "cerita",
-      "url"      : "/terblokir-dari-mastodon-social",
-      "date"     : "2022-02-21 00:00:00 +0700"
+	"url"      : "/terblokir-dari-mastodon-social",
+	"date"     : "2022-02-21 00:00:00 +0700"
+	
     } ,
   
     {
       "title"    : "Tentang Islam S2 Pengguna Twitter",
       "category" : "",
       "tags"     : "catatan",
-      "url"      : "/sjw-islam-s2",
-      "date"     : "2022-02-18 00:00:00 +0700"
+	"url"      : "/sjw-islam-s2",
+	"date"     : "2022-02-18 00:00:00 +0700"
+	
     } ,
   
     {
       "title"    : "Buku dan Opini",
       "category" : "",
       "tags"     : "catatan, featured",
-      "url"      : "/membaca-buku",
-      "date"     : "2022-02-07 00:00:00 +0700"
+	"url"      : "/membaca-buku",
+	"date"     : "2022-02-07 00:00:00 +0700"
+	
     } ,
   
     {
       "title"    : "Ketimpangan",
       "category" : "",
       "tags"     : "cerita, featured",
-      "url"      : "/ketimpangan",
-      "date"     : "2022-02-06 00:00:00 +0700"
+	"url"      : "/ketimpangan",
+	"date"     : "2022-02-06 00:00:00 +0700"
+	
     } ,
   
     {
       "title"    : "Gelombang Ketiga",
       "category" : "",
       "tags"     : "catatan, featured",
-      "url"      : "/gelombang-ketiga",
-      "date"     : "2022-02-02 00:00:00 +0700"
+	"url"      : "/gelombang-ketiga",
+	"date"     : "2022-02-02 00:00:00 +0700"
+	
     } ,
   
     {
       "title"    : "Antara Pembajakan dan Sumber Terbuka",
       "category" : "",
       "tags"     : "teknologi",
-      "url"      : "/antara-pembajakan-dan-sumber-terbuka",
-      "date"     : "2022-01-21 00:00:00 +0700"
+	"url"      : "/antara-pembajakan-dan-sumber-terbuka",
+	"date"     : "2022-01-21 00:00:00 +0700"
+	
     } ,
   
     {
       "title"    : "Diam Meskipun Paham",
       "category" : "",
       "tags"     : "cerita",
-      "url"      : "/bisu-meskipun-tahu",
-      "date"     : "2022-01-09 00:00:00 +0700"
+	"url"      : "/bisu-meskipun-tahu",
+	"date"     : "2022-01-09 00:00:00 +0700"
+	
     } ,
   
     {
       "title"    : "Selalu Bicara Pendidikan",
       "category" : "",
       "tags"     : "catatan",
-      "url"      : "/membicarakan-pendidikan",
-      "date"     : "2021-12-27 00:00:00 +0700"
+	"url"      : "/membicarakan-pendidikan",
+	"date"     : "2021-12-27 00:00:00 +0700"
+	
     } ,
   
     {
       "title"    : "Normalisasi Keburukan",
       "category" : "",
       "tags"     : "catatan, featured",
-      "url"      : "/normalisasi-keburukan",
-      "date"     : "2021-12-24 00:00:00 +0700"
+	"url"      : "/normalisasi-keburukan",
+	"date"     : "2021-12-24 00:00:00 +0700"
+	
     } ,
   
     {
       "title"    : "Temu Gen Angels 2021",
       "category" : "",
       "tags"     : "smala",
-      "url"      : "/temu-gen-angels-2021",
-      "date"     : "2021-12-19 00:00:00 +0700"
+	"url"      : "/temu-gen-angels-2021",
+	"date"     : "2021-12-19 00:00:00 +0700"
+	
     } ,
   
     {
       "title"    : "Blog dan Minimalisme",
       "category" : "",
       "tags"     : "teknologi, catatan",
-      "url"      : "/blog-minimalis",
-      "date"     : "2021-12-18 00:00:00 +0700"
+	"url"      : "/blog-minimalis",
+	"date"     : "2021-12-18 00:00:00 +0700"
+	
     } ,
   
     {
       "title"    : "Jumat Berkah Bersama Angkatan 23",
       "category" : "",
       "tags"     : "cerita, smala",
-      "url"      : "/jumat-berkah-angkatan-23",
-      "date"     : "2021-12-04 00:00:00 +0700"
+	"url"      : "/jumat-berkah-angkatan-23",
+	"date"     : "2021-12-04 00:00:00 +0700"
+	
     } ,
   
     {
       "title"    : "Satu Tahun Di Smala",
       "category" : "",
       "tags"     : "cerita",
-      "url"      : "/satu-tahun-di-smala",
-      "date"     : "2021-11-27 00:00:00 +0700"
+	"url"      : "/satu-tahun-di-smala",
+	"date"     : "2021-11-27 00:00:00 +0700"
+	
     } ,
   
     {
       "title"    : "Saya dan Laptop",
       "category" : "",
       "tags"     : "teknologi",
-      "url"      : "/bagaimana-cara-saya-menggunakan-laptop",
-      "date"     : "2021-11-13 00:00:00 +0700"
+	"url"      : "/bagaimana-cara-saya-menggunakan-laptop",
+	"date"     : "2021-11-13 00:00:00 +0700"
+	
     } ,
   
     {
       "title"    : "Generasi Nunduk",
       "category" : "",
       "tags"     : "catatan",
-      "url"      : "/generasi-nunduk",
-      "date"     : "2021-10-28 00:00:00 +0700"
+	"url"      : "/generasi-nunduk",
+	"date"     : "2021-10-28 00:00:00 +0700"
+	
     } ,
   
     {
       "title"    : "Apatisme",
       "category" : "",
       "tags"     : "catatan",
-      "url"      : "/apatisme-egoisme",
-      "date"     : "2021-10-25 00:00:00 +0700"
+	"url"      : "/apatisme-egoisme",
+	"date"     : "2021-10-25 00:00:00 +0700"
+	
     } ,
   
     {
       "title"    : "Dalam Politik",
       "category" : "",
       "tags"     : "catatan",
-      "url"      : "/dalam-politik",
-      "date"     : "2021-10-18 00:00:00 +0700"
+	"url"      : "/dalam-politik",
+	"date"     : "2021-10-18 00:00:00 +0700"
+	
     } ,
   
     {
       "title"    : "Ironi Reformasi - Bagian Korupsi",
       "category" : "",
       "tags"     : "catatan",
-      "url"      : "/ironi-reformasi",
-      "date"     : "2021-09-23 00:00:00 +0700"
+	"url"      : "/ironi-reformasi",
+	"date"     : "2021-09-23 00:00:00 +0700"
+	
     } ,
   
     {
       "title"    : "Kontribusi",
       "category" : "",
       "tags"     : "catatan",
-      "url"      : "/kontribusi",
-      "date"     : "2021-09-21 00:00:00 +0700"
+	"url"      : "/kontribusi",
+	"date"     : "2021-09-21 00:00:00 +0700"
+	
     } ,
   
     {
       "title"    : "Forum Gen",
       "category" : "",
       "tags"     : "cerita",
-      "url"      : "/forum-gen",
-      "date"     : "2021-09-11 00:00:00 +0700"
+	"url"      : "/forum-gen",
+	"date"     : "2021-09-11 00:00:00 +0700"
+	
     } ,
   
     {
       "title"    : "Di bawah",
       "category" : "",
       "tags"     : "catatan",
-      "url"      : "/dibawah",
-      "date"     : "2021-09-10 00:00:00 +0700"
+	"url"      : "/dibawah",
+	"date"     : "2021-09-10 00:00:00 +0700"
+	
     } ,
   
     {
       "title"    : "Beli Dagangan Pinggiran",
       "category" : "",
       "tags"     : "catatan, featured",
-      "url"      : "/beli-dagangan-pinggiran",
-      "date"     : "2021-09-10 00:00:00 +0700"
+	"url"      : "/beli-dagangan-pinggiran",
+	"date"     : "2021-09-10 00:00:00 +0700"
+	
     } ,
   
     {
       "title"    : "Realis",
       "category" : "",
       "tags"     : "catatan",
-      "url"      : "/permulaan",
-      "date"     : "2021-09-09 00:00:00 +0700"
+	"url"      : "/permulaan",
+	"date"     : "2021-09-09 00:00:00 +0700"
+	
     } 
   
 ]
