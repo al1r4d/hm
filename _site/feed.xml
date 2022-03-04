@@ -1,4 +1,70 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://radhitya.mengobrol.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://radhitya.mengobrol.com/" rel="alternate" type="text/html" /><updated>2022-03-03T22:13:15+07:00</updated><id>https://radhitya.mengobrol.com/feed.xml</id><title type="html">Alif Radhitya</title><subtitle>Catatan Seorang Pemuda</subtitle><entry><title type="html">Selamat Tinggal, Wordpress!</title><link href="https://radhitya.mengobrol.com/selamat-tinggal-wordpress" rel="alternate" type="text/html" title="Selamat Tinggal, Wordpress!" /><published>2022-02-28T00:00:00+07:00</published><updated>2022-02-28T00:00:00+07:00</updated><id>https://radhitya.mengobrol.com/selamat-tinggal-wordpress</id><content type="html" xml:base="https://radhitya.mengobrol.com/selamat-tinggal-wordpress">&lt;p&gt;&lt;em&gt;In 2020, I’m not using Wordpress again for my website. I switched to Jekyll, a static and simple blog platform&lt;/em&gt;. Jadi saya ucapkan : &lt;strong&gt;Selamat tinggal, Wordpress!&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://radhitya.mengobrol.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://radhitya.mengobrol.com/" rel="alternate" type="text/html" /><updated>2022-03-04T09:59:05+07:00</updated><id>https://radhitya.mengobrol.com/feed.xml</id><title type="html">Alif Radhitya</title><subtitle>Catatan Seorang Pemuda</subtitle><entry><title type="html">Server Rumah</title><link href="https://radhitya.mengobrol.com/server-rumah" rel="alternate" type="text/html" title="Server Rumah" /><published>2022-03-02T00:00:00+07:00</published><updated>2022-03-02T00:00:00+07:00</updated><id>https://radhitya.mengobrol.com/server-rumah</id><content type="html" xml:base="https://radhitya.mengobrol.com/server-rumah">&lt;p&gt;Membangun server di rumah sangat mengasyikkan. Anda harus mencobanya juga.
+&lt;img src=&quot;/media/server-rumah/minipc.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Terlalu banyak komputer yang tidak digunakan di rumah. Setelah nonton video tentang &lt;a href=&quot;https://www.youtube.com/watch?v=f5jNJDaztqk&amp;amp;t&quot;&gt;&lt;em&gt;homeserver&lt;/em&gt;&lt;/a&gt;, saya menjadi tertarik.&lt;/p&gt;
+
+&lt;p&gt;Dengan MiniPC, saya membangun server di rumah. Masalah listrik tak menjadi masalah karena hanya memakan energi yang rendah.&lt;/p&gt;
+&lt;h2 id=&quot;spesifikasi-server-rumah&quot;&gt;Spesifikasi Server Rumah&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/media/server-rumah/htop-neofetch.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Keterangan&lt;/th&gt;
+      &lt;th&gt;Nilai&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Processor&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://ark.intel.com/content/www/id/id/ark/products/93361/intel-atom-x5z8350-processor-2m-cache-up-to-1-92-ghz.html&quot;&gt;Intel Atom x5-Z8350 (4) @ 1.920GHz&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Memory&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;4 GB&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Storage&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;64 GB SD Card &amp;amp; 1 TB HDD Seagate&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;OS&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Devuan GNU/Linux&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Kernel&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;del&gt;Linux-libre Kernel&lt;/del&gt; Xanmod Kernel&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;MiniPC saya tidak berspesifikasi, hanya dibekali Intel Atom dan Ram 4 GB. Awalnya cuma datang dengan 64 GB SD Card saja, kemudian saya membeli diska keras eksternal karena membutuhkan banyak ruang.&lt;/p&gt;
+
+&lt;p&gt;Tidak lupa memasang &lt;a href=&quot;https://devuan.org&quot;&gt;Devuan GNU/Linux&lt;/a&gt; sebagai operasi sistem. Dengan Linux, saya bisa melakukan apa yang saya inginkan.&lt;/p&gt;
+
+&lt;p&gt;Tentang kernel, saya memilih &lt;a href=&quot;https://xanmod.org&quot;&gt;Xanmod Kernel&lt;/a&gt; yang katanya meningkatkan performa. Sebelumnya saya memakai &lt;a href=&quot;https://www.fsfla.org/ikiwiki/selibre/linux-libre/&quot;&gt;Linux-libre Kernel&lt;/a&gt; karena tidak menggunakan &lt;a href=&quot;https://www.gnu.org/proprietary/proprietary.html&quot;&gt;&lt;em&gt;non-free software&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;yang-saya-lakukan&quot;&gt;Yang saya lakukan&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/media/server-rumah/jellyfin.jpg&quot; alt=&quot;&quot; /&gt;
+Tidak banyak yang saya lakukan. Mesin ini telah terpasang &lt;a href=&quot;https://jellyfin.org&quot;&gt;Jellyfin&lt;/a&gt; dan &lt;a href=&quot;https://samba.org&quot;&gt;Samba&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Jellyfin adalah layanan media server yang memungkinkan anda &lt;em&gt;streaming media&lt;/em&gt; dari server anda. Program ini termasuk &lt;a href=&quot;https://www.gnu.org/philosophy/free-sw.id.html&quot;&gt;&lt;em&gt;free software&lt;/em&gt;&lt;/a&gt; dengan lisensi &lt;a href=&quot;https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html&quot;&gt;GPLv2&lt;/a&gt;. Gratis dalam kebebasan menggunakan dan berbagi. Tidak ada biaya tambahan dan tersembunyi.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Kenapa tidak dengan Plex?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.plex.tv/&quot;&gt;Plex&lt;/a&gt; memang gratis, tetapi tidak termasuk &lt;em&gt;free software&lt;/em&gt;. Juga anda tidak bisa mengakses Plex tanpa internet. Bahkan saat login-pun anda harus terhubung internet. Beda dengan Jellyfin.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Bagaimana performanya di Intel Atom ?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Untuk streaming dua perangkat dengan 1080p cukup aman. Terkadang ada lag, tetapi itu hanya sekali dan berjalan 3 detik saja.&lt;/p&gt;
+
+&lt;p&gt;Harap diingat bahwa Intel Atom milik saya generasi 2016.&lt;/p&gt;
+
+&lt;p&gt;Kedua adalah Samba. Samba adalah layanan berbagi berkas dan berbagi alat pencentak. Dapat anda bayangkan layanan ini seperti &lt;a href=&quot;https://nextcloud.com&quot;&gt;Nextcloud&lt;/a&gt; dan Google Drive.&lt;/p&gt;</content><author><name></name></author><category term="cerita" /><category term="teknologi" /><summary type="html">Membangun server di rumah sangat mengasyikkan. Anda harus mencobanya juga.</summary></entry><entry><title type="html">Selamat Tinggal, Wordpress!</title><link href="https://radhitya.mengobrol.com/selamat-tinggal-wordpress" rel="alternate" type="text/html" title="Selamat Tinggal, Wordpress!" /><published>2022-02-28T00:00:00+07:00</published><updated>2022-02-28T00:00:00+07:00</updated><id>https://radhitya.mengobrol.com/selamat-tinggal-wordpress</id><content type="html" xml:base="https://radhitya.mengobrol.com/selamat-tinggal-wordpress">&lt;p&gt;&lt;em&gt;In 2020, I’m not using Wordpress again for my website. I switched to Jekyll, a static and simple blog platform&lt;/em&gt;. Jadi saya ucapkan : &lt;strong&gt;Selamat tinggal, Wordpress!&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;kenapa-saya-pindah-dari-wordpress&quot;&gt;Kenapa saya pindah dari Wordpress?&lt;/h2&gt;
 &lt;p&gt;Sebagai orang yang menyukai kesederhanaan dan &lt;a href=&quot;https://theminimalists.com&quot;&gt;minimalis&lt;/a&gt;, platform &lt;a href=&quot;https://wordpress.org&quot;&gt;Wordpress&lt;/a&gt; tidak masuk kategori itu. Sangatlah kompleks untuk menulis di Wordpress. Anda harus menekan tombol - tombol. Belum pula kebutuhan penyimpanan untuk database.&lt;/p&gt;

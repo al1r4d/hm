@@ -1,0 +1,68 @@
+I"¤<p>Membangun server di rumah sangat mengasyikkan. Anda harus mencobanya juga.
+<img src="/media/server-rumah/minipc.jpg" alt="" /></p>
+
+<p>Terlalu banyak komputer yang tidak digunakan di rumah. Setelah nonton video tentang <a href="https://www.youtube.com/watch?v=f5jNJDaztqk&amp;t"><em>homeserver</em></a>, saya menjadi tertarik.</p>
+
+<p>Dengan MiniPC, saya membangun server di rumah. Masalah listrik tak menjadi masalah karena hanya memakan energi yang rendah.</p>
+<h2 id="spesifikasi-server-rumah">Spesifikasi Server Rumah</h2>
+<p><img src="/media/server-rumah/htop-neofetch.jpg" alt="" /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Keterangan</th>
+      <th>Nilai</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Processor</strong></td>
+      <td><a href="https://ark.intel.com/content/www/id/id/ark/products/93361/intel-atom-x5z8350-processor-2m-cache-up-to-1-92-ghz.html">Intel Atom x5-Z8350 (4) @ 1.920GHz</a></td>
+    </tr>
+    <tr>
+      <td><strong>Memory</strong></td>
+      <td>4 GB</td>
+    </tr>
+    <tr>
+      <td><strong>Storage</strong></td>
+      <td>64 GB SD Card &amp; 1 TB HDD Seagate</td>
+    </tr>
+    <tr>
+      <td><strong>OS</strong></td>
+      <td>Devuan GNU/Linux</td>
+    </tr>
+    <tr>
+      <td><strong>Kernel</strong></td>
+      <td><del>Linux-libre Kernel</del> Xanmod Kernel</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>MiniPC saya tidak berspesifikasi, hanya dibekali Intel Atom dan Ram 4 GB. Awalnya cuma datang dengan 64 GB SD Card saja, kemudian saya membeli diska keras eksternal karena membutuhkan banyak ruang.</p>
+
+<p>Tidak lupa memasang <a href="https://devuan.org">Devuan GNU/Linux</a> sebagai operasi sistem. Dengan Linux, saya bisa melakukan apa yang saya inginkan.</p>
+
+<p>Tentang kernel, saya memilih <a href="https://xanmod.org">Xanmod Kernel</a> yang katanya meningkatkan performa. Sebelumnya saya memakai <a href="https://www.fsfla.org/ikiwiki/selibre/linux-libre/">Linux-libre Kernel</a> karena tidak menggunakan <a href="https://www.gnu.org/proprietary/proprietary.html"><em>non-free software</em></a>.</p>
+
+<h2 id="yang-saya-lakukan">Yang saya lakukan</h2>
+<p><img src="/media/server-rumah/jellyfin.jpg" alt="" />
+Tidak banyak yang saya lakukan. Mesin ini telah terpasang <a href="https://jellyfin.org">Jellyfin</a> dan <a href="https://samba.org">Samba</a>.</p>
+
+<p>Jellyfin adalah layanan media server yang memungkinkan anda <em>streaming media</em> dari server anda. Program ini termasuk <a href="https://www.gnu.org/philosophy/free-sw.id.html"><em>free software</em></a> dengan lisensi <a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html">GPLv2</a>. Gratis dalam kebebasan menggunakan dan berbagi. Tidak ada biaya tambahan dan tersembunyi.</p>
+
+<blockquote>
+  <p>Kenapa tidak dengan Plex?</p>
+</blockquote>
+
+<p><a href="https://www.plex.tv/">Plex</a> memang gratis, tetapi tidak termasuk <em>free software</em>. Juga anda tidak bisa mengakses Plex tanpa internet. Bahkan saat login-pun anda harus terhubung internet. Beda dengan Jellyfin.</p>
+
+<blockquote>
+  <p>Bagaimana performanya di Intel Atom ?</p>
+</blockquote>
+
+<p>Untuk streaming dua perangkat dengan 1080p cukup aman. Terkadang ada lag, tetapi itu hanya sekali dan berjalan 3 detik saja.</p>
+
+<p>Harap diingat bahwa Intel Atom milik saya generasi 2016.</p>
+
+<p>Kedua adalah Samba. Samba adalah layanan berbagi berkas dan berbagi alat pencentak. Dapat anda bayangkan layanan ini seperti <a href="https://nextcloud.com">Nextcloud</a> dan Google Drive.</p>
+:ET
