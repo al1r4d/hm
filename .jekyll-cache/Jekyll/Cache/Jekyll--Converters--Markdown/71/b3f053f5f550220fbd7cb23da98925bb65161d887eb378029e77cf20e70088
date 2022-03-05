@@ -1,26 +1,21 @@
----
-title 		: Pranala
-permalink 	: /pranala
-layout		: page
----
+I"4<p>Pranala yang isinya keren - keren</p>
 
-Pranala yang isinya keren - keren
-
-## Blog Teman
+<h2 id="blog-teman">Blog Teman</h2>
 <dd>Kunjungi blog/situs teman - teman saya.</dd>
 <dd><a href="/blog-teman">Pergi</a></dd>
 
-## Penanda
+<h2 id="penanda">Penanda</h2>
 <dd>Kumpulan penanda yang berisi tautan menarik untuk dibaca.</dd>
-<dd><a href="/penanda">Pergi</a></dd>	
+<dd><a href="/penanda">Pergi</a></dd>
 
-## Langganan
+<h2 id="langganan">Langganan</h2>
 <dd>Buat anda yang tidak ingin ketinggalan informasi</dd>
 
 <dd><a href="/berlangganan">Pergi</a></dd>
 
-## Mendesak 
+<h2 id="mendesak">Mendesak</h2>
 <dd>Mendesak semua orang untuk melakukannya</dd>
 
 <dd><a href="/mendesak">Pergi</a></dd>
 
+:ET
