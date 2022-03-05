@@ -43,3 +43,4 @@ Cara kerjanya mirip seperti di atas, namun ditambah beberapa langkah. Saya telah
 
 ## Kesimpulan
 Saya tidak lagi menggunakan Wordpress karena tidak sesederhana yang saya inginkan. Tempat tinggal terbaru adalah Jekyll yang bersifat statis.
+
