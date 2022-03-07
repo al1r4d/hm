@@ -648,8 +648,6 @@ $c-purples: #532E62, #8E44AD, #9B59B6;
 .Message {
   display: table;
   position: relative;
-  margin: 40px auto 0;
-
   background-color: nth($c-blues, 2);
   color: #fff;  
   &.is-hidden {
@@ -659,6 +657,11 @@ $c-purples: #532E62, #8E44AD, #9B59B6;
     padding: 0;
     margin: 0 auto;
     display: block;
+  }
+  @include mobile {
+      margin-left: -1rem;
+      margin-right: -1rem;
+     
   }
 }
   .Message--orange {
