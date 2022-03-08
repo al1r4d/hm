@@ -17,7 +17,7 @@ Karena masih banyak yang belum datang, kami lama menunggu. Baru dimulai sekitar 
 
 ## Marching Band
 ![](/media/ptab-fiveouria/marching-band.jpg)
-Seusai pemotretan, Anggota Fiveouria 24 memainkan *marching band*. Tak bisa lama - lama karena batas waktu yang ditentukan. Saya sudah lama tidak melihat pemandangan seperti ini karena pandemi.
+Seusai pemotretan, Anggota Fiveouria 22 memainkan *marching band*. Tak bisa lama - lama karena batas waktu yang ditentukan. Saya sudah lama tidak melihat pemandangan seperti ini karena pandemi.
 
 ## Akhiran..
 Jadi gitu aja sih yang ingin saya ceritakan. Semoga sukses mbak mas angkatan 22.
