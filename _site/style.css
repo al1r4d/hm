@@ -556,10 +556,26 @@ article a[href^="https://radhitya.mengobrol.com"]::after, section.meta a[href^="
   flex-direction: row;
 }
 
+.media-sosial > div {
+  margin-left: 70px;
+}
+
+@media screen and (max-width: 640px) {
+  .media-sosial > div {
+    margin-left: 0px;
+  }
+}
+
 .flex-container > div {
   margin: 5px;
   padding: 5px;
   font-size: 18px;
+}
+
+@media screen and (max-width: 640px) {
+  .flex-container > div {
+    margin-left: -12px;
+  }
 }
 
 div.search {
