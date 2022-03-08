@@ -192,9 +192,9 @@ article ol code,
 article p code,
 article .highlight pre,
 article td code {
-  background: #f2f2f2;
+  background: #262626;
   padding: 3px 7px;
-  border: 1px solid rgba(0, 0, 0, 0.15);
+  border: 1px solid white;
 }
 
 article blockquote {
@@ -209,7 +209,7 @@ article code {
   page-break-inside: avoid;
   page-break-after: auto;
   overflow: auto;
-  color: #222;
+  color: #fff;
 }
 
 article ul code {

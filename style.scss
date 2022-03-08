@@ -192,9 +192,9 @@ article {
     p code,
     .highlight pre,
     td code {
-        background: $codeBg;
+        background: #262626;
         padding: 3px 7px;
-        border: 1px solid rgba(0,0,0,0.15);
+        border: 1px solid white;
     }
 
     blockquote {
@@ -209,7 +209,7 @@ article {
         page-break-inside:avoid;
         page-break-after:auto;
         overflow: auto;
-        color: $black;
+        color: $white;
     }
 
     ul {
