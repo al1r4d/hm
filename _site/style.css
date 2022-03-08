@@ -556,6 +556,11 @@ article a[href^="https://radhitya.mengobrol.com"]::after, section.meta a[href^="
   flex-direction: row;
 }
 
+.crot-container {
+  display: flex;
+  flex-direction: row;
+}
+
 .media-sosial > div {
   margin-left: 70px;
 }
@@ -576,6 +581,12 @@ article a[href^="https://radhitya.mengobrol.com"]::after, section.meta a[href^="
   .flex-container > div {
     margin-left: -12px;
   }
+}
+
+.crot-container > div {
+  margin: 5px;
+  padding: 5px;
+  font-size: 18px;
 }
 
 div.search {

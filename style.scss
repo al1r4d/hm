@@ -548,6 +548,10 @@ article, section.meta, footer {
   flex-direction: row;
 }
 
+.crot-container {
+  display: flex;
+  flex-direction: row;
+}
 .media-sosial > div {
     margin-left: 70px;
 
@@ -564,6 +568,13 @@ article, section.meta, footer {
       margin-left: -12px;
   }
 }
+.crot-container > div {
+  margin: 5px;
+  padding: 5px;
+  font-size: 18px;
+
+}
+
 
 div.search {
   max-width: 200px;
