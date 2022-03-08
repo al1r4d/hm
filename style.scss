@@ -8,7 +8,7 @@ html {
     color: #fff;
     background: #222;
     @include mobile {
-        font-size: 18px;
+        font-size: 16px;
     }
 }
 
@@ -54,6 +54,10 @@ a:hover {
 
 h1 {
     font-size: 2em;
+}
+
+dd {
+    margin-left: 15px;
 }
 
 dt {
