@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Opini dan Keadaan Setelahnya",
+      "category" : "",
+      "tags"     : "catatan",
+	"url"      : "/opini-dan-keadaan-setelahnya",
+	"date"     : "2022-03-13 00:00:00 +0700"
+	
+    } ,
+  
+    {
       "title"    : "PTAB Fiveouria 22",
       "category" : "",
       "tags"     : "smala",
