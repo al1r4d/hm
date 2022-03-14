@@ -192,7 +192,7 @@ article .highlight pre,
 article td code {
   background: #262626;
   padding: 3px 7px;
-  border: 1px solid white;
+  border: 1px solid rgba(255, 255, 255, 0.15);
 }
 
 article blockquote {
