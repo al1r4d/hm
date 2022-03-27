@@ -25,7 +25,7 @@ Saya bisa dihubungi lewat
 
 Jika anda menghubungi saya lewat XMPP, usahakan menggunakan OMEMO Encryption. Ini adalah fingerprint perangkat saya.
 ```
-Laptop : 7bb5395ae195ec561fb8ce6014af80b7d9b27747b17c90dcda25ae579e3dd456
+Laptop : aed5a6f5ceeb9b3f15f109bffdb9c34745134c061d5ad41065b727a2278c3037
 Handphone : 9f907dbd 7ac7bb31 fb056137 25f34ac4 5d5c1ce6 d8ceb29b cef94030 5f92ee68
 ```
 

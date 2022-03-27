@@ -56,6 +56,10 @@ h1 {
   font-size: 2em;
 }
 
+h3 {
+  text-align: right;
+}
+
 dd {
   margin-left: 15px;
 }

@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "DRM dalam Hiburan",
+      "category" : "",
+      "tags"     : "teknologi",
+	"url"      : "/drm",
+	"date"     : "2022-03-27 00:00:00 +0700"
+	
+    } ,
+  
+    {
       "title"    : "Opini dan Keadaan Setelahnya",
       "category" : "",
       "tags"     : "catatan",
