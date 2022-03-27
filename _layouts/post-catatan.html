@@ -42,6 +42,8 @@ layout: default
 <p>{{ content }}</p>
 </article>
 <hr>
+<h1 style="color:#f39f03">Komentar</h1>
+<p>Kirim komentar anda ke <a href="mailto:al1r4d@riseup.net">email</a> dengan subjek judul postingan ini.</p>
 {% assign hasSimilar = '' %}
 {% for post in site.related_posts %}
     {% assign postHasSimilar = false %}
@@ -49,7 +51,7 @@ layout: default
         {% for thisTag in page.tags %}
             {% if postHasSimilar == false and hasSimilar.size < 3 and post != page and tag == thisTag %}
                 {% if hasSimilar.size == 0 %}
-                <h2 style="color:#f39f03">Pos Berkaitan</h2>
+                <h1 style="color:#f39f03">Pos Berkaitan</h1>
                 <ul>
                 {% endif %}
                 <li class="relatedPost">
@@ -70,7 +72,7 @@ layout: default
 {% endif %}
 
 <div class="perhatian">
-	<h2>😎 Suka ini? Sebarkan!</h2>
+	<h1>😎 Bagikan</h1>
 	<p>Sangat bagus apabila banyak orang yang membaca catatan ini, artinya orang tahu apa yang saya diskusikan. </p>
-	<p> Jadi jika anda suka catatan ini, boleh disebarin ke temen - temen </p>
+	<p> Jadi jika anda suka catatan ini, boleh dibagikan ke temen - temen </p>
 </div>
