@@ -36,8 +36,8 @@ layout: default
 
 
     </div>
-<img src="{{ post.thumbnail }}"/> 
-<p>{{ content | toc }}</p>
+{% include toc.html html=content %} 
+<p>{{ content}}</p>
 </article>
 <hr>
 <h1 style="color:#f39f03">Komentar</h1>

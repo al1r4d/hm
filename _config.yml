@@ -26,8 +26,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-toc
-
+  
 feed:
   posts_limit: 100
 

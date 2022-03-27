@@ -233,4 +233,8 @@
 <loc>http://localhost:4000/_includes/tags.html</loc>
 <lastmod>2021-11-01T13:07:20+07:00</lastmod>
 </url>
+<url>
+<loc>http://localhost:4000/_includes/toc.html</loc>
+<lastmod>2021-12-07T01:39:20+07:00</lastmod>
+</url>
 </urlset>

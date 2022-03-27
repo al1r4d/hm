@@ -39,6 +39,7 @@ layout: default
 
     </div>
 <img src="{{ post.thumbnail }}"/> 
+{% include toc.html html=content %}
 <p>{{ content | toc  }}</p>
 </article>
 <hr>
