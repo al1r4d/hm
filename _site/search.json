@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "S2LC Smala 2022",
+      "category" : "",
+      "tags"     : "smala",
+	"url"      : "/s2lc-smala",
+	"date"     : "2022-04-10 00:00:00 +0700"
+	
+    } ,
+  
+    {
       "title"    : "DRM dalam Hiburan",
       "category" : "",
       "tags"     : "teknologi",

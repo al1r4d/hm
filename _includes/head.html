@@ -18,7 +18,19 @@
     {% endif %}
     
     {% feed_meta %}
-{% if page.mermaid %}
+
+    {% if page.mermaid %}
   {% include mermaid.html %}
     {% endif %}
-</head>
+    
+{% if page.katex %}
+
+<!-- CSS -->
+<link rel="stylesheet" href="/katex.min.css"/>
+
+<!-- JavaScript -->
+<script defer  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+</script>
+
+{% endif %}
+	  </head>
