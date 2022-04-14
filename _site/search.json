@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Kenapa Demonstrasi?",
+      "category" : "",
+      "tags"     : "catatan",
+	"url"      : "/kenapa-demo",
+	"date"     : "2022-04-14 00:00:00 +0700"
+	
+    } ,
+  
+    {
       "title"    : "S2LC Smala 2022",
       "category" : "",
       "tags"     : "smala",
