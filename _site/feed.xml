@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-17T03:42:43+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alif Radhitya</title><subtitle>Catatan Seorang Pemuda</subtitle><entry><title type="html">Kenapa Demonstrasi?</title><link href="http://localhost:4000/kenapa-demo" rel="alternate" type="text/html" title="Kenapa Demonstrasi?" /><published>2022-04-14T00:00:00+07:00</published><updated>2022-04-14T00:00:00+07:00</updated><id>http://localhost:4000/kenapa-demo</id><content type="html" xml:base="http://localhost:4000/kenapa-demo"><![CDATA[<p>Karena sekarang sedang lagi musim demo mahasiswa, teman saya bertanya tentang alasan mahasiswa lebih memilih demo. Kalau dipikir - pikir opininya bersifat sinis, seakan - akan demo itu tidak penting.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-25T04:15:42+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alif Radhitya</title><subtitle>Catatan Seorang Pemuda</subtitle><entry><title type="html">Pembaruan Status April 2022</title><link href="http://localhost:4000/pembaruan-status-april" rel="alternate" type="text/html" title="Pembaruan Status April 2022" /><published>2022-04-25T00:00:00+07:00</published><updated>2022-04-25T00:00:00+07:00</updated><id>http://localhost:4000/pembaruan-status-april</id><content type="html" xml:base="http://localhost:4000/pembaruan-status-april"><![CDATA[<h2 id="s2lc">S2LC</h2>
+<p>Okey, bulan ini saya ikut program kerja S2LC sebagai IT-nya. Terkadang saya benci dengan istilah IT.</p>
+
+<p>Anda bisa membaca lebih lanjut tentangnya di catatan “<a href="/s2lc-smala">S2LC Smala 2022</a>”.</p>
+
+<h2 id="ubah-tampilan">Ubah Tampilan</h2>
+<p>Demi mencari tampilan blog yang enak, saya banyak menggonta ganti susunan akhir - akhir ini. Pada halaman pertama saya beri avatar untuk lebih mudah dikenali. Bagian buruknya, saya menghapus daftar kontak untuk menghubungi saya.</p>
+
+<h2 id="ganti-domain">Ganti Domain</h2>
+<p>Tak terasa domain ini sudah mau 1 tahun. Ada keinginan hendak mengganti ke <strong>my.id</strong> saja.</p>
+
+<p>Karena lebih murah dan bersifat personal daripada domain <strong>.com</strong> ini. Ada beberapa nama yang sudah saya siapkan, yaitu :</p>
+<ul>
+  <li>radhitya</li>
+  <li>alrad</li>
+  <li>alirad</li>
+  <li>alifradhitya</li>
+</ul>
+
+<p>Jujur saja, lebih asik yang pertama.</p>
+
+<h2 id="dynamic-window-manager">Dynamic Window Manager</h2>
+<p>Saya kembali ke DWM setelah migrasi sementara ke KDE. Karena DWM lama saya sangat ancur - ancuran, saya memulai dari awal dengan versi terbaru, versi 6.3.</p>
+
+<p>Karena pecinta minimalis, saya berusaha menggunakan sedikit patch, yaitu :</p>
+<ul>
+  <li><a href="https://dwm.suckless.org/patches/alwayscenter/">Always Center</a></li>
+  <li><a href="https://dwm.suckless.org/patches/winicon/">Winicon</a></li>
+  <li><a href="https://dwm.suckless.org/patches/tab/">Tab</a></li>
+  <li><a href="https://dwm.suckless.org/patches/tag-previews/">Tag Previews</a></li>
+  <li><a href="https://dwm.suckless.org/patches/uselessgap/">Useless Gap</a></li>
+</ul>
+
+<p>Saya juga mengganti kode <code class="language-plaintext highlighter-rouge">dwm.c</code> untuk menjadikan <code class="language-plaintext highlighter-rouge">incnmaster</code> seperti i3wm.</p>
+<div class="language-c highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kt">void</span>
+<span class="nf">incnmaster</span><span class="p">(</span><span class="k">const</span> <span class="n">Arg</span> <span class="o">*</span><span class="n">arg</span><span class="p">)</span>
+<span class="p">{</span>
+	<span class="n">selmon</span><span class="o">-&gt;</span><span class="n">nmaster</span> <span class="o">=</span> <span class="o">!</span><span class="n">selmon</span><span class="o">-&gt;</span><span class="n">nmaster</span><span class="p">;</span>
+	<span class="n">arrange</span><span class="p">(</span><span class="n">selmon</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div></div>]]></content><author><name></name></author><category term="pembaruan" /><summary type="html"><![CDATA[S2LC Okey, bulan ini saya ikut program kerja S2LC sebagai IT-nya. Terkadang saya benci dengan istilah IT.]]></summary></entry><entry><title type="html">Kenapa Demonstrasi?</title><link href="http://localhost:4000/kenapa-demo" rel="alternate" type="text/html" title="Kenapa Demonstrasi?" /><published>2022-04-14T00:00:00+07:00</published><updated>2022-04-14T00:00:00+07:00</updated><id>http://localhost:4000/kenapa-demo</id><content type="html" xml:base="http://localhost:4000/kenapa-demo"><![CDATA[<p>Karena sekarang sedang lagi musim demo mahasiswa, teman saya bertanya tentang alasan mahasiswa lebih memilih demo. Kalau dipikir - pikir opininya bersifat sinis, seakan - akan demo itu tidak penting.</p>
 
 <p>Andai saja seseorang lebih memilih belajar daripada demo, barangkali peristiwa Reformasi 1998 tidak akan pernah ada. Mungkin juga jabatan Pak Soeharto lebih dari 32 tahun.</p>
 
