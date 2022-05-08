@@ -125,6 +125,10 @@
 <lastmod>2022-04-14T00:00:00+07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/mengenang-linkin-park</loc>
+<lastmod>2022-04-25T00:00:00+07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/pembaruan-status-april</loc>
 <lastmod>2022-04-25T00:00:00+07:00</lastmod>
 </url>
@@ -217,6 +221,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/weblog/page8/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/weblog/page9/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/_includes/collecttags.html</loc>
