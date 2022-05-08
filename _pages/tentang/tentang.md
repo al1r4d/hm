@@ -4,11 +4,10 @@ layout: page
 permalink: /tentang
 ---
 <img class="right avatar" style="max-width: 130px;" src="/media/avatar2.jpg">
-Nama saya Alif Radhitya Wardana. Dikenal sebagai **Al1r4d** atau **Alif**. Seorang pelajar sekolah menengah atas dan anggota [Kelompok Linux Arek Suroboyo](https://klas.or.id).
+Nama saya Alif Radhitya Wardana.
 
-Tertarik dengan dunia teknologi, terutama [*free software movement*](https://id.wikipedia.org/wiki/Gerakan_perangkat_lunak_bebas). Setiap hari menggunakan *free software* dan Linux.
+Seorang pelajar sekolah menengah atas dan anggota [Kelompok Linux Arek Suroboyo](https://klas.or.id).
 
-Saya peduli dengan kehidupan masyarakat. Semua pikiran saya tertuang dalam blog bagian [catatan](/tag/catatan).
 ## Kontak
 Saya bisa dihubungi lewat :
 
