@@ -1,10 +1,8 @@
 ---
-title 		: Pranala
-permalink 	: /pranala
+title 		: Halaman
+permalink 	: /halaman
 layout		: page
 ---
-
-Pranala yang isinya keren - keren
 
 ## Blog Teman
 <dd>Kunjungi blog/situs teman - teman saya.</dd>

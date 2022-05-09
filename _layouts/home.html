@@ -24,7 +24,7 @@ Saya Alif Radhitya. Pelajar yang menggunakan Devuan Linux dan mendengarkan musik
 		<div>
 		<h2 style="margin-left: -12px;">Postingan</h2>
 		<ul style="margin-left: -12px;">
-			{% for post in paginator.posts limit:6 %}
+			{% for post in paginator.posts limit:10 %}
             <li>
 		<div class="date">{{ post.date | date: "%Y-%m-%d" }}</div>
                 <a class="span" href="{{ site.path }}{{ post.url }}">{{ post.title }}</a>
