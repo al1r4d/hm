@@ -10,15 +10,6 @@
     } ,
   
     {
-      "title"    : "Pembaruan Status April 2022",
-      "category" : "",
-      "tags"     : "pembaruan",
-	"url"      : "/pembaruan-status-april",
-	"date"     : "2022-04-25 00:00:00 +0700"
-	
-    } ,
-  
-    {
       "title"    : "Mengenang Linkin Park",
       "category" : "",
       "tags"     : "musik",
@@ -33,6 +24,15 @@
       "tags"     : "catatan",
 	"url"      : "/kenapa-demo",
 	"date"     : "2022-04-14 00:00:00 +0700"
+	
+    } ,
+  
+    {
+      "title"    : "Musik Indonesia Indie Pilihanku",
+      "category" : "",
+      "tags"     : "musik",
+	"url"      : "/indie-indonesia",
+	"date"     : "2022-04-12 00:00:00 +0700"
 	
     } ,
   

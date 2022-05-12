@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-09T12:36:44+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alif Radhitya</title><subtitle>Catatan Seorang Pemuda</subtitle><entry><title type="html">Minimal</title><link href="http://localhost:4000/minimal" rel="alternate" type="text/html" title="Minimal" /><published>2022-05-09T00:00:00+07:00</published><updated>2022-05-09T00:00:00+07:00</updated><id>http://localhost:4000/minimal</id><content type="html" xml:base="http://localhost:4000/minimal"><![CDATA[<p>Berhenti membeli yang tidak perlu. <br />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-12T21:44:33+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alif Radhitya</title><subtitle>Catatan Seorang Pemuda</subtitle><entry><title type="html">Minimal</title><link href="http://localhost:4000/minimal" rel="alternate" type="text/html" title="Minimal" /><published>2022-05-09T00:00:00+07:00</published><updated>2022-05-09T00:00:00+07:00</updated><id>http://localhost:4000/minimal</id><content type="html" xml:base="http://localhost:4000/minimal"><![CDATA[<p>Berhenti membeli yang tidak perlu. <br />
 Kurangi setengah barang Anda, pelajari kepuasan. <br />
 Kurangi setengah lagi.<br />
 Sebutkan 4 hal penting dalam hidup Anda, lakukan itu terlebih dahulu,
@@ -32,51 +32,61 @@ I had to fall to lose it all <br />
 But in the end it doesn’t even matter</p>
 </blockquote>
 
-<p>Mereka yang mendengarkan Linkin Park sudah pasti tahu lagu ini.</p>]]></content><author><name></name></author><category term="musik" /><summary type="html"><![CDATA[Setelah kematian Chester akibat bunuh diri, Linkin Park sudah mati semenjak itu. Anggota band adalah nyawa, jika salah satu ada yang hilang, maka hancur nyawa band itu.]]></summary></entry><entry><title type="html">Pembaruan Status April 2022</title><link href="http://localhost:4000/pembaruan-status-april" rel="alternate" type="text/html" title="Pembaruan Status April 2022" /><published>2022-04-25T00:00:00+07:00</published><updated>2022-04-25T00:00:00+07:00</updated><id>http://localhost:4000/pembaruan-status-april</id><content type="html" xml:base="http://localhost:4000/pembaruan-status-april"><![CDATA[<h2 id="s2lc">S2LC</h2>
-<p>Okey, bulan ini saya ikut program kerja S2LC sebagai IT-nya. Terkadang saya benci dengan istilah IT.</p>
-
-<p>Anda bisa membaca lebih lanjut tentangnya di catatan “<a href="/s2lc-smala">S2LC Smala 2022</a>”.</p>
-
-<h2 id="ubah-tampilan">Ubah Tampilan</h2>
-<p>Demi mencari tampilan blog yang enak, saya banyak menggonta ganti susunan akhir - akhir ini. Pada halaman pertama saya beri avatar untuk lebih mudah dikenali. Bagian buruknya, saya menghapus daftar kontak untuk menghubungi saya.</p>
-
-<h2 id="ganti-domain">Ganti Domain</h2>
-<p>Tak terasa domain ini sudah mau 1 tahun. Ada keinginan hendak mengganti ke <strong>my.id</strong> saja.</p>
-
-<p>Karena lebih murah dan bersifat personal daripada domain <strong>.com</strong> ini. Ada beberapa nama yang sudah saya siapkan, yaitu :</p>
-<ul>
-  <li>radhitya</li>
-  <li>alrad</li>
-  <li>alirad</li>
-  <li>alifradhitya</li>
-</ul>
-
-<p>Jujur saja, lebih asik yang pertama.</p>
-
-<h2 id="dynamic-window-manager">Dynamic Window Manager</h2>
-<p>Saya kembali ke DWM setelah migrasi sementara ke KDE. Karena DWM lama saya sangat ancur - ancuran, saya memulai dari awal dengan versi terbaru, versi 6.3.</p>
-
-<p>Karena pecinta minimalis, saya berusaha menggunakan sedikit patch, yaitu :</p>
-<ul>
-  <li><a href="https://dwm.suckless.org/patches/alwayscenter/">Always Center</a></li>
-  <li><a href="https://dwm.suckless.org/patches/winicon/">Winicon</a></li>
-  <li><a href="https://dwm.suckless.org/patches/tab/">Tab</a></li>
-  <li><a href="https://dwm.suckless.org/patches/tag-previews/">Tag Previews</a></li>
-  <li><a href="https://dwm.suckless.org/patches/uselessgap/">Useless Gap</a></li>
-</ul>
-
-<p>Saya juga mengganti kode <code class="language-plaintext highlighter-rouge">dwm.c</code> untuk menjadikan <code class="language-plaintext highlighter-rouge">incnmaster</code> seperti i3wm.</p>
-<div class="language-c highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kt">void</span>
-<span class="nf">incnmaster</span><span class="p">(</span><span class="k">const</span> <span class="n">Arg</span> <span class="o">*</span><span class="n">arg</span><span class="p">)</span>
-<span class="p">{</span>
-	<span class="n">selmon</span><span class="o">-&gt;</span><span class="n">nmaster</span> <span class="o">=</span> <span class="o">!</span><span class="n">selmon</span><span class="o">-&gt;</span><span class="n">nmaster</span><span class="p">;</span>
-	<span class="n">arrange</span><span class="p">(</span><span class="n">selmon</span><span class="p">);</span>
-<span class="p">}</span>
-</code></pre></div></div>]]></content><author><name></name></author><category term="pembaruan" /><summary type="html"><![CDATA[S2LC Okey, bulan ini saya ikut program kerja S2LC sebagai IT-nya. Terkadang saya benci dengan istilah IT.]]></summary></entry><entry><title type="html">Kenapa Demonstrasi?</title><link href="http://localhost:4000/kenapa-demo" rel="alternate" type="text/html" title="Kenapa Demonstrasi?" /><published>2022-04-14T00:00:00+07:00</published><updated>2022-04-14T00:00:00+07:00</updated><id>http://localhost:4000/kenapa-demo</id><content type="html" xml:base="http://localhost:4000/kenapa-demo"><![CDATA[<p>Karena sekarang sedang lagi musim demo mahasiswa, teman saya bertanya tentang alasan mahasiswa lebih memilih demo. Kalau dipikir - pikir opininya bersifat sinis, seakan - akan demo itu tidak penting.</p>
+<p>Mereka yang mendengarkan Linkin Park sudah pasti tahu lagu ini.</p>]]></content><author><name></name></author><category term="musik" /><summary type="html"><![CDATA[Setelah kematian Chester akibat bunuh diri, Linkin Park sudah mati semenjak itu. Anggota band adalah nyawa, jika salah satu ada yang hilang, maka hancur nyawa band itu.]]></summary></entry><entry><title type="html">Kenapa Demonstrasi?</title><link href="http://localhost:4000/kenapa-demo" rel="alternate" type="text/html" title="Kenapa Demonstrasi?" /><published>2022-04-14T00:00:00+07:00</published><updated>2022-04-14T00:00:00+07:00</updated><id>http://localhost:4000/kenapa-demo</id><content type="html" xml:base="http://localhost:4000/kenapa-demo"><![CDATA[<p>Karena sekarang sedang lagi musim demo mahasiswa, teman saya bertanya tentang alasan mahasiswa lebih memilih demo. Kalau dipikir - pikir opininya bersifat sinis, seakan - akan demo itu tidak penting.</p>
 
 <p>Andai saja seseorang lebih memilih belajar daripada demo, barangkali peristiwa Reformasi 1998 tidak akan pernah ada. Mungkin juga jabatan Pak Soeharto lebih dari 32 tahun.</p>
 
-<p>Bagi saya, demo adalah tindakan kepedulian warga terhadap negara. Saya bakal mendukungnya selama pendemo dengan demonstrasi yang baik dan benar.</p>]]></content><author><name></name></author><category term="catatan" /><summary type="html"><![CDATA[Karena sekarang sedang lagi musim demo mahasiswa, teman saya bertanya tentang alasan mahasiswa lebih memilih demo. Kalau dipikir - pikir opininya bersifat sinis, seakan - akan demo itu tidak penting.]]></summary></entry><entry><title type="html">S2LC Smala 2022</title><link href="http://localhost:4000/s2lc-smala" rel="alternate" type="text/html" title="S2LC Smala 2022" /><published>2022-04-10T00:00:00+07:00</published><updated>2022-04-10T00:00:00+07:00</updated><id>http://localhost:4000/s2lc-smala</id><content type="html" xml:base="http://localhost:4000/s2lc-smala"><![CDATA[<p><img src="/media/s2lc-2022/pembukaan.jpg" alt="" />
+<p>Bagi saya, demo adalah tindakan kepedulian warga terhadap negara. Saya bakal mendukungnya selama pendemo dengan demonstrasi yang baik dan benar.</p>]]></content><author><name></name></author><category term="catatan" /><summary type="html"><![CDATA[Karena sekarang sedang lagi musim demo mahasiswa, teman saya bertanya tentang alasan mahasiswa lebih memilih demo. Kalau dipikir - pikir opininya bersifat sinis, seakan - akan demo itu tidak penting.]]></summary></entry><entry><title type="html">Musik Indonesia Indie Pilihanku</title><link href="http://localhost:4000/indie-indonesia" rel="alternate" type="text/html" title="Musik Indonesia Indie Pilihanku" /><published>2022-04-12T00:00:00+07:00</published><updated>2022-04-12T00:00:00+07:00</updated><id>http://localhost:4000/indie-indonesia</id><content type="html" xml:base="http://localhost:4000/indie-indonesia"><![CDATA[<h3 id="kubik---self-titled">Kubik - Self Titled</h3>
+<p>Self-titled Dream pop dan shoegaze seram asal Bandung, Kubik. Kebetulan saya punya kasetnya, jadi jarang dengerin di Youtube.</p>
+
+<p>Favorit saya berada di lagu Mungkin Aku Tiba Esok Lusa.</p>
+
+<p><a href="https://www.youtube.com/watch?v=WcmYx7ic6D8">Link</a></p>
+
+<h3 id="pure-saturday---self-titled">Pure Saturday - Self Titled</h3>
+<p><img src="/media/musik-indonesia/pure-saturday-self-titled.jpg" alt="" /></p>
+
+<p>Legenda indie asal Bandung! Salah satu pioneer musik Indie. Konon katanya PS adalah band Indie pertama di Indonesia.</p>
+
+<p>Tentang album <strong>Self Titled</strong>-nya mirip dengan band <em>british pop</em>.</p>
+
+<p>Saya jatuh cinta dengan lagu Desire.</p>
+
+<p><em>I can’t say anything. Or bring you something. I hope you can feel this. My desire</em></p>
+
+<p><a href="https://www.youtube.com/watch?v=QNXFK5vwKaU">Link</a></p>
+
+<h3 id="cherry-bombshell---luka-yang-dalam">Cherry Bombshell - Luka Yang Dalam</h3>
+<p>Sama seperti Kubik, kali ini Cherry Bombshell dalam album Luka Yang Dalam mengusung tema shoegaze dan dreampop serba gelap. Mulai dari desain kaset pita, lirik, dan alunan musiknya.</p>
+
+<p>Lagu - lagu yang saya pilih diantara album ini adalah <strong>Hujan</strong> dan <strong>Terhempas Hilang</strong>.</p>
+
+<p><a href="https://www.youtube.com/watch?v=HlnP6iu62cQ">Link</a></p>
+
+<h3 id="sore---centralismo">Sore - Centralismo</h3>
+<p>Album ini bagus. Penuh dengan metafora yang disertai musik jazz.</p>
+
+<p>Lagu <strong>Lihat</strong> adalah yang terbaik menurut saya di album ini.</p>
+
+<p><a href="https://www.youtube.com/watch?v=6h-ZM47_l-s">Link</a></p>
+
+<h3 id="rumahsakit---self-titled">Rumahsakit - Self Titled</h3>
+<p>Album ini bertema <em>British Pop</em>. Karena itu banyak alunan gitar yang terkesan mirip dengan The Cure.</p>
+
+<p>Jagoan saya ada di lagu <strong>Hilang</strong>.</p>
+
+<p><a href="https://www.youtube.com/watch?v=bLLWPG9d-B4">Link</a></p>
+
+<h3 id="themilo---let-me-begin">TheMilo - Let Me Begin</h3>
+<p>Shoegaze legenda asal Bandung (lagi), TheMilo. Dengan lirik yang sedih - sedih, album ini siap diajak nangis bareng.</p>
+
+<p>Lagu <strong>Malaikat</strong> adalah kesukaan saya.</p>
+
+<p><a href="https://www.youtube.com/watch?v=Olgn5CDcnLE">Link</a></p>
+
+<h3 id="themilo---photograph">TheMilo - Photograph</h3>
+
+<p><a href="https://www.youtube.com/watch?v=ggXEk4mMVHQ">Link</a></p>]]></content><author><name></name></author><category term="musik" /><summary type="html"><![CDATA[Kubik - Self Titled Self-titled Dream pop dan shoegaze seram asal Bandung, Kubik. Kebetulan saya punya kasetnya, jadi jarang dengerin di Youtube.]]></summary></entry><entry><title type="html">S2LC Smala 2022</title><link href="http://localhost:4000/s2lc-smala" rel="alternate" type="text/html" title="S2LC Smala 2022" /><published>2022-04-10T00:00:00+07:00</published><updated>2022-04-10T00:00:00+07:00</updated><id>http://localhost:4000/s2lc-smala</id><content type="html" xml:base="http://localhost:4000/s2lc-smala"><![CDATA[<p><img src="/media/s2lc-2022/pembukaan.jpg" alt="" />
 Hari pertama S2LC 2022 cukup melelahkan bagi saya. Mengelola dan mengatur jalannya olimpiade. Tetapi tidak apa - apa, ini adalah pengalaman baru dan berharga.</p>
 
 <h2 id="s2lc-dalam-kulit-kacang">S2LC dalam Kulit Kacang</h2>
