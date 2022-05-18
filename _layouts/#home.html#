@@ -12,8 +12,9 @@ layout: default
   <!-- Html Elements for Search -->
 
 <div class="post-content">
-<p>Sebuah arsip catatan digital tentang kehidupan dan hal yang saya pikirkan.</p>
 
+
+<p>Sebuah arsip catatan digital tentang kehidupan dan hal yang saya pikirkan.</p>
 </div>
 	<h2>   Pencarian </h2>
 	<input type="text" id="search-input" placeholder="Ketik apa yang ingin dicari">
