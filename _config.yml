@@ -1,34 +1,8 @@
-name: Alif Radhitya
-description: "Catatan Seorang Pemuda"
-url: "https://radhitya.mengobrol.com"
-
-paginate: 4
-permalink: /:title
-paginate_path: "/weblog/page:num/"
-
-kramdown:
-  input: GFM
-  
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-      css_class: 'highlight'
-feed:
-  path: atom.xml
-  posts_limit: 2020
+name: Alif Radhitya Homepage
+description: "Homepage"
+url: "https://radhitya.my.id"
 
 sass:
   style: :expanded
-
-# Newsline True/False
-newsline: true
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-seo-tag
-  
-feed:
-  posts_limit: 100
 
 include: ['_pages', '_includes']
