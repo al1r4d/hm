@@ -5,4 +5,4 @@ url: "https://radhitya.my.id"
 sass:
   style: :expanded
 
-include: ['_pages', '_includes']
+
