@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Rumah Baru",
+      "category" : "",
+      "tags"     : "cerita",
+	"url"      : "/rumah-baru",
+	"date"     : "2022-05-24 00:00:00 +0700"
+	
+    } ,
+  
+    {
       "title"    : "Kesehatan Mental Gen Z",
       "category" : "",
       "tags"     : "catatan",
