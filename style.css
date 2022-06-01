@@ -1,7 +1,11 @@
 body {
-font-family: "monospace"
+font: 16px monospace,monospace;
 }
 
 p {
 color:#fff
 	}
+
+a:visited {
+  color: red;
+}
