@@ -6,7 +6,7 @@ layout: page
 
 Untuk kamu yang tidak ingin ketinggalan postingan terbaru, tapi sedang sibuk bisa berlangganan lewat *RSS*.
 
-`https://radhitya.mengobrol.com/feed.xml`
+`https://radhitya.my.id/feed.xml`
 ## Apa itu RSS
 
 Bayangkan versi terbuka dari Twitter atau Facebook News Feed, tanpa iklan psy-op, tidak dimiliki oleh oligopoli, dimanipulasi tanpa algoritma, dan semua di bawah kendali penuh Anda.
