@@ -1,6 +1,6 @@
 name: Blog Alif Radhitya
 description: "Catatan Seorang Pemuda"
-url: "/"
+url: "https://radhitya.my.id"
 
 paginate: 4
 permalink: /:title
