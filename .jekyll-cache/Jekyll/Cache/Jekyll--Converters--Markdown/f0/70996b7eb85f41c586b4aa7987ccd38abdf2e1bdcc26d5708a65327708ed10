@@ -1,0 +1,56 @@
+I"…<p><img src="/media/s2lc-2022/pembukaan.jpg" alt="" />
+Hari pertama S2LC 2022 cukup melelahkan bagi saya. Mengelola dan mengatur jalannya olimpiade. Tetapi tidak apa - apa, ini adalah pengalaman baru dan berharga.</p>
+
+<h2 id="s2lc-dalam-kulit-kacang">S2LC dalam Kulit Kacang</h2>
+<p>Kalau tidak tahu tentang S2LC, S2LC adalah program kegiatan SMAN 5 Surabaya yang bergerak di bidang olimpiade untuk pelajar SMP. Yang diperlombakan adalah Bahasa Inggris, Matematika dan Fisika, Biologi, Ilmu Pengetahuan Umum, dan Bahasa Indonesia.</p>
+
+<p>Langsung aja buka websitenya di <a href="https://s2lc.com">s2lc.com</a> untuk informasi lebih jauh.</p>
+
+<h2 id="menjadi-pubdok-it">Menjadi Pubdok IT</h2>
+<p><img class="right avatar" src="/media/avatar.jpg" />
+Jabatan saya di S2LC Smala 2022 sebagai Publikasi Dokumentasi bagian IT. Pada awalnya, saya tidak ingin masuk sini. Tetapi karena dipaksa oleh teman, akhirnya gabung deh.</p>
+
+<p>Apa yang saya lakukan disini adalah :</p>
+<ul>
+  <li>Mengelola website ujian dan s2lc.</li>
+  <li>Memasukkan soal - soal ke dalam website ujian.</li>
+  <li>Pengawas kelas.</li>
+</ul>
+
+<div class="mermaid">
+graph TD
+    A[Tugas Saya]
+    A --&gt;|Satu| D[Ngurus website]
+    A --&gt;|Dua| E[Masukin Soal]
+    A --&gt;|Tiga| F[Pengawas Kelas]
+  
+      </div>
+
+<p>Saya akan jelaskan lebih rinci jika kamu ingin tahu.</p>
+
+<h3 id="mengelola-website">Mengelola website</h3>
+
+<p>Tugas pertama saya adalah <strong>Mengelola website ujian dan s2lc</strong>. Mengatur dan merubah ulang tampilan website untuk tampilan baru.</p>
+
+<p>Ketika bekerja, sedikit kesal dengan jalan kerja website s2lc. Tidak habis pikir kenapa menerapkan sistem <em>login</em> hanya untuk melihat tata tertib, buku pendamping dan peraturan. Apalagi tidak ada verifikasi yang menambah kesia-siaan fitur itu. Buat akun dengan email tidak aktif atau ngawur pun bakal bisa login.</p>
+
+<p>Setelah login, kita akan melihat tata tertib. Bagian yang tidak pernah saya lupakan adalah kodingan heading 2 atau <code class="language-plaintext highlighter-rouge">&lt;h2&gt;</code> dijadikan seperti plain text alias <code class="language-plaintext highlighter-rouge">&lt;p&gt;</code>. Cukup ketawa sambil mengelus dada. Silahkan periksa sendiri dengan <code class="language-plaintext highlighter-rouge">Inspect Element</code>.</p>
+
+<h3 id="memasukkan-soal">Memasukkan soal</h3>
+
+<p>Kali ini pihak s2lc menggunakan <a href="https://e-ujian">e-ujian</a> untuk olimpiade. Tugas saya disana adalah <strong>memasukkan soal - soal yang telah dibuat</strong>. Terdiri dari soal Fisika, Matematika, Biologi, Ilmu Pengetahuan Umum, Bahasa Inggris, dan Bahasa Indonesia.</p>
+
+<p>Enaknya di e-ujian, kita bisa memakai fitur <code class="language-plaintext highlighter-rouge">template</code> daripada mengisi secara manual disana. Yang saya sesalkan adalah belum bisa mengatur skor di fitur tersebut.</p>
+
+<h3 id="pengawas-kelas">Pengawas Kelas</h3>
+<p>Pengawas kelas adalah tugas paling krusial, menurut saya. Disini saya menjelma sebagai pelayanan pelanggan.</p>
+
+<p>Dengan keterbatasan saya, saya menjawab semua masalah yang ada. Cukup melelahkan dan membingungkan karena pertama kalinya saya menggunakan e-ujian. Beruntung saya bisa menyelesaikan semua.</p>
+
+<h2 id="kekurangan-anggota">Kekurangan Anggota</h2>
+
+<p><img src="/media/s2lc-2022/anggota.jpg" alt="" />
+Tidak sengaja saya dengar jika S2LC kekurangan anggota karena minimnya keinginan pelajar untuk bergabung. Bukan proker ini saja, tetapi proker - proker lainnya juga.</p>
+
+<p>Masalah ini juga pernah saya pikirkan dalam pos : <a href="/kontribusi">Kontribusi</a> dan <a href="/apatisme-egoisme">Apatisme</a>. Sudah lama saya kesal dengan keadaan ini dan sering membahasnya.</p>
+:ET

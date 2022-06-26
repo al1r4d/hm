@@ -1,6 +1,6 @@
-name: Alif Radhitya
+name: Blog Alif Radhitya
 description: "Catatan Seorang Pemuda"
-url: "https://radhitya.mengobrol.com"
+url: "/"
 
 paginate: 4
 permalink: /:title

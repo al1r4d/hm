@@ -163,6 +163,9 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/index2</loc>
+</url>
+<url>
 <loc>http://localhost:4000/berlangganan</loc>
 </url>
 <url>
@@ -267,7 +270,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/_includes/pagination.html</loc>
-<lastmod>2021-12-20T15:44:00+07:00</lastmod>
+<lastmod>2022-06-26T09:26:04+07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/_includes/script.html</loc>

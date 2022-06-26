@@ -1,6 +1,18 @@
 ---
-layout: default
+layout: default2
 ---
+<center>
+<h1><marquee>~al1r4d</marquee></h1>
+<p><b>Alif Radhitya</b></p>
+<img style="max-width: 250px;" src="/media/ikon.jpg">
+<p><i>linux, musik; untuk hiburan.</i></p>
+<p>blog <a href="https://alif.radhitya.my.id">alif.radhitya.my.id</a></p>
+<p>kontak : <a href="https://mstdn.io/@al1r4d">mastodon</a> <a href="mailto:al1r4d@riseup.net">email</a></p>
+
+</center>
+
+<details>
+<summary>Komentar</summary>
 <div class="container"> 
        </div>
 <!-- Script pointing to search-script.js -->
@@ -12,18 +24,16 @@ layout: default
   <!-- Html Elements for Search -->
 
 <div class="post-content">
-<p>Sebuah arsip catatan digital tentang kehidupan dan hal yang saya pikirkan.</p>
-
+<h2>Pemberitahuan</h2>
+<p>Semua tulisan berkiblat dari kacamata konservatif.</p>
 </div>
 	<h2>   Pencarian </h2>
 	<input type="text" id="search-input" placeholder="Ketik apa yang ingin dicari">
 <ul id="results-container"></ul>
 
-	<div class="crot-container">
-		<div>
-		<h2 style="margin-left: -12px;">Postingan</h2>
-		<ul style="margin-left: -12px;">
-			{% for post in paginator.posts limit: 5 %}
+<h2> Postingan Terbaru</h2>
+		<ul>
+			{% for post in paginator.posts limit:5 %}
             <li>
 		<div class="date">{{ post.date | date: "%Y-%m-%d" }}</div>
                 <a class="span" href="{{ site.path }}{{ post.url }}">{{ post.title }}</a>
@@ -61,3 +71,4 @@ layout: default
 })
 // @license-end
 </script>
+</details>
