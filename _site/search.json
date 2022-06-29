@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Perihal Fediverse",
+      "category" : "",
+      "tags"     : "catatan",
+	"url"      : "/perihal-media-sosial",
+	"date"     : "2022-06-29 00:00:00 +0700"
+	
+    } ,
+  
+    {
       "title"    : "Rumah Baru",
       "category" : "",
       "tags"     : "cerita",
