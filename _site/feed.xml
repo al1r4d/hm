@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-06-29T20:43:21+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Blog Alif Radhitya</title><subtitle>Catatan Seorang Pemuda</subtitle><entry><title type="html">Perihal Fediverse</title><link href="http://localhost:4000/perihal-media-sosial" rel="alternate" type="text/html" title="Perihal Fediverse" /><published>2022-06-29T00:00:00+07:00</published><updated>2022-06-29T00:00:00+07:00</updated><id>http://localhost:4000/perihal-media-sosial</id><content type="html" xml:base="http://localhost:4000/perihal-media-sosial"><![CDATA[<h2 id="saya-dan-fediverse">Saya dan Fediverse</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-06-29T20:47:33+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Blog Alif Radhitya</title><subtitle>Catatan Seorang Pemuda</subtitle><entry><title type="html">Perihal Fediverse</title><link href="http://localhost:4000/perihal-media-sosial" rel="alternate" type="text/html" title="Perihal Fediverse" /><published>2022-06-29T00:00:00+07:00</published><updated>2022-06-29T00:00:00+07:00</updated><id>http://localhost:4000/perihal-media-sosial</id><content type="html" xml:base="http://localhost:4000/perihal-media-sosial"><![CDATA[<h2 id="saya-dan-fediverse">Saya dan Fediverse</h2>
 <p>Saya telah mengenal <a href="https://en.wikipedia.org/wiki/Fediverse">Fediverse</a> sejak 2020 bersamaan dengan keseriusan saya terhadap Linux. Jika mencari informasi Linux, maka akan membaca juga bacaan program sumber terbuka.</p>
 
 <p>Sosial media Fediverse pertama saya adalah <a href="https://joinmastodon.org">Mastodon</a> yang merupakan media sosial <a href="https://id.wikipedia.org/wiki/Desentralisasi">desentralisasi</a> dalam naungan protokol <a href="https://activitypub.rocks/">ActivityPub</a>.</p>
@@ -15,6 +15,8 @@
   <li><a href="https://pixelfed.org/">Pixelfed</a> untuk pengganti Instagram.</li>
   <li><a href="https://joinpeertube.org/">Peertube</a> untuk pengganti Youtube.</li>
 </ul>
+
+<p><img src="/media/mastodon/fediverse.jpg" alt="" /></p>
 
 <h2 id="saya-menyukai-ini">Saya Menyukai Ini!</h2>
 <p>Terus terang saya menyukai cara kerja Fediverse. Semua terhubung satu sama lainnya tanpa perlu berpindah platform. Bayangkan betapa enaknya jika pengguna Instagram bisa terhubung dengan Youtube, Facebook, atau Twitter. Begitu pula sebaliknya.</p>

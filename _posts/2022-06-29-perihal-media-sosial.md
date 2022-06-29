@@ -21,6 +21,8 @@ Ada banyak sekali platform media sosial yang terhubung dengan Activity Pub. Cont
 - [Pixelfed](https://pixelfed.org/) untuk pengganti Instagram.
 - [Peertube](https://joinpeertube.org/) untuk pengganti Youtube.
 
+![](/media/mastodon/fediverse.jpg)
+
 ## Saya Menyukai Ini!
 Terus terang saya menyukai cara kerja Fediverse. Semua terhubung satu sama lainnya tanpa perlu berpindah platform. Bayangkan betapa enaknya jika pengguna Instagram bisa terhubung dengan Youtube, Facebook, atau Twitter. Begitu pula sebaliknya.
 
