@@ -11,7 +11,6 @@ layout: default
 <section class="home">
   <!-- Html Elements for Search -->
 <div class="post-content">
-<h2>Assalamualaikum!</h2>
 <img class="right avatar" src="/media/ikon.jpg" style="border-radius: 5px;" width="125" height="125">
 <p>Sebuah blog pribadi milik Alif Radhitya. Kebanyakan bicara tentang teknologi, hiburan, dan kehidupan sosial dari sudut pandang seorang konservatif.</p>
 
@@ -26,7 +25,7 @@ layout: default
 	<input type="text" id="search-input" placeholder="Ketik apa yang ingin dicari">
 <ul id="results-container"></ul>
 
-<h2> Postingan Terbaru</h2>
+<h2> Postingan</h2>
 		<ul>
 			{% for post in paginator.posts limit:5 %}
             <li>
@@ -48,8 +47,6 @@ layout: default
   <p><a href="/tag/pembaruan">#pembaruan</a> - <a href="/tag/musik">#musik</a> - <a href="/tag/teknologi">#tekno</a></p>
   </ul>
   
-
-
 <script>
 // @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt MIT
 // @license-end

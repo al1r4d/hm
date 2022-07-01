@@ -6,9 +6,7 @@ permalink: /tentang
 
 ## Pemilik
 <img class="right avatar" style="max-width: 130px;" src="/media/avatar2.jpg">
-Nama saya Alif Radhitya Wardana.
-
-Seorang pelajar sekolah menengah atas dan anggota [Kelompok Linux Arek Suroboyo](https://klas.or.id).
+Nama saya Alif Radhitya. Saya tertarik dengan *free software* dan *indie music*. 
 
 ## Kontak
 Saya bisa dihubungi lewat :
@@ -26,7 +24,14 @@ Saya bisa dihubungi lewat :
   <dd><a href="https://t.me/al1r4d">@al1r4d</a></dd>
 
 
-## Penting
+## Perhatian!
 Semua opini dan tulisan yang ada disini adalah atas nama saya, bukan berkaitan dengan organisasi, tempat, dan komunitas yang saya ikuti dengan lisensi [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.id)
 
-Jika tulisan ada yang salah, tolong hubungi saya akan segera dibenarkan.
+## Kode Sumber
+Blog ini bersifat _free open source software_. Jika ingin membuat blog yang sama, silahkan unduh filenya.
+```
+$ git clone https://github.com/al1r4d/hm
+$ cd hm
+```
+
+
