@@ -2,7 +2,7 @@ name: Blog Alif Radhitya
 description: "Catatan Seorang Pemuda"
 url: "https://radhitya.my.id"
 
-paginate: 4
+paginate: 5
 permalink: /:title
 paginate_path: "/weblog/page:num/"
 
