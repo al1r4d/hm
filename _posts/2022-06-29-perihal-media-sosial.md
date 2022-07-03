@@ -36,4 +36,4 @@ Selama bermedia sosial di Fediverse, saya sudah sering migrasi. Kenapa? Karena s
 Sekarang saya menetap di 3 server dengan nama pengguna `al1r4d`, yaitu:
 - [mstdn.io](https://mstdn.io/@al1r4d) sebagai akun utama. Disana saya bicara tentang teknologi, khususnya Linux.
 - [misskey.id](https://misskey.id/@al1r4d) sebagai akun kedua. Isinya acak dalam bahasa Indonesia.
-- [thebag.social](https://thebag.social/@al1r4d) sebagai akun ketiga. Tempat untuk membahas yang berat - berat.
+- [noagendasocial.com](https://noagendasocial.com/@al1r4d) sebagai akun ketiga. Tempat untuk membahas yang berat - berat.

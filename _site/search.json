@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Jangan Membeli Perangkat Terbaru",
+      "category" : "",
+      "tags"     : "catatan, tekno",
+	"url"      : "/jangan-membeli-perangkat-terbaru",
+	"date"     : "2022-07-03 00:00:00 +0700"
+	
+    } ,
+  
+    {
       "title"    : "Perihal Fediverse",
       "category" : "",
       "tags"     : "catatan",
