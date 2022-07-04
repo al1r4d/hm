@@ -1,4 +1,4 @@
-I"ó<p>Perangkat sekarang mulai canggih dengan fitur - fiturnya. Sebagian orang tergiur, sehingga membelinya. Bagian buruknya, orang menjadi boros, sehingga menumpuk banyak perangkat.</p>
+I"ƒ<p>Perangkat sekarang mulai canggih dengan fitur - fiturnya. Sebagian orang tergiur, sehingga membelinya. Bagian buruknya, orang menjadi boros, sehingga menumpuk banyak perangkat.</p>
 
 <p>Sebagai orang yang suka dengan teknologi, saya pernah merasakan. Itu sangat tidak efisien dan membuang banyak uang. Padahal ada yang bisa dibeli, selama perangkat sebelumnya tidak masalah.</p>
 
@@ -51,18 +51,32 @@
 <p>Kedepan saya ingin memaksimalkan oprek untuk laptop ini. Saya ada rencana untuk memasang <a href="https://coreboot.org">Coreboot</a> dan mengganti Intel Wifi Card menjadi Atheros yang <em>free software</em>.</p>
 
 <h2 id="komputer-modern-semakin-sampah">Komputer modern semakin sampah.</h2>
-<p>Semakin modern laptop, semakin dibatasi kustomisasi. Para perusahaan ingin mengambil untung sebanyak - banyaknya.</p>
+<p>Saya benci komputer modern. Kenapa?</p>
+
 <h3 id="perangkat-susah-dimodifikasi-dan-mudah-rusak">Perangkat susah dimodifikasi dan mudah rusak.</h3>
 
 <p>Laptop modern telah dibatasi untuk dimodifikasi. Kebanyakan hanya bisa ditingkatkan RAM dan SSD saja. Lenovo Thinkpad pun berevolusi seperti ini. Padahal sebelum 2014, laptop Thinkpad dapat diupgrade CPU, RAM, SSD, LCD, dan keyboard.</p>
 
 <p>Saya membenci produk Apple karena sejauh ini merupakan perusahaan komputasi paling menyebalkan karena hal ini. Setiap produk Apple dirancang dengan brilian untuk membuatnya sulit untuk memperbaiki masalah dan dapat diperbaiki. Apple bahkan menggunakan <a href="https://arstechnica.com/gadgets/2011/01/apple-screwing-new-iphones-out-of-simple-diy-repair/">sekrup pentalobe agar orang normal tidak dapat membuka komputer mereka dengan obeng biasa</a>.</p>
 
+<p><img src="/media/lama/hak.jpg" alt="" />
+Keadaan ini adalah buruk. Pengguna harus punya hak untuk memperbaiki. Semakin modern laptop, semakin dibatasi kustomisasi. Para perusahaan ingin mengambil untung sebanyak - banyaknya.</p>
 <h3 id="intel-management-engine-intel-me">Intel Management Engine (Intel ME)</h3>
-<p>Anda mungkin pernah mendengar bahwa semua prosesor Intel i3/i5/i7 (setelah Intel Core 2 Duo) memiliki program berfungsi sebagai <a href="https://www.fsf.org/blogs/sysadmin/the-management-engine-an-attack-on-computer-users-freedom">spyware</a>. Namanya <a href="https://www.intel.com/content/www/us/en/support/articles/000008927/software/chipset-software.html">Intel Management Engine</a>. Intel ME dapat melihat memori Anda dan terhubung ke internet: pada dasarnya semua komputer modern memiliki <em>backdoor</em> permanen ini. Di komputer lama, misalnya ThinkPad X200, Anda dapat, dengan sedikit oprek dan mengganti BIOS proprietary dengan <a href="https://libreboot.org">Libreboot</a> atau Coreboot, tetapi itu tidak mungkin dilakukan pada komputer yang lebih modern (Anda dapat menginstal Coreboot pada komputer yang lebih modern, tetapi tidak semua komponen Intel Management Engine dilepas).</p>
+<p>Anda mungkin pernah mendengar bahwa semua prosesor Intel i3/i5/i7 (setelah Intel Core 2 Duo) memiliki program berfungsi sebagai <a href="https://www.fsf.org/blogs/sysadmin/the-management-engine-an-attack-on-computer-users-freedom">spyware</a>. Namanya <a href="https://www.intel.com/content/www/us/en/support/articles/000008927/software/chipset-software.html">Intel Management Engine</a>. Intel ME dapat melihat memori Anda dan terhubung ke internet: pada dasarnya semua komputer modern memiliki <em>backdoor</em> permanen ini.</p>
+
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ThinkPad_X60_Series_with_Libreboot.jpg/1920px-ThinkPad_X60_Series_with_Libreboot.jpg" alt="" /></p>
+
+<p>Di komputer lama, misalnya ThinkPad X200, Anda dapat, dengan sedikit oprek dan mengganti BIOS proprietary dengan <a href="https://libreboot.org">Libreboot</a> atau Coreboot, tetapi itu tidak mungkin dilakukan pada komputer yang lebih modern (Anda dapat menginstal Coreboot pada komputer yang lebih modern, tetapi tidak semua komponen Intel Management Engine dilepas).</p>
 
 <p>Komputer modern adalah spyware yang tidak dapat dilepas karena sudah didesain dan <a href="https://www.liputan6.com/tekno/read/2185425/10-dosa-besar-nsa-yang-dibocorkan-edward-snowden">NSA</a> dapat memantau mesin apa pun dengan Mesin Manajemen. Bahkan ada desas-desus bahwa salah satu penyadapan yang dilakukan FBI di bawah pemerintahan Obama terhadap Trump selama kampanyenya adalah bug Management Engine.</p>
 
+<h2 id="windows-adalah-penyakit">Windows adalah penyakit</h2>
+<p>Berapa kali Anda mendengar seseorang menjelaskan kepada Anda bahwa komputer mereka lambat karena â€˜sangat tuaâ€™, padahal mereka membelinya pada tahun di atas 2015? Pernyataan yang tidak masuk akal tentunya. Komputer tidak hanya menjadi lambat secara ajaib, kecuali jika mereka menjalankan Windows.</p>
+
+<p>Pihak Microsoft memasang banyak <em>bloatware</em> dan <a href="https://www.gnu.org/proprietary/malware-microsoft.en.html"><em>spyware/malware</em></a>. Tidak sedikit orang yang kesal dengan auto update yang tidak menghasilkan apa - apa, bahkan berujung dalam masalah yang membawa Blue Screen of The Death. Saya sendiri sudah merasakan itu, terlebih ketika menggunakan Windows 10.</p>
+
+<h3 id="mulailah-memasang-gnulinux">Mulailah Memasang GNU/Linux!</h3>
+<p>Pengalaman buruk di atas tidak akan terjadi ketika anda memulai memasang GNU/Linux pada perangkat anda. GNU/Linux cenderung ringan dan cepat, jika dibandingkan oleh Microsoft Windows dan Apple MacOS. Ada banyak sekali distribusi yang bisa anda gunakan.</p>
 <h2 id="pola-pikir">Pola Pikir</h2>
 <div class="mermaid">
 graph TD

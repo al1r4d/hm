@@ -1,0 +1,95 @@
+I"<p>Perangkat sekarang mulai canggih dengan fitur - fiturnya. Sebagian orang tergiur, sehingga membelinya. Bagian buruknya, orang menjadi boros, sehingga menumpuk banyak perangkat.</p>
+
+<p>Sebagai orang yang suka dengan teknologi, saya pernah merasakan. Itu sangat tidak efisien dan membuang banyak uang. Padahal ada yang bisa dibeli, selama perangkat sebelumnya tidak masalah.</p>
+
+<p>Hari ini saya berpesan untuk <strong>jangan membeli perangkat terbaru selagi yang lama masih normal</strong>.</p>
+
+<h2 id="laptopku-bernama-thinkpad">Laptopku bernama Thinkpad</h2>
+<p>Sudah 4 tahun saya menggunakan <a href="https://support.lenovo.com/my/id/solutions/pd100280">Thinkpad T440P</a>. Laptop yang diluncurkan pada November 2013, berarti sekarang berumur 9 tahun ini masih saya andalkan untuk menyelesaikan tugas - tugas.</p>
+
+<p>Meskipun berumur 9 tahun, performanya tetap keadaan prima dan mampu bersaing dengan laptop modern. Saya sudah <em>oprek</em> laptop ini agar meningkatkan performanya.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Bagian</th>
+      <th>Nilai</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Model</td>
+      <td>20AWS3DD0M ThinkPad T440p</td>
+    </tr>
+    <tr>
+      <td>Operasi Sistem</td>
+      <td>Devuan GNU/Linux</td>
+    </tr>
+    <tr>
+      <td>Kernel</td>
+      <td>Linux dengan beberapa patch tambahan</td>
+    </tr>
+    <tr>
+      <td>CPU</td>
+      <td>Intel i5-4300M (4) @ 3.300GHz</td>
+    </tr>
+    <tr>
+      <td>GPU</td>
+      <td>Intel HD 4600</td>
+    </tr>
+    <tr>
+      <td>Memori</td>
+      <td>12 GB</td>
+    </tr>
+    <tr>
+      <td>Diska</td>
+      <td>120 GB Midasforce M2 SSD 500 GB Western Digital Hardisk 500 GB Seagate Hardisk</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Kedepan saya ingin memaksimalkan oprek untuk laptop ini. Saya ada rencana untuk memasang <a href="https://coreboot.org">Coreboot</a> dan mengganti Intel Wifi Card menjadi Atheros yang <em>free software</em>.</p>
+
+<h2 id="komputer-modern-semakin-sampah">Komputer modern semakin sampah.</h2>
+<p>Saya benci komputer modern. Kenapa?</p>
+
+<h3 id="perangkat-susah-dimodifikasi-dan-mudah-rusak">Perangkat susah dimodifikasi dan mudah rusak.</h3>
+
+<p>Laptop modern telah dibatasi untuk dimodifikasi. Kebanyakan hanya bisa ditingkatkan RAM dan SSD saja. Lenovo Thinkpad pun berevolusi seperti ini. Padahal sebelum 2014, laptop Thinkpad dapat diupgrade CPU, RAM, SSD, LCD, dan keyboard.</p>
+
+<p>Saya membenci produk Apple karena sejauh ini merupakan perusahaan komputasi paling menyebalkan karena hal ini. Setiap produk Apple dirancang dengan brilian untuk membuatnya sulit untuk memperbaiki masalah dan dapat diperbaiki. Apple bahkan menggunakan <a href="https://arstechnica.com/gadgets/2011/01/apple-screwing-new-iphones-out-of-simple-diy-repair/">sekrup pentalobe agar orang normal tidak dapat membuka komputer mereka dengan obeng biasa</a>.</p>
+
+<p><img src="/media/lama/hak.jpg" alt="" />
+Keadaan ini adalah buruk. Pengguna harus punya hak untuk memperbaiki. Semakin modern laptop, semakin dibatasi kustomisasi. Para perusahaan ingin mengambil untung sebanyak - banyaknya.</p>
+<h3 id="intel-management-engine-intel-me">Intel Management Engine (Intel ME)</h3>
+<p>Anda mungkin pernah mendengar bahwa semua prosesor Intel i3/i5/i7 (setelah Intel Core 2 Duo) memiliki program berfungsi sebagai <a href="https://www.fsf.org/blogs/sysadmin/the-management-engine-an-attack-on-computer-users-freedom">spyware</a>. Namanya <a href="https://www.intel.com/content/www/us/en/support/articles/000008927/software/chipset-software.html">Intel Management Engine</a>. Intel ME dapat melihat memori Anda dan terhubung ke internet: pada dasarnya semua komputer modern memiliki <em>backdoor</em> permanen ini.</p>
+
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ThinkPad_X60_Series_with_Libreboot.jpg/1920px-ThinkPad_X60_Series_with_Libreboot.jpg" alt="" /></p>
+
+<p>Di komputer lama, misalnya ThinkPad X200, Anda dapat, dengan sedikit oprek dan mengganti BIOS proprietary dengan <a href="https://libreboot.org">Libreboot</a> atau Coreboot, tetapi itu tidak mungkin dilakukan pada komputer yang lebih modern (Anda dapat menginstal Coreboot pada komputer yang lebih modern, tetapi tidak semua komponen Intel Management Engine dilepas).</p>
+
+<p>Komputer modern adalah spyware yang tidak dapat dilepas karena sudah didesain dan <a href="https://www.liputan6.com/tekno/read/2185425/10-dosa-besar-nsa-yang-dibocorkan-edward-snowden">NSA</a> dapat memantau mesin apa pun dengan Mesin Manajemen. Bahkan ada desas-desus bahwa salah satu penyadapan yang dilakukan FBI di bawah pemerintahan Obama terhadap Trump selama kampanyenya adalah bug Management Engine.</p>
+
+<h2 id="windows-adalah-penyakit">Windows adalah penyakit</h2>
+<p>Berapa kali Anda mendengar seseorang menjelaskan kepada Anda bahwa komputer mereka lambat karena ‘sangat tua’, padahal mereka membelinya pada tahun di atas 2015? Pernyataan yang tidak masuk akal tentunya. Komputer tidak hanya menjadi lambat secara ajaib… …kecuali jika mereka menjalankan Windows.</p>
+
+<p>Di masa depan, bahkan setelah Microsoft beralih ke backend murni berbasis Unix untuk sistem operasi mereka, kita semua akan tertawa terbahak-bahak tentang bagaimana Microsoft Windows, secara harfiah sistem operasi terburuk dan paling tidak berfungsi yang pernah dibuat, adalah pangsa pasar konsumen terbesar selama beberapa dekade.</p>
+
+<p>Saya mungkin membahas bagaimana Windows dirancang dengan buruk di halaman atau video lain, tetapi saya ingin memperjelas bahwa tidak ada kehilangan kecepatan pada distribusi Linux apa pun, yang seharusnya Anda gunakan. Saya adalah salah satu yang pertama mengeluh tentang fitur yang membengkak dari kernel Linux dan perangkat lunak Linux, tetapi dibandingkan dengan Windows, ini bukan kontes: Linux berjalan cepat pada perangkat keras lama. Anda akan tahu dari beberapa video saya, bagaimanapun, bahwa saya tidak terlalu menyukai “Linux Evangelism”, terutama karena itu agak melengking dan tidak benar-benar bekerja dengan tingkat keberhasilan yang tinggi. Menggunakan Linux hanyalah sesuatu yang telah diimunisasi oleh orang normal (kebanyakan karena “Itulah yang dilakukan orang pintar”), tetapi saya selalu menemukan diri saya dalam posisi di mana instalasi Window seseorang secara permanen macet dan mereka berada pada keputusan yang canggung karena harus membeli lisensi untuk menginstal ulang sistem operasi yang disfungsional dan lambat yang telah mereka benci.</p>
+
+<p>Secara harfiah tidak ada masalah yang dimiliki orang normal dengan komputer yang tidak segera diatasi dengan menginstal Linux.</p>
+
+<h3 id="mulailah-memasang-gnulinux">Mulailah Memasang GNU/Linux!</h3>
+
+<h2 id="pola-pikir">Pola Pikir</h2>
+<div class="mermaid">
+graph TD
+    A[Apakah perangkat normal?] --&gt;|Tidak| B(Beli perangkat terbaru)
+    A --&gt;|Ya| C(Apakah perangkat lemot?)
+    C --&gt;|Tidak| D(Simpan perangkat anda)
+    C --&gt;|Ya| E(Apakah Windows berjalan disitu?)
+    E --&gt;|Tidak| F(Pasang GNU/Linux)
+    E --&gt;|Ya| G(Beli perangkat terbaru)
+</div>
+<p>Peta pikiran di atas adalah pola pikir yang saya gunakan. Selagi perangkat saya masih normal, saya tidak membeli barang yang baru.</p>
+:ET

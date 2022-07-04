@@ -48,9 +48,15 @@ Di komputer lama, misalnya ThinkPad X200, Anda dapat, dengan sedikit oprek dan m
 Komputer modern adalah spyware yang tidak dapat dilepas karena sudah didesain dan [NSA](https://www.liputan6.com/tekno/read/2185425/10-dosa-besar-nsa-yang-dibocorkan-edward-snowden) dapat memantau mesin apa pun dengan Mesin Manajemen. Bahkan ada desas-desus bahwa salah satu penyadapan yang dilakukan FBI di bawah pemerintahan Obama terhadap Trump selama kampanyenya adalah bug Management Engine.
 
 ## Windows adalah penyakit
+Berapa kali Anda mendengar seseorang menjelaskan kepada Anda bahwa komputer mereka lambat karena 'sangat tua', padahal mereka membelinya pada tahun di atas 2015? Pernyataan yang tidak masuk akal tentunya. Komputer tidak hanya menjadi lambat secara ajaib, kecuali jika mereka menjalankan Windows.
 
+Pihak Microsoft memasang banyak *bloatware* dan [*spyware/malware*](https://www.gnu.org/proprietary/malware-microsoft.en.html). Tidak sedikit orang yang kesal dengan auto update yang tidak menghasilkan apa - apa, bahkan berujung dalam masalah yang membawa Blue Screen of The Death. Saya sendiri sudah merasakan itu, terlebih ketika menggunakan Windows 10.
+
+![](/media/lama/win.png)
 ### Mulailah Memasang GNU/Linux!
+Pengalaman buruk di atas tidak akan terjadi ketika anda memulai memasang GNU/Linux pada perangkat anda. GNU/Linux cenderung ringan dan cepat, jika dibandingkan oleh Microsoft Windows dan Apple MacOS. Jarang ada bloatware di distribusi Linux. Kalaupun ada, anda bisa menghapus dengan mudah.
 
+Laptop saya sangat cepat dengan GNU/Linux jika dibandingkan laptop bisnis terbaru dengan Windows didalamnya. Saya sudah membuktikan sendiri, anda kapani
 ## Pola Pikir
 <div class="mermaid">
 graph TD
