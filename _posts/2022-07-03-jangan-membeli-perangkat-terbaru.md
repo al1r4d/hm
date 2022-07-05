@@ -1,7 +1,7 @@
 ---
 title: Jangan Membeli Perangkat Terbaru
 layout: post-catatan
-tags: [catatan, tekno]
+tags: [catatan, teknologi]
 mermaid: true
 ---
 Perangkat sekarang mulai canggih dengan fitur - fiturnya. Sebagian orang tergiur, sehingga membelinya. Bagian buruknya, orang menjadi boros, sehingga menumpuk banyak perangkat.
