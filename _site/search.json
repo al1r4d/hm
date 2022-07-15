@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Kelas 12",
+      "category" : "",
+      "tags"     : "smala",
+	"url"      : "/kelas-3",
+	"date"     : "2022-07-15 00:00:00 +0700"
+	
+    } ,
+  
+    {
       "title"    : "Jangan Membeli Perangkat Terbaru",
       "category" : "",
       "tags"     : "catatan, teknologi",
